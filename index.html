@@ -2,19 +2,38 @@
 
 <html lang="en">
 <head>
-  <meta charset="utf-8">
+	<meta charset="utf-8">
 
-  <title>Pilot Flight Planner</title>
-  <meta name="description" content="Tool to assist with planning flights.">
+	<title>Pilot Flight Planner</title>
+	<meta name="description" content="Tool to assist with planning flights.">
 
-  <link rel="stylesheet" href="css/styles.css">
+	<link rel="stylesheet" href="css/styles.css">
 
-  <!--[if lt IE 9]>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script>
-  <![endif]-->
+	<!--[if lt IE 9]>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script>
+	<![endif]-->
 </head>
 
 <body>
-  <script src="js/scripts.js"></script>
+	<div id="header">
+		<table id="table">
+			<thead>
+				<th class="location">Location</th>
+				<th class="gps">GPS</th>
+				<th class="spacer"></th>
+				<th class="insert">Insert</th>
+				<th class="delete">Delete</th>
+			</thead>
+			<tbody id="tablebody">
+			</tbody>
+		</table>
+		<button onclick="addWaypoint()">Add Row</button>
+	</div>
+	<div id="map"/>
+
+	<script src="js/script.js"></script>
+	<script async defer
+	src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCV6l6IF8DNf7lv9ck6rj9PDKGsbtZj-Is&callback=initMap">
+	</script>
 </body>
 </html>
