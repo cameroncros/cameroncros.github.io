@@ -5,7 +5,7 @@
     "location": "ABEAM KUNOTH",
     "coordinate": {
       "lat": -23.542,
-      "long": 133.55
+      "lng": 133.55
     }
   },
   "ABKL": {
@@ -14,7 +14,7 @@
     "location": "ABM KILTO",
     "coordinate": {
       "lat": -17.738,
-      "long": 122.735
+      "lng": 122.735
     }
   },
   "TVT": {
@@ -23,7 +23,7 @@
     "location": "ABM TV TOWERS",
     "coordinate": {
       "lat": -27.475,
-      "long": 152.917
+      "lng": 152.917
     }
   },
   "ACE": {
@@ -32,7 +32,7 @@
     "location": "ACADEMY",
     "coordinate": {
       "lat": -37.897,
-      "long": 145.18
+      "lng": 145.18
     }
   },
   "ANI": {
@@ -41,7 +41,7 @@
     "location": "ACHERON ISLAND",
     "coordinate": {
       "lat": -18.962,
-      "long": 146.637
+      "lng": 146.637
     }
   },
   "ACLD": {
@@ -50,7 +50,7 @@
     "location": "ACLAND",
     "coordinate": {
       "lat": -27.305,
-      "long": 151.688
+      "lng": 151.688
     }
   },
   "ACTY": {
@@ -59,7 +59,7 @@
     "location": "ADELAIDE CBD",
     "coordinate": {
       "lat": -34.933,
-      "long": 138.6
+      "lng": 138.6
     }
   },
   "ADB": {
@@ -68,16 +68,16 @@
     "location": "ADELAIDE RIVER BRIDGE",
     "coordinate": {
       "lat": -12.658,
-      "long": 131.333
+      "lng": 131.333
     }
   },
   "AOG": {
     "code": "AOG",
     "state": "NSW",
-    "location": "ADELONG",
+    "location": "ADElng",
     "coordinate": {
       "lat": -35.308,
-      "long": 148.067
+      "lng": 148.067
     }
   },
   "ADI": {
@@ -86,7 +86,7 @@
     "location": "ADMIRALTY ISLAND",
     "coordinate": {
       "lat": -16.983,
-      "long": 145.775
+      "lng": 145.775
     }
   },
   "ADWD": {
@@ -95,7 +95,7 @@
     "location": "ADVENTURE WORLD",
     "coordinate": {
       "lat": -32.095,
-      "long": 115.818
+      "lng": 115.818
     }
   },
   "ALON": {
@@ -104,7 +104,7 @@
     "location": "ALAWOONA",
     "coordinate": {
       "lat": -34.75,
-      "long": 140.5
+      "lng": 140.5
     }
   },
   "APL": {
@@ -113,7 +113,7 @@
     "location": "ALBERT PARK LAKE",
     "coordinate": {
       "lat": -37.855,
-      "long": 144.975
+      "lng": 144.975
     }
   },
   "AKW": {
@@ -122,7 +122,7 @@
     "location": "ALKIMOS WRECK",
     "coordinate": {
       "lat": -31.608,
-      "long": 115.65
+      "lng": 115.65
     }
   },
   "ALBA": {
@@ -131,7 +131,7 @@
     "location": "ALOOMBA",
     "coordinate": {
       "lat": -17.105,
-      "long": 145.833
+      "lng": 145.833
     }
   },
   "ALOA": {
@@ -140,7 +140,7 @@
     "location": "ALTONA",
     "coordinate": {
       "lat": -37.867,
-      "long": 144.85
+      "lng": 144.85
     }
   },
   "ALTS": {
@@ -149,7 +149,7 @@
     "location": "ALTONA SOUTH",
     "coordinate": {
       "lat": -37.878,
-      "long": 144.81
+      "lng": 144.81
     }
   },
   "ANG": {
@@ -158,7 +158,7 @@
     "location": "ANGLESEA",
     "coordinate": {
       "lat": -38.417,
-      "long": 144.183
+      "lng": 144.183
     }
   },
   "APM": {
@@ -167,7 +167,7 @@
     "location": "ANM PAPER MILL",
     "coordinate": {
       "lat": -36,
-      "long": 146.983
+      "lng": 146.983
     }
   },
   "ANA": {
@@ -176,7 +176,7 @@
     "location": "ANNA BAY",
     "coordinate": {
       "lat": -32.783,
-      "long": 152.083
+      "lng": 152.083
     }
   },
   "ANP": {
@@ -185,7 +185,7 @@
     "location": "ANTILL PLAINS",
     "coordinate": {
       "lat": -19.433,
-      "long": 146.833
+      "lng": 146.833
     }
   },
   "APPN": {
@@ -194,7 +194,7 @@
     "location": "APPIN",
     "coordinate": {
       "lat": -34.2,
-      "long": 150.788
+      "lng": 150.788
     }
   },
   "ARCD": {
@@ -203,7 +203,7 @@
     "location": "ARCADIA HS",
     "coordinate": {
       "lat": -20.867,
-      "long": 138.067
+      "lng": 138.067
     }
   },
   "AEN": {
@@ -212,7 +212,7 @@
     "location": "ARDENT",
     "coordinate": {
       "lat": -26.778,
-      "long": 152.578
+      "lng": 152.578
     }
   },
   "ARE": {
@@ -221,7 +221,7 @@
     "location": "ARMADALE",
     "coordinate": {
       "lat": -32.143,
-      "long": 116.013
+      "lng": 116.013
     }
   },
   "AWP": {
@@ -230,7 +230,7 @@
     "location": "ARROWSMITH PT",
     "coordinate": {
       "lat": -13.25,
-      "long": 136.45
+      "lng": 136.45
     }
   },
   "ASU": {
@@ -239,7 +239,7 @@
     "location": "ARUNDEL SUBSTATION",
     "coordinate": {
       "lat": -35.208,
-      "long": 147.4
+      "lng": 147.4
     }
   },
   "ATN": {
@@ -248,7 +248,7 @@
     "location": "ATHERTON",
     "coordinate": {
       "lat": -17.258,
-      "long": 145.508
+      "lng": 145.508
     }
   },
   "ATG": {
@@ -257,7 +257,7 @@
     "location": "ATTUNGA",
     "coordinate": {
       "lat": -30.933,
-      "long": 150.838
+      "lng": 150.838
     }
   },
   "ATV": {
@@ -266,7 +266,7 @@
     "location": "ATV10",
     "coordinate": {
       "lat": -37.853,
-      "long": 145.168
+      "lng": 145.168
     }
   },
   "ALEC": {
@@ -275,7 +275,7 @@
     "location": "AUSTRALIAN LIVESTOCK EQUINE CENT",
     "coordinate": {
       "lat": -31.135,
-      "long": 150.922
+      "lng": 150.922
     }
   },
   "AVCA": {
@@ -284,7 +284,7 @@
     "location": "AVOCA",
     "coordinate": {
       "lat": -41.782,
-      "long": 147.72
+      "lng": 147.72
     }
   },
   "BADA": {
@@ -293,7 +293,7 @@
     "location": "BABINDA",
     "coordinate": {
       "lat": -17.342,
-      "long": 145.925
+      "lng": 145.925
     }
   },
   "BMP": {
@@ -302,7 +302,7 @@
     "location": "BACCHUS MARSH TOWNSHIP",
     "coordinate": {
       "lat": -37.675,
-      "long": 144.438
+      "lng": 144.438
     }
   },
   "BKRL": {
@@ -311,7 +311,7 @@
     "location": "BAKER LAKE",
     "coordinate": {
       "lat": -26.712,
-      "long": 125.98
+      "lng": 125.98
     }
   },
   "BLHS": {
@@ -320,7 +320,7 @@
     "location": "BALD HILLS MAST",
     "coordinate": {
       "lat": -27.313,
-      "long": 153.017
+      "lng": 153.017
     }
   },
   "BOA": {
@@ -329,7 +329,7 @@
     "location": "BALMORAL",
     "coordinate": {
       "lat": -37.25,
-      "long": 141.833
+      "lng": 141.833
     }
   },
   "BANG": {
@@ -338,7 +338,7 @@
     "location": "BANGALOW",
     "coordinate": {
       "lat": -28.687,
-      "long": 153.517
+      "lng": 153.517
     }
   },
   "BDT": {
@@ -347,7 +347,7 @@
     "location": "BARANDUDA TOWERS",
     "coordinate": {
       "lat": -36.25,
-      "long": 146.85
+      "lng": 146.85
     }
   },
   "BARB": {
@@ -356,7 +356,7 @@
     "location": "BARBAGALLO RACEWAY",
     "coordinate": {
       "lat": -31.667,
-      "long": 115.783
+      "lng": 115.783
     }
   },
   "BHCP": {
@@ -365,7 +365,7 @@
     "location": "BARN HILL CARAVAN PARK",
     "coordinate": {
       "lat": -18.368,
-      "long": 122.04
+      "lng": 122.04
     }
   },
   "BSL": {
@@ -374,7 +374,7 @@
     "location": "BARNES HILL",
     "coordinate": {
       "lat": -27.2,
-      "long": 152.1
+      "lng": 152.1
     }
   },
   "BRNJ": {
@@ -383,7 +383,7 @@
     "location": "BARRENJOEY HEAD",
     "coordinate": {
       "lat": -33.58,
-      "long": 151.327
+      "lng": 151.327
     }
   },
   "BRR": {
@@ -392,7 +392,7 @@
     "location": "BARRINGUN",
     "coordinate": {
       "lat": -29.017,
-      "long": 145.7
+      "lng": 145.7
     }
   },
   "BRGE": {
@@ -401,7 +401,7 @@
     "location": "BARRON GORGE",
     "coordinate": {
       "lat": -16.85,
-      "long": 145.65
+      "lng": 145.65
     }
   },
   "BPN": {
@@ -410,7 +410,7 @@
     "location": "BARWON PRISON",
     "coordinate": {
       "lat": -37.983,
-      "long": 144.35
+      "lng": 144.35
     }
   },
   "KALK": {
@@ -419,7 +419,7 @@
     "location": "BASS STRAIT",
     "coordinate": {
       "lat": -39.5,
-      "long": 142.5
+      "lng": 142.5
     }
   },
   "BATB": {
@@ -428,7 +428,7 @@
     "location": "BATEMANS BAY",
     "coordinate": {
       "lat": -35.717,
-      "long": 150.183
+      "lng": 150.183
     }
   },
   "BTI": {
@@ -437,7 +437,7 @@
     "location": "BATHURST ISLAND",
     "coordinate": {
       "lat": -11.767,
-      "long": 130.617
+      "lng": 130.617
     }
   },
   "BNE": {
@@ -446,7 +446,7 @@
     "location": "BATMAN BRIDGE",
     "coordinate": {
       "lat": -41.218,
-      "long": 146.915
+      "lng": 146.915
     }
   },
   "BAW": {
@@ -455,7 +455,7 @@
     "location": "BAYWEST",
     "coordinate": {
       "lat": -38,
-      "long": 144.927
+      "lng": 144.927
     }
   },
   "BCM": {
@@ -464,7 +464,7 @@
     "location": "BEACHMERE",
     "coordinate": {
       "lat": -27.117,
-      "long": 153.05
+      "lng": 153.05
     }
   },
   "BIV": {
@@ -473,7 +473,7 @@
     "location": "BECTIVE HS",
     "coordinate": {
       "lat": -30.972,
-      "long": 150.738
+      "lng": 150.738
     }
   },
   "BENT": {
@@ -482,7 +482,7 @@
     "location": "BEECHMONT",
     "coordinate": {
       "lat": -28.133,
-      "long": 153.2
+      "lng": 153.2
     }
   },
   "BCH": {
@@ -491,7 +491,7 @@
     "location": "BEECHWORTH",
     "coordinate": {
       "lat": -36.358,
-      "long": 146.688
+      "lng": 146.688
     }
   },
   "BLR": {
@@ -500,7 +500,7 @@
     "location": "BELLBROOK",
     "coordinate": {
       "lat": -30.822,
-      "long": 152.512
+      "lng": 152.512
     }
   },
   "BLIG": {
@@ -509,7 +509,7 @@
     "location": "BELLINGEN",
     "coordinate": {
       "lat": -30.455,
-      "long": 152.897
+      "lng": 152.897
     }
   },
   "BENV": {
@@ -518,7 +518,7 @@
     "location": "BEN NEVIS",
     "coordinate": {
       "lat": -41.412,
-      "long": 147.642
+      "lng": 147.642
     }
   },
   "BND": {
@@ -527,7 +527,7 @@
     "location": "BENDEMEER",
     "coordinate": {
       "lat": -30.883,
-      "long": 151.15
+      "lng": 151.15
     }
   },
   "BEE": {
@@ -536,7 +536,7 @@
     "location": "BERILEE",
     "coordinate": {
       "lat": -33.62,
-      "long": 151.105
+      "lng": 151.105
     }
   },
   "BESI": {
@@ -545,7 +545,7 @@
     "location": "BESSIE POINT",
     "coordinate": {
       "lat": -16.903,
-      "long": 145.813
+      "lng": 145.813
     }
   },
   "BVG": {
@@ -554,7 +554,7 @@
     "location": "BEVERIDGE",
     "coordinate": {
       "lat": -37.472,
-      "long": 144.972
+      "lng": 144.972
     }
   },
   "BDTN": {
@@ -563,7 +563,7 @@
     "location": "BIDDESTON",
     "coordinate": {
       "lat": -27.558,
-      "long": 151.717
+      "lng": 151.717
     }
   },
   "BIBA": {
@@ -572,7 +572,7 @@
     "location": "BINGIL BAY",
     "coordinate": {
       "lat": -17.828,
-      "long": 146.102
+      "lng": 146.102
     }
   },
   "BDWD": {
@@ -581,7 +581,7 @@
     "location": "BIRDWOOD",
     "coordinate": {
       "lat": -34.823,
-      "long": 138.96
+      "lng": 138.96
     }
   },
   "BCT": {
@@ -590,7 +590,7 @@
     "location": "BLACK MT",
     "coordinate": {
       "lat": -21.07,
-      "long": 149.097
+      "lng": 149.097
     }
   },
   "BKM": {
@@ -599,7 +599,7 @@
     "location": "BLACK MT",
     "coordinate": {
       "lat": -35.275,
-      "long": 149.1
+      "lng": 149.1
     }
   },
   "BKIS": {
@@ -608,7 +608,7 @@
     "location": "BLACKSMITH ISLAND",
     "coordinate": {
       "lat": -20.633,
-      "long": 149.067
+      "lng": 149.067
     }
   },
   "BLIC": {
@@ -617,7 +617,7 @@
     "location": "BLI BLI CASTLE",
     "coordinate": {
       "lat": -26.625,
-      "long": 153.033
+      "lng": 153.033
     }
   },
   "BTM": {
@@ -626,7 +626,7 @@
     "location": "BOAT HARBOUR",
     "coordinate": {
       "lat": -40.95,
-      "long": 145.633
+      "lng": 145.633
     }
   },
   "BOAT": {
@@ -635,7 +635,7 @@
     "location": "BOATYARD",
     "coordinate": {
       "lat": -32.15,
-      "long": 115.767
+      "lng": 115.767
     }
   },
   "BODD": {
@@ -644,7 +644,7 @@
     "location": "BODDINGTON",
     "coordinate": {
       "lat": -32.8,
-      "long": 116.467
+      "lng": 116.467
     }
   },
   "BGN": {
@@ -653,7 +653,7 @@
     "location": "BOGANTUNGAN",
     "coordinate": {
       "lat": -23.65,
-      "long": 147.3
+      "lng": 147.3
     }
   },
   "BLTB": {
@@ -662,7 +662,7 @@
     "location": "BOLTE BRIDGE",
     "coordinate": {
       "lat": -37.82,
-      "long": 144.932
+      "lng": 144.932
     }
   },
   "BSP": {
@@ -671,7 +671,7 @@
     "location": "BOND SPRINGS",
     "coordinate": {
       "lat": -23.517,
-      "long": 133.85
+      "lng": 133.85
     }
   },
   "BUVY": {
@@ -680,7 +680,7 @@
     "location": "BOND UNIVERSITY",
     "coordinate": {
       "lat": -28.077,
-      "long": 153.41
+      "lng": 153.41
     }
   },
   "BNG": {
@@ -689,7 +689,7 @@
     "location": "BONEGILLA",
     "coordinate": {
       "lat": -36.145,
-      "long": 147.013
+      "lng": 147.013
     }
   },
   "BONG": {
@@ -698,7 +698,7 @@
     "location": "BONGAREE",
     "coordinate": {
       "lat": -27.083,
-      "long": 153.183
+      "lng": 153.183
     }
   },
   "BOON": {
@@ -707,7 +707,7 @@
     "location": "BOONDALL ENTERTAINMENT CENTRE",
     "coordinate": {
       "lat": -27.342,
-      "long": 153.085
+      "lng": 153.085
     }
   },
   "BOAR": {
@@ -716,7 +716,7 @@
     "location": "BORUMBA RESV",
     "coordinate": {
       "lat": -26.508,
-      "long": 152.583
+      "lng": 152.583
     }
   },
   "BBH": {
@@ -725,7 +725,7 @@
     "location": "BOTANY BAY HEADS",
     "coordinate": {
       "lat": -34.008,
-      "long": 151.242
+      "lng": 151.242
     }
   },
   "BOWEN": {
@@ -734,7 +734,7 @@
     "location": "BOWEN",
     "coordinate": {
       "lat": -20.017,
-      "long": 148.242
+      "lng": 148.242
     }
   },
   "BOWB": {
@@ -743,7 +743,7 @@
     "location": "BOWEN BRIDGE",
     "coordinate": {
       "lat": -42.817,
-      "long": 147.3
+      "lng": 147.3
     }
   },
   "BWV": {
@@ -752,7 +752,7 @@
     "location": "BOWENVILLE",
     "coordinate": {
       "lat": -27.305,
-      "long": 151.488
+      "lng": 151.488
     }
   },
   "BWMS": {
@@ -761,7 +761,7 @@
     "location": "BOWMANS",
     "coordinate": {
       "lat": -34.15,
-      "long": 138.267
+      "lng": 138.267
     }
   },
   "BOW": {
@@ -770,7 +770,7 @@
     "location": "BOWNA",
     "coordinate": {
       "lat": -35.95,
-      "long": 147.117
+      "lng": 147.117
     }
   },
   "BWL": {
@@ -779,7 +779,7 @@
     "location": "BOWRAL",
     "coordinate": {
       "lat": -34.48,
-      "long": 150.418
+      "lng": 150.418
     }
   },
   "BOV": {
@@ -788,7 +788,7 @@
     "location": "BOWRAVILLE",
     "coordinate": {
       "lat": -30.65,
-      "long": 152.85
+      "lng": 152.85
     }
   },
   "BPI": {
@@ -797,7 +797,7 @@
     "location": "BRAMPTON ISLAND",
     "coordinate": {
       "lat": -20.805,
-      "long": 149.267
+      "lng": 149.267
     }
   },
   "BAXT": {
@@ -806,7 +806,7 @@
     "location": "BRANXTON",
     "coordinate": {
       "lat": -32.667,
-      "long": 151.35
+      "lng": 151.35
     }
   },
   "BZA": {
@@ -815,7 +815,7 @@
     "location": "BREEZA",
     "coordinate": {
       "lat": -31.25,
-      "long": 150.467
+      "lng": 150.467
     }
   },
   "BBBG": {
@@ -824,7 +824,7 @@
     "location": "BRIBIE BRIDGE",
     "coordinate": {
       "lat": -27.073,
-      "long": 153.147
+      "lng": 153.147
     }
   },
   "BBI": {
@@ -833,7 +833,7 @@
     "location": "BRIBIE ISLAND",
     "coordinate": {
       "lat": -27,
-      "long": 153.143
+      "lng": 153.143
     }
   },
   "BTO": {
@@ -842,7 +842,7 @@
     "location": "BRIGHTON",
     "coordinate": {
       "lat": -37.912,
-      "long": 144.987
+      "lng": 144.987
     }
   },
   "BTJ": {
@@ -851,7 +851,7 @@
     "location": "BRIGHTON JETTY",
     "coordinate": {
       "lat": -35.017,
-      "long": 138.517
+      "lng": 138.517
     }
   },
   "BRY": {
@@ -860,7 +860,7 @@
     "location": "BRINGELLY",
     "coordinate": {
       "lat": -33.942,
-      "long": 150.728
+      "lng": 150.728
     }
   },
   "BRIN": {
@@ -869,7 +869,7 @@
     "location": "BRINSMEAD",
     "coordinate": {
       "lat": -16.908,
-      "long": 145.708
+      "lng": 145.708
     }
   },
   "BCTY": {
@@ -878,7 +878,7 @@
     "location": "BRISBANE CBD",
     "coordinate": {
       "lat": -27.467,
-      "long": 153.033
+      "lng": 153.033
     }
   },
   "OGABA": {
@@ -887,7 +887,7 @@
     "location": "BRISBANE CRICKET GROUND",
     "coordinate": {
       "lat": -27.48,
-      "long": 153.067
+      "lng": 153.067
     }
   },
   "BDF": {
@@ -896,7 +896,7 @@
     "location": "BROADFORD",
     "coordinate": {
       "lat": -37.208,
-      "long": 145.042
+      "lng": 145.042
     }
   },
   "BYN": {
@@ -905,7 +905,7 @@
     "location": "BROOKLYN",
     "coordinate": {
       "lat": -37.828,
-      "long": 144.858
+      "lng": 144.858
     }
   },
   "BBG": {
@@ -914,7 +914,7 @@
     "location": "BROOKLYN BRIDGE",
     "coordinate": {
       "lat": -33.542,
-      "long": 151.197
+      "lng": 151.197
     }
   },
   "BTON": {
@@ -923,7 +923,7 @@
     "location": "BROOKTON",
     "coordinate": {
       "lat": -32.367,
-      "long": 117.017
+      "lng": 117.017
     }
   },
   "BRI": {
@@ -932,7 +932,7 @@
     "location": "BROUGHTON ISLAND",
     "coordinate": {
       "lat": -32.608,
-      "long": 152.308
+      "lng": 152.308
     }
   },
   "OBSTM": {
@@ -941,7 +941,7 @@
     "location": "BRUCE STADIUM",
     "coordinate": {
       "lat": -35.25,
-      "long": 149.1
+      "lng": 149.1
     }
   },
   "BRH": {
@@ -950,7 +950,7 @@
     "location": "BRUNSWICK HEADS",
     "coordinate": {
       "lat": -28.542,
-      "long": 153.55
+      "lng": 153.55
     }
   },
   "BUCP": {
@@ -959,7 +959,7 @@
     "location": "BUCHAN PT",
     "coordinate": {
       "lat": -16.737,
-      "long": 145.668
+      "lng": 145.668
     }
   },
   "BUCN": {
@@ -968,7 +968,7 @@
     "location": "BUCHANAN HILLS",
     "coordinate": {
       "lat": -18.9,
-      "long": 131.083
+      "lng": 131.083
     }
   },
   "BKD": {
@@ -977,7 +977,7 @@
     "location": "BUCKLAND",
     "coordinate": {
       "lat": -42.612,
-      "long": 147.717
+      "lng": 147.717
     }
   },
   "BPK": {
@@ -986,7 +986,7 @@
     "location": "BUCKLAND PARK WEATHER RADAR",
     "coordinate": {
       "lat": -34.617,
-      "long": 138.468
+      "lng": 138.468
     }
   },
   "BDH": {
@@ -995,7 +995,7 @@
     "location": "BUNDAGEN HEAD",
     "coordinate": {
       "lat": -30.433,
-      "long": 153.075
+      "lng": 153.075
     }
   },
   "BEN": {
@@ -1004,7 +1004,7 @@
     "location": "BUNGENDORE",
     "coordinate": {
       "lat": -35.258,
-      "long": 149.447
+      "lng": 149.447
     }
   },
   "BUG": {
@@ -1013,7 +1013,7 @@
     "location": "BUNGIL BRIDGE",
     "coordinate": {
       "lat": -36.05,
-      "long": 147.35
+      "lng": 147.35
     }
   },
   "URG": {
@@ -1022,7 +1022,7 @@
     "location": "BURBONG",
     "coordinate": {
       "lat": -35.34,
-      "long": 149.31
+      "lng": 149.31
     }
   },
   "BLGH": {
@@ -1031,7 +1031,7 @@
     "location": "BURLEIGH HEADS",
     "coordinate": {
       "lat": -28.092,
-      "long": 153.458
+      "lng": 153.458
     }
   },
   "BUB": {
@@ -1040,7 +1040,7 @@
     "location": "BURNS BEACH",
     "coordinate": {
       "lat": -31.728,
-      "long": 115.717
+      "lng": 115.717
     }
   },
   "BURR": {
@@ -1049,7 +1049,7 @@
     "location": "BURRA",
     "coordinate": {
       "lat": -33.683,
-      "long": 138.933
+      "lng": 138.933
     }
   },
   "BUGA": {
@@ -1058,7 +1058,7 @@
     "location": "BURRAGA",
     "coordinate": {
       "lat": -33.883,
-      "long": 149.567
+      "lng": 149.567
     }
   },
   "BJK": {
@@ -1067,7 +1067,7 @@
     "location": "BURRINJUCK",
     "coordinate": {
       "lat": -35.005,
-      "long": 148.583
+      "lng": 148.583
     }
   },
   "BMK": {
@@ -1076,7 +1076,7 @@
     "location": "BURRUMBUTTOCK",
     "coordinate": {
       "lat": -35.833,
-      "long": 146.8
+      "lng": 146.8
     }
   },
   "BYFD": {
@@ -1085,7 +1085,7 @@
     "location": "BYFORD",
     "coordinate": {
       "lat": -32.217,
-      "long": 116.033
+      "lng": 116.033
     }
   },
   "BYNO": {
@@ -1094,7 +1094,7 @@
     "location": "BYNOE HARBOUR",
     "coordinate": {
       "lat": -12.75,
-      "long": 130.683
+      "lng": 130.683
     }
   },
   "BYRK": {
@@ -1103,7 +1103,7 @@
     "location": "BYROCK",
     "coordinate": {
       "lat": -30.483,
-      "long": 146.4
+      "lng": 146.4
     }
   },
   "BBAY": {
@@ -1112,7 +1112,7 @@
     "location": "BYRON BAY",
     "coordinate": {
       "lat": -28.65,
-      "long": 153.617
+      "lng": 153.617
     }
   },
   "CBLT": {
@@ -1121,7 +1121,7 @@
     "location": "CABLEWAY TERMINAL",
     "coordinate": {
       "lat": -16.848,
-      "long": 145.692
+      "lng": 145.692
     }
   },
   "CABO": {
@@ -1130,7 +1130,7 @@
     "location": "CABOOLTURE",
     "coordinate": {
       "lat": -27.088,
-      "long": 152.95
+      "lng": 152.95
     }
   },
   "CALEN": {
@@ -1139,7 +1139,7 @@
     "location": "CALEN",
     "coordinate": {
       "lat": -20.9,
-      "long": 148.77
+      "lng": 148.77
     }
   },
   "CRDZ": {
@@ -1148,7 +1148,7 @@
     "location": "CALOUNDRA DROPZONE",
     "coordinate": {
       "lat": -26.8,
-      "long": 153.11
+      "lng": 153.11
     }
   },
   "CBRA": {
@@ -1157,7 +1157,7 @@
     "location": "CAMBRAI",
     "coordinate": {
       "lat": -34.658,
-      "long": 139.28
+      "lng": 139.28
     }
   },
   "CPA": {
@@ -1166,7 +1166,7 @@
     "location": "CAMPANIA",
     "coordinate": {
       "lat": -42.667,
-      "long": 147.422
+      "lng": 147.422
     }
   },
   "CLLN": {
@@ -1175,7 +1175,7 @@
     "location": "CAMPBELLTOWN",
     "coordinate": {
       "lat": -41.933,
-      "long": 147.492
+      "lng": 147.492
     }
   },
   "CAMB": {
@@ -1184,7 +1184,7 @@
     "location": "CAMPBELLTOWN UNIVERSITY",
     "coordinate": {
       "lat": -34.072,
-      "long": 150.783
+      "lng": 150.783
     }
   },
   "RCSE": {
@@ -1193,7 +1193,7 @@
     "location": "CANBERRA RACECOURSE",
     "coordinate": {
       "lat": -35.238,
-      "long": 149.137
+      "lng": 149.137
     }
   },
   "CNB": {
@@ -1202,7 +1202,7 @@
     "location": "CANNING BRIDGE",
     "coordinate": {
       "lat": -32.01,
-      "long": 115.85
+      "lng": 115.85
     }
   },
   "CDM": {
@@ -1211,7 +1211,7 @@
     "location": "CANNING DAM",
     "coordinate": {
       "lat": -32.155,
-      "long": 116.125
+      "lng": 116.125
     }
   },
   "CAV": {
@@ -1220,7 +1220,7 @@
     "location": "CANNONVALE",
     "coordinate": {
       "lat": -20.278,
-      "long": 148.692
+      "lng": 148.692
     }
   },
   "CBY": {
@@ -1229,7 +1229,7 @@
     "location": "CANTERBURY RACECOURSE",
     "coordinate": {
       "lat": -33.908,
-      "long": 151.112
+      "lng": 151.112
     }
   },
   "CAPS": {
@@ -1238,7 +1238,7 @@
     "location": "CAPE BANKS",
     "coordinate": {
       "lat": -33.998,
-      "long": 151.245
+      "lng": 151.245
     }
   },
   "CCL": {
@@ -1247,7 +1247,7 @@
     "location": "CAPE CLEVELAND",
     "coordinate": {
       "lat": -19.183,
-      "long": 147.013
+      "lng": 147.013
     }
   },
   "CPY": {
@@ -1256,7 +1256,7 @@
     "location": "CAPE CONWAY",
     "coordinate": {
       "lat": -20.537,
-      "long": 148.928
+      "lng": 148.928
     }
   },
   "CGR": {
@@ -1265,7 +1265,7 @@
     "location": "CAPE GAMBIER",
     "coordinate": {
       "lat": -11.938,
-      "long": 130.967
+      "lng": 130.967
     }
   },
   "CGF": {
@@ -1274,7 +1274,7 @@
     "location": "CAPE GRAFTON",
     "coordinate": {
       "lat": -16.863,
-      "long": 145.917
+      "lng": 145.917
     }
   },
   "CPH": {
@@ -1283,7 +1283,7 @@
     "location": "CAPE HILLSBOROUGH",
     "coordinate": {
       "lat": -20.905,
-      "long": 149.045
+      "lng": 149.045
     }
   },
   "CAJE": {
@@ -1292,7 +1292,7 @@
     "location": "CAPE JERVIS",
     "coordinate": {
       "lat": -35.607,
-      "long": 138.092
+      "lng": 138.092
     }
   },
   "CAKE": {
@@ -1301,7 +1301,7 @@
     "location": "CAPE KEITH",
     "coordinate": {
       "lat": -11.617,
-      "long": 131.467
+      "lng": 131.467
     }
   },
   "CMB": {
@@ -1310,7 +1310,7 @@
     "location": "CAPE LAMBERT",
     "coordinate": {
       "lat": -20.593,
-      "long": 117.183
+      "lng": 117.183
     }
   },
   "CPMN": {
@@ -1319,7 +1319,7 @@
     "location": "CAPE MORETON",
     "coordinate": {
       "lat": -27.033,
-      "long": 153.467
+      "lng": 153.467
     }
   },
   "CPLD": {
@@ -1328,7 +1328,7 @@
     "location": "CAPE PORTLAND",
     "coordinate": {
       "lat": -40.75,
-      "long": 147.95
+      "lng": 147.95
     }
   },
   "CPHE": {
@@ -1337,7 +1337,7 @@
     "location": "CAPE RICHE",
     "coordinate": {
       "lat": -34.6,
-      "long": 118.767
+      "lng": 118.767
     }
   },
   "CAPT": {
@@ -1346,7 +1346,7 @@
     "location": "CAPTAINS FLAT",
     "coordinate": {
       "lat": -35.592,
-      "long": 149.445
+      "lng": 149.445
     }
   },
   "CAU": {
@@ -1355,7 +1355,7 @@
     "location": "CARAMUT",
     "coordinate": {
       "lat": -37.967,
-      "long": 142.517
+      "lng": 142.517
     }
   },
   "CARE": {
@@ -1364,7 +1364,7 @@
     "location": "CARDINIA RESV",
     "coordinate": {
       "lat": -37.958,
-      "long": 145.417
+      "lng": 145.417
     }
   },
   "CDNA": {
@@ -1373,7 +1373,7 @@
     "location": "CARDONA",
     "coordinate": {
       "lat": -23.333,
-      "long": 149
+      "lng": 149
     }
   },
   "CARIN": {
@@ -1382,7 +1382,7 @@
     "location": "CARINDALE SHOPPING CENTRE",
     "coordinate": {
       "lat": -27.5,
-      "long": 153.102
+      "lng": 153.102
     }
   },
   "CIK": {
@@ -1391,7 +1391,7 @@
     "location": "CARRICK",
     "coordinate": {
       "lat": -41.533,
-      "long": 147
+      "lng": 147
     }
   },
   "CARR": {
@@ -1400,7 +1400,7 @@
     "location": "CARRUM",
     "coordinate": {
       "lat": -38.075,
-      "long": 145.12
+      "lng": 145.12
     }
   },
   "CLJ": {
@@ -1409,7 +1409,7 @@
     "location": "CASTLE JUNCTION",
     "coordinate": {
       "lat": -41.505,
-      "long": 147.483
+      "lng": 147.483
     }
   },
   "CTT": {
@@ -1418,7 +1418,7 @@
     "location": "CASTLE PT",
     "coordinate": {
       "lat": -12.35,
-      "long": 131.275
+      "lng": 131.275
     }
   },
   "CRPT": {
@@ -1427,7 +1427,7 @@
     "location": "CASTLEREAGH POINT",
     "coordinate": {
       "lat": -27.192,
-      "long": 153.112
+      "lng": 153.112
     }
   },
   "CCP": {
@@ -1436,7 +1436,7 @@
     "location": "CECIL PLAINS",
     "coordinate": {
       "lat": -27.533,
-      "long": 151.183
+      "lng": 151.183
     }
   },
   "CAO": {
@@ -1445,7 +1445,7 @@
     "location": "CEDUNA OBSERVATORY",
     "coordinate": {
       "lat": -31.867,
-      "long": 133.8
+      "lng": 133.8
     }
   },
   "CBRG": {
@@ -1454,7 +1454,7 @@
     "location": "CENTENARY BRIDGE",
     "coordinate": {
       "lat": -27.528,
-      "long": 152.947
+      "lng": 152.947
     }
   },
   "CERB": {
@@ -1463,7 +1463,7 @@
     "location": "CERBERUS",
     "coordinate": {
       "lat": -37.967,
-      "long": 145
+      "lng": 145
     }
   },
   "CYM": {
@@ -1472,7 +1472,7 @@
     "location": "CHAFFEY DAM",
     "coordinate": {
       "lat": -31.342,
-      "long": 151.133
+      "lng": 151.133
     }
   },
   "CHI": {
@@ -1481,7 +1481,7 @@
     "location": "CHANNEL ISLAND",
     "coordinate": {
       "lat": -12.55,
-      "long": 130.867
+      "lng": 130.867
     }
   },
   "CHAP": {
@@ -1490,7 +1490,7 @@
     "location": "CHARLES PT",
     "coordinate": {
       "lat": -12.383,
-      "long": 130.618
+      "lng": 130.618
     }
   },
   "CHAT": {
@@ -1499,7 +1499,7 @@
     "location": "CHATSWOOD CBD",
     "coordinate": {
       "lat": -33.797,
-      "long": 151.185
+      "lng": 151.185
     }
   },
   "CHN": {
@@ -1508,7 +1508,7 @@
     "location": "CHILTERN",
     "coordinate": {
       "lat": -36.147,
-      "long": 146.607
+      "lng": 146.607
     }
   },
   "CIB": {
@@ -1517,7 +1517,7 @@
     "location": "CHIPBOARD FACTORY",
     "coordinate": {
       "lat": -35.072,
-      "long": 147.405
+      "lng": 147.405
     }
   },
   "COY": {
@@ -1526,7 +1526,7 @@
     "location": "CHOCOLATE FACTORY",
     "coordinate": {
       "lat": -42.8,
-      "long": 147.267
+      "lng": 147.267
     }
   },
   "CNTH": {
@@ -1535,7 +1535,7 @@
     "location": "CHOPPERS NORTH",
     "coordinate": {
       "lat": -33.882,
-      "long": 151.025
+      "lng": 151.025
     }
   },
   "CSTH": {
@@ -1544,7 +1544,7 @@
     "location": "CHOPPERS SOUTH",
     "coordinate": {
       "lat": -33.955,
-      "long": 150.965
+      "lng": 150.965
     }
   },
   "CWST": {
@@ -1553,7 +1553,7 @@
     "location": "CHOPPERS WEST",
     "coordinate": {
       "lat": -33.873,
-      "long": 151.003
+      "lng": 151.003
     }
   },
   "CIH": {
@@ -1562,7 +1562,7 @@
     "location": "CID HARBOUR",
     "coordinate": {
       "lat": -20.25,
-      "long": 148.933
+      "lng": 148.933
     }
   },
   "CYB": {
@@ -1571,7 +1571,7 @@
     "location": "CITY BEACH",
     "coordinate": {
       "lat": -31.942,
-      "long": 115.75
+      "lng": 115.75
     }
   },
   "CEN": {
@@ -1580,7 +1580,7 @@
     "location": "CLEVEDON",
     "coordinate": {
       "lat": -19.397,
-      "long": 147.022
+      "lng": 147.022
     }
   },
   "CVD": {
@@ -1589,7 +1589,7 @@
     "location": "CLEVELAND",
     "coordinate": {
       "lat": -27.52,
-      "long": 153.283
+      "lng": 153.283
     }
   },
   "CFI": {
@@ -1598,7 +1598,7 @@
     "location": "CLIFFY ISLAND",
     "coordinate": {
       "lat": -38.952,
-      "long": 146.702
+      "lng": 146.702
     }
   },
   "CLS": {
@@ -1607,7 +1607,7 @@
     "location": "CLIFTON SPRINGS",
     "coordinate": {
       "lat": -38.15,
-      "long": 144.567
+      "lng": 144.567
     }
   },
   "CGH": {
@@ -1616,7 +1616,7 @@
     "location": "CLONAGH STN",
     "coordinate": {
       "lat": -20.133,
-      "long": 140.683
+      "lng": 140.683
     }
   },
   "CLOY": {
@@ -1625,7 +1625,7 @@
     "location": "CLONEYS CREEK",
     "coordinate": {
       "lat": -20.217,
-      "long": 142.6
+      "lng": 142.6
     }
   },
   "COBA": {
@@ -1634,7 +1634,7 @@
     "location": "COBAKI",
     "coordinate": {
       "lat": -28.183,
-      "long": 153.488
+      "lng": 153.488
     }
   },
   "CKT": {
@@ -1643,7 +1643,7 @@
     "location": "COCKATOO",
     "coordinate": {
       "lat": -37.938,
-      "long": 145.495
+      "lng": 145.495
     }
   },
   "CBI": {
@@ -1652,7 +1652,7 @@
     "location": "COLBINABBIN",
     "coordinate": {
       "lat": -36.583,
-      "long": 144.8
+      "lng": 144.8
     }
   },
   "CGE": {
@@ -1661,7 +1661,7 @@
     "location": "COLLINGULLIE",
     "coordinate": {
       "lat": -35.088,
-      "long": 147.122
+      "lng": 147.122
     }
   },
   "CONG": {
@@ -1670,7 +1670,7 @@
     "location": "COMERONG ISLAND",
     "coordinate": {
       "lat": -34.883,
-      "long": 150.733
+      "lng": 150.733
     }
   },
   "CJN": {
@@ -1679,7 +1679,7 @@
     "location": "CONARA JUNCTION",
     "coordinate": {
       "lat": -41.833,
-      "long": 147.433
+      "lng": 147.433
     }
   },
   "CGM": {
@@ -1688,7 +1688,7 @@
     "location": "CONDONG MILL",
     "coordinate": {
       "lat": -28.317,
-      "long": 153.433
+      "lng": 153.433
     }
   },
   "CBYC": {
@@ -1697,7 +1697,7 @@
     "location": "COOBY CREEK RESV",
     "coordinate": {
       "lat": -27.387,
-      "long": 151.938
+      "lng": 151.938
     }
   },
   "CIS": {
@@ -1706,7 +1706,7 @@
     "location": "COOK ISLAND",
     "coordinate": {
       "lat": -28.197,
-      "long": 153.578
+      "lng": 153.578
     }
   },
   "CLMN": {
@@ -1715,7 +1715,7 @@
     "location": "COOLAMON",
     "coordinate": {
       "lat": -34.817,
-      "long": 147.2
+      "lng": 147.2
     }
   },
   "CMDR": {
@@ -1724,7 +1724,7 @@
     "location": "COOLMUNDA RESV",
     "coordinate": {
       "lat": -28.45,
-      "long": 151.233
+      "lng": 151.233
     }
   },
   "COOL": {
@@ -1733,7 +1733,7 @@
     "location": "COOLUM HI-RISE",
     "coordinate": {
       "lat": -26.528,
-      "long": 153.087
+      "lng": 153.087
     }
   },
   "CORO": {
@@ -1742,7 +1742,7 @@
     "location": "COOROY",
     "coordinate": {
       "lat": -26.417,
-      "long": 152.908
+      "lng": 152.908
     }
   },
   "CPL": {
@@ -1751,7 +1751,7 @@
     "location": "COPPERLODE DAM",
     "coordinate": {
       "lat": -16.987,
-      "long": 145.672
+      "lng": 145.672
     }
   },
   "CPNG": {
@@ -1760,7 +1760,7 @@
     "location": "COPPINS CROSSING",
     "coordinate": {
       "lat": -35.288,
-      "long": 149.043
+      "lng": 149.043
     }
   },
   "CVR": {
@@ -1769,7 +1769,7 @@
     "location": "CORIN RESV",
     "coordinate": {
       "lat": -35.542,
-      "long": 148.833
+      "lng": 148.833
     }
   },
   "COSS": {
@@ -1778,7 +1778,7 @@
     "location": "COSSACK",
     "coordinate": {
       "lat": -20.677,
-      "long": 117.19
+      "lng": 117.19
     }
   },
   "CTE": {
@@ -1787,7 +1787,7 @@
     "location": "COTTESLOE",
     "coordinate": {
       "lat": -31.992,
-      "long": 115.75
+      "lng": 115.75
     }
   },
   "COWI": {
@@ -1796,7 +1796,7 @@
     "location": "COW ISLAND",
     "coordinate": {
       "lat": -20.423,
-      "long": 148.845
+      "lng": 148.845
     }
   },
   "COWR": {
@@ -1805,7 +1805,7 @@
     "location": "COWWARR",
     "coordinate": {
       "lat": -38.015,
-      "long": 146.693
+      "lng": 146.693
     }
   },
   "CML": {
@@ -1814,7 +1814,7 @@
     "location": "CRADLE MOUNTAIN LODGE",
     "coordinate": {
       "lat": -41.595,
-      "long": 145.928
+      "lng": 145.928
     }
   },
   "CBV": {
@@ -1823,7 +1823,7 @@
     "location": "CRAIGBOURNE RESV",
     "coordinate": {
       "lat": -42.55,
-      "long": 147.417
+      "lng": 147.417
     }
   },
   "CGB": {
@@ -1832,7 +1832,7 @@
     "location": "CRAIGIEBURN OVERPASS",
     "coordinate": {
       "lat": -37.603,
-      "long": 144.938
+      "lng": 144.938
     }
   },
   "CRAY": {
@@ -1841,7 +1841,7 @@
     "location": "CRAYFISH",
     "coordinate": {
       "lat": -38.583,
-      "long": 139.75
+      "lng": 139.75
     }
   },
   "CREM": {
@@ -1850,7 +1850,7 @@
     "location": "CREMORNE",
     "coordinate": {
       "lat": -42.958,
-      "long": 147.533
+      "lng": 147.533
     }
   },
   "CES": {
@@ -1859,7 +1859,7 @@
     "location": "CRESSY",
     "coordinate": {
       "lat": -41.692,
-      "long": 147.083
+      "lng": 147.083
     }
   },
   "CWK": {
@@ -1868,7 +1868,7 @@
     "location": "CRESWICK",
     "coordinate": {
       "lat": -37.433,
-      "long": 143.9
+      "lng": 143.9
     }
   },
   "CUL": {
@@ -1877,7 +1877,7 @@
     "location": "CRONULLA",
     "coordinate": {
       "lat": -34.062,
-      "long": 151.153
+      "lng": 151.153
     }
   },
   "CRPC": {
@@ -1886,7 +1886,7 @@
     "location": "CROPPA CREEK",
     "coordinate": {
       "lat": -29.133,
-      "long": 150.3
+      "lng": 150.3
     }
   },
   "CNT": {
@@ -1895,7 +1895,7 @@
     "location": "CROWS NEST",
     "coordinate": {
       "lat": -27.27,
-      "long": 152.055
+      "lng": 152.055
     }
   },
   "CGD": {
@@ -1904,7 +1904,7 @@
     "location": "CUDGEN HEADLAND",
     "coordinate": {
       "lat": -28.265,
-      "long": 153.585
+      "lng": 153.585
     }
   },
   "CCN": {
@@ -1913,7 +1913,7 @@
     "location": "CULCAIRN",
     "coordinate": {
       "lat": -35.667,
-      "long": 147.038
+      "lng": 147.038
     }
   },
   "DAIN": {
@@ -1922,7 +1922,7 @@
     "location": "DAINTREE",
     "coordinate": {
       "lat": -16.25,
-      "long": 145.317
+      "lng": 145.317
     }
   },
   "DLMO": {
@@ -1931,7 +1931,7 @@
     "location": "DALMORE DOWNS",
     "coordinate": {
       "lat": -19.775,
-      "long": 136.002
+      "lng": 136.002
     }
   },
   "DRY": {
@@ -1940,7 +1940,7 @@
     "location": "DALRYE",
     "coordinate": {
       "lat": -20.167,
-      "long": 149.067
+      "lng": 149.067
     }
   },
   "DMW": {
@@ -1949,7 +1949,7 @@
     "location": "DAM WALL",
     "coordinate": {
       "lat": -34.758,
-      "long": 138.722
+      "lng": 138.722
     }
   },
   "DARL": {
@@ -1958,7 +1958,7 @@
     "location": "DARLIMURA",
     "coordinate": {
       "lat": -38.353,
-      "long": 146.215
+      "lng": 146.215
     }
   },
   "DHH": {
@@ -1967,7 +1967,7 @@
     "location": "DARLING HARBOUR",
     "coordinate": {
       "lat": -33.858,
-      "long": 151.2
+      "lng": 151.2
     }
   },
   "DND": {
@@ -1976,7 +1976,7 @@
     "location": "DARWIN RIVER DAM",
     "coordinate": {
       "lat": -12.825,
-      "long": 130.967
+      "lng": 130.967
     }
   },
   "DBO": {
@@ -1985,7 +1985,7 @@
     "location": "DAYBORO",
     "coordinate": {
       "lat": -27.2,
-      "long": 152.822
+      "lng": 152.822
     }
   },
   "DFD": {
@@ -1994,7 +1994,7 @@
     "location": "DAYLESFORD",
     "coordinate": {
       "lat": -37.35,
-      "long": 144.15
+      "lng": 144.15
     }
   },
   "DGY": {
@@ -2003,7 +2003,7 @@
     "location": "DE GREY HS",
     "coordinate": {
       "lat": -20.175,
-      "long": 119.17
+      "lng": 119.17
     }
   },
   "DSS": {
@@ -2012,7 +2012,7 @@
     "location": "DEDERANG SUBSTATION",
     "coordinate": {
       "lat": -36.453,
-      "long": 146.99
+      "lng": 146.99
     }
   },
   "DPW": {
@@ -2021,7 +2021,7 @@
     "location": "DEEP WELL",
     "coordinate": {
       "lat": -24.358,
-      "long": 134.05
+      "lng": 134.05
     }
   },
   "DEL": {
@@ -2030,7 +2030,7 @@
     "location": "DELORAINE",
     "coordinate": {
       "lat": -41.533,
-      "long": 146.667
+      "lng": 146.667
     }
   },
   "DNP": {
@@ -2039,7 +2039,7 @@
     "location": "DENHAM PASSAGE",
     "coordinate": {
       "lat": -11.333,
-      "long": 143.333
+      "lng": 143.333
     }
   },
   "DWB": {
@@ -2048,7 +2048,7 @@
     "location": "DERWENT BRIDGE",
     "coordinate": {
       "lat": -42.133,
-      "long": 146.233
+      "lng": 146.233
     }
   },
   "DVM": {
@@ -2057,7 +2057,7 @@
     "location": "DEVILS MARBLES",
     "coordinate": {
       "lat": -20.533,
-      "long": 134.25
+      "lng": 134.25
     }
   },
   "DIBE": {
@@ -2066,7 +2066,7 @@
     "location": "DICKY BEACH",
     "coordinate": {
       "lat": -26.782,
-      "long": 153.138
+      "lng": 153.138
     }
   },
   "DODI": {
@@ -2075,7 +2075,7 @@
     "location": "DODDS ISLAND",
     "coordinate": {
       "lat": -28.248,
-      "long": 153.533
+      "lng": 153.533
     }
   },
   "DLPT": {
@@ -2084,7 +2084,7 @@
     "location": "DOLLS POINT",
     "coordinate": {
       "lat": -33.995,
-      "long": 151.148
+      "lng": 151.148
     }
   },
   "DSN": {
@@ -2093,7 +2093,7 @@
     "location": "DONCASTER SHOPPINGTOWN",
     "coordinate": {
       "lat": -37.783,
-      "long": 145.125
+      "lng": 145.125
     }
   },
   "DOP": {
@@ -2102,7 +2102,7 @@
     "location": "DONNINGTON AIRPARK",
     "coordinate": {
       "lat": -19.602,
-      "long": 146.842
+      "lng": 146.842
     }
   },
   "DRO": {
@@ -2111,7 +2111,7 @@
     "location": "DORRIGO",
     "coordinate": {
       "lat": -30.342,
-      "long": 152.713
+      "lng": 152.713
     }
   },
   "DCIS": {
@@ -2120,7 +2120,7 @@
     "location": "DOUBLE CONE ISLAND",
     "coordinate": {
       "lat": -20.1,
-      "long": 148.717
+      "lng": 148.717
     }
   },
   "DOU": {
@@ -2129,7 +2129,7 @@
     "location": "DOUBLE ISLAND",
     "coordinate": {
       "lat": -16.725,
-      "long": 145.683
+      "lng": 145.683
     }
   },
   "DLP": {
@@ -2138,7 +2138,7 @@
     "location": "DOUBLE ISLAND PT",
     "coordinate": {
       "lat": -25.917,
-      "long": 153.183
+      "lng": 153.183
     }
   },
   "DBPT": {
@@ -2147,7 +2147,7 @@
     "location": "DOUBLE PT",
     "coordinate": {
       "lat": -11.867,
-      "long": 142.9
+      "lng": 142.9
     }
   },
   "DRLD": {
@@ -2156,7 +2156,7 @@
     "location": "DREAMWORLD",
     "coordinate": {
       "lat": -27.865,
-      "long": 153.317
+      "lng": 153.317
     }
   },
   "DRM": {
@@ -2165,7 +2165,7 @@
     "location": "DROMANA",
     "coordinate": {
       "lat": -38.333,
-      "long": 144.967
+      "lng": 144.967
     }
   },
   "DRP": {
@@ -2174,7 +2174,7 @@
     "location": "DROUGHTY PT",
     "coordinate": {
       "lat": -42.933,
-      "long": 147.417
+      "lng": 147.417
     }
   },
   "DRN": {
@@ -2183,7 +2183,7 @@
     "location": "DROUIN",
     "coordinate": {
       "lat": -38.133,
-      "long": 145.85
+      "lng": 145.85
     }
   },
   "DCRK": {
@@ -2192,7 +2192,7 @@
     "location": "DRY CREEK",
     "coordinate": {
       "lat": -34.833,
-      "long": 138.583
+      "lng": 138.583
     }
   },
   "DAG": {
@@ -2201,7 +2201,7 @@
     "location": "DUARINGA",
     "coordinate": {
       "lat": -23.72,
-      "long": 149.668
+      "lng": 149.668
     }
   },
   "DUB": {
@@ -2210,7 +2210,7 @@
     "location": "DUBLIN",
     "coordinate": {
       "lat": -34.455,
-      "long": 138.35
+      "lng": 138.35
     }
   },
   "DLY": {
@@ -2219,7 +2219,7 @@
     "location": "DUNALLEY",
     "coordinate": {
       "lat": -42.892,
-      "long": 147.805
+      "lng": 147.805
     }
   },
   "DGN": {
@@ -2228,7 +2228,7 @@
     "location": "DUNGOWAN",
     "coordinate": {
       "lat": -31.217,
-      "long": 151.117
+      "lng": 151.117
     }
   },
   "DUWN": {
@@ -2237,7 +2237,7 @@
     "location": "DUNGOWAN DAM",
     "coordinate": {
       "lat": -31.4,
-      "long": 151.35
+      "lng": 151.35
     }
   },
   "DUA": {
@@ -2246,7 +2246,7 @@
     "location": "DURI GAP",
     "coordinate": {
       "lat": -31.2,
-      "long": 150.7
+      "lng": 150.7
     }
   },
   "DMT": {
@@ -2255,7 +2255,7 @@
     "location": "DURI MT",
     "coordinate": {
       "lat": -31.205,
-      "long": 150.73
+      "lng": 150.73
     }
   },
   "DONG": {
@@ -2264,7 +2264,7 @@
     "location": "DURONG",
     "coordinate": {
       "lat": -26.4,
-      "long": 151.25
+      "lng": 151.25
     }
   },
   "DTON": {
@@ -2273,7 +2273,7 @@
     "location": "DUTTON",
     "coordinate": {
       "lat": -34.367,
-      "long": 139.133
+      "lng": 139.133
     }
   },
   "EAN": {
@@ -2282,7 +2282,7 @@
     "location": "EAGLE HAWK NECK",
     "coordinate": {
       "lat": -43.017,
-      "long": 147.9
+      "lng": 147.9
     }
   },
   "EARH": {
@@ -2291,7 +2291,7 @@
     "location": "EARL HILL",
     "coordinate": {
       "lat": -16.8,
-      "long": 145.7
+      "lng": 145.7
     }
   },
   "EARV": {
@@ -2300,7 +2300,7 @@
     "location": "EARLVILLE",
     "coordinate": {
       "lat": -16.955,
-      "long": 145.738
+      "lng": 145.738
     }
   },
   "EAM": {
@@ -2309,7 +2309,7 @@
     "location": "EAST ARM",
     "coordinate": {
       "lat": -12.517,
-      "long": 130.933
+      "lng": 130.933
     }
   },
   "EGT": {
@@ -2318,7 +2318,7 @@
     "location": "EAST GRETA",
     "coordinate": {
       "lat": -32.738,
-      "long": 151.538
+      "lng": 151.538
     }
   },
   "ETP": {
@@ -2327,7 +2327,7 @@
     "location": "EAST PT",
     "coordinate": {
       "lat": -12.408,
-      "long": 130.817
+      "lng": 130.817
     }
   },
   "EDP": {
@@ -2336,7 +2336,7 @@
     "location": "EDDYSTONE PT",
     "coordinate": {
       "lat": -40.998,
-      "long": 148.348
+      "lng": 148.348
     }
   },
   "EDT": {
@@ -2345,7 +2345,7 @@
     "location": "EDMONTON",
     "coordinate": {
       "lat": -17.025,
-      "long": 145.73
+      "lng": 145.73
     }
   },
   "ELDO": {
@@ -2354,7 +2354,7 @@
     "location": "ELDORADO",
     "coordinate": {
       "lat": -36.312,
-      "long": 146.522
+      "lng": 146.522
     }
   },
   "ERB": {
@@ -2363,7 +2363,7 @@
     "location": "ELIZABETH RIVER BRIDGE",
     "coordinate": {
       "lat": -12.543,
-      "long": 130.975
+      "lng": 130.975
     }
   },
   "EMY": {
@@ -2372,7 +2372,7 @@
     "location": "EMILY GAP",
     "coordinate": {
       "lat": -23.74,
-      "long": 133.942
+      "lng": 133.942
     }
   },
   "EDOR": {
@@ -2381,7 +2381,7 @@
     "location": "ENDEAVOUR REEF",
     "coordinate": {
       "lat": -15.783,
-      "long": 145.567
+      "lng": 145.567
     }
   },
   "EPPG": {
@@ -2390,7 +2390,7 @@
     "location": "EPPING",
     "coordinate": {
       "lat": -37.643,
-      "long": 145.025
+      "lng": 145.025
     }
   },
   "ERSK": {
@@ -2399,7 +2399,7 @@
     "location": "ERSKINEVILLE OVAL",
     "coordinate": {
       "lat": -33.902,
-      "long": 151.19
+      "lng": 151.19
     }
   },
   "ETON": {
@@ -2408,7 +2408,7 @@
     "location": "ETON",
     "coordinate": {
       "lat": -21.267,
-      "long": 148.972
+      "lng": 148.972
     }
   },
   "EMI": {
@@ -2417,7 +2417,7 @@
     "location": "EUMUNDI",
     "coordinate": {
       "lat": -26.48,
-      "long": 152.953
+      "lng": 152.953
     }
   },
   "EWI": {
@@ -2426,7 +2426,7 @@
     "location": "EWANINGA",
     "coordinate": {
       "lat": -23.983,
-      "long": 133.933
+      "lng": 133.933
     }
   },
   "EMD": {
@@ -2435,7 +2435,7 @@
     "location": "EWEN MADDOCK DAM",
     "coordinate": {
       "lat": -26.778,
-      "long": 153.008
+      "lng": 153.008
     }
   },
   "FCP": {
@@ -2444,7 +2444,7 @@
     "location": "FALSE CAPE",
     "coordinate": {
       "lat": -16.875,
-      "long": 145.85
+      "lng": 145.85
     }
   },
   "FHS": {
@@ -2453,7 +2453,7 @@
     "location": "FARRER HIGH SCHOOL",
     "coordinate": {
       "lat": -31.142,
-      "long": 150.983
+      "lng": 150.983
     }
   },
   "FDP": {
@@ -2462,7 +2462,7 @@
     "location": "FEDERATION PEAK",
     "coordinate": {
       "lat": -43.267,
-      "long": 146.45
+      "lng": 146.45
     }
   },
   "FNVL": {
@@ -2471,7 +2471,7 @@
     "location": "FERNVALE",
     "coordinate": {
       "lat": -27.455,
-      "long": 152.653
+      "lng": 152.653
     }
   },
   "FLDI": {
@@ -2480,7 +2480,7 @@
     "location": "FIELD ISLAND",
     "coordinate": {
       "lat": -12.1,
-      "long": 132.383
+      "lng": 132.383
     }
   },
   "FISH": {
@@ -2489,7 +2489,7 @@
     "location": "FISHERMANS ISLAND",
     "coordinate": {
       "lat": -27.387,
-      "long": 153.177
+      "lng": 153.177
     }
   },
   "FIT": {
@@ -2498,7 +2498,7 @@
     "location": "FITNESS CAMP",
     "coordinate": {
       "lat": -35.167,
-      "long": 147.622
+      "lng": 147.622
     }
   },
   "FID": {
@@ -2507,7 +2507,7 @@
     "location": "FITZROY ISLAND",
     "coordinate": {
       "lat": -16.933,
-      "long": 145.992
+      "lng": 145.992
     }
   },
   "FGN": {
@@ -2516,7 +2516,7 @@
     "location": "FLEMINGTON",
     "coordinate": {
       "lat": -37.793,
-      "long": 144.912
+      "lng": 144.912
     }
   },
   "FPK": {
@@ -2525,7 +2525,7 @@
     "location": "FLINDERS PEAK",
     "coordinate": {
       "lat": -27.817,
-      "long": 152.808
+      "lng": 152.808
     }
   },
   "FYN": {
@@ -2534,7 +2534,7 @@
     "location": "FLYNN",
     "coordinate": {
       "lat": -38.193,
-      "long": 146.673
+      "lng": 146.673
     }
   },
   "FOOT": {
@@ -2543,7 +2543,7 @@
     "location": "FOOTBALL PARK",
     "coordinate": {
       "lat": -34.882,
-      "long": 138.495
+      "lng": 138.495
     }
   },
   "FMN": {
@@ -2552,7 +2552,7 @@
     "location": "FORMARTIN",
     "coordinate": {
       "lat": -27.397,
-      "long": 151.408
+      "lng": 151.408
     }
   },
   "FDL": {
@@ -2561,7 +2561,7 @@
     "location": "FORRESTDALE LAKE",
     "coordinate": {
       "lat": -32.16,
-      "long": 115.93
+      "lng": 115.93
     }
   },
   "FFLD": {
@@ -2570,7 +2570,7 @@
     "location": "FORRESTFIELD",
     "coordinate": {
       "lat": -31.988,
-      "long": 116.018
+      "lng": 116.018
     }
   },
   "FOWB": {
@@ -2579,7 +2579,7 @@
     "location": "FOWLERS BAY",
     "coordinate": {
       "lat": -31.983,
-      "long": 132.433
+      "lng": 132.433
     }
   },
   "FRLG": {
@@ -2588,7 +2588,7 @@
     "location": "FREELING",
     "coordinate": {
       "lat": -34.457,
-      "long": 138.808
+      "lng": 138.808
     }
   },
   "FWO": {
@@ -2597,7 +2597,7 @@
     "location": "FREEWAY OVERPASS",
     "coordinate": {
       "lat": -37.795,
-      "long": 144.993
+      "lng": 144.993
     }
   },
   "FRE": {
@@ -2606,7 +2606,7 @@
     "location": "FREMANTLE",
     "coordinate": {
       "lat": -32.058,
-      "long": 115.742
+      "lng": 115.742
     }
   },
   "FREM": {
@@ -2615,7 +2615,7 @@
     "location": "FREMANTLE GOLF COURSE",
     "coordinate": {
       "lat": -32.055,
-      "long": 115.773
+      "lng": 115.773
     }
   },
   "FRWV": {
@@ -2624,7 +2624,7 @@
     "location": "FRESHWATER VALLEY",
     "coordinate": {
       "lat": -16.95,
-      "long": 145.688
+      "lng": 145.688
     }
   },
   "GALGA": {
@@ -2633,7 +2633,7 @@
     "location": "GALGA",
     "coordinate": {
       "lat": -34.717,
-      "long": 139.967
+      "lng": 139.967
     }
   },
   "GGN": {
@@ -2642,7 +2642,7 @@
     "location": "GALLANGOWAN",
     "coordinate": {
       "lat": -26.433,
-      "long": 152.328
+      "lng": 152.328
     }
   },
   "GAE": {
@@ -2651,7 +2651,7 @@
     "location": "GALLILEE",
     "coordinate": {
       "lat": -22.383,
-      "long": 145.983
+      "lng": 145.983
     }
   },
   "GWTR": {
@@ -2660,7 +2660,7 @@
     "location": "GAOL WATER TOWER",
     "coordinate": {
       "lat": -23.858,
-      "long": 133.8
+      "lng": 133.8
     }
   },
   "GST": {
@@ -2669,7 +2669,7 @@
     "location": "GATE SOUTH",
     "coordinate": {
       "lat": -31.29,
-      "long": 150.685
+      "lng": 150.685
     }
   },
   "GWT": {
@@ -2678,7 +2678,7 @@
     "location": "GATE WEST",
     "coordinate": {
       "lat": -31.022,
-      "long": 150.572
+      "lng": 150.572
     }
   },
   "GWB": {
@@ -2687,7 +2687,7 @@
     "location": "GATEWAY BRIDGE",
     "coordinate": {
       "lat": -27.447,
-      "long": 153.1
+      "lng": 153.1
     }
   },
   "GEK": {
@@ -2696,7 +2696,7 @@
     "location": "GEMBROOK",
     "coordinate": {
       "lat": -37.95,
-      "long": 145.55
+      "lng": 145.55
     }
   },
   "GRB": {
@@ -2705,7 +2705,7 @@
     "location": "GEORGES RIVER BRIDGE",
     "coordinate": {
       "lat": -34.003,
-      "long": 151.11
+      "lng": 151.11
     }
   },
   "GEP": {
@@ -2714,7 +2714,7 @@
     "location": "GEPPS CROSS",
     "coordinate": {
       "lat": -34.85,
-      "long": 138.6
+      "lng": 138.6
     }
   },
   "GOY": {
@@ -2723,7 +2723,7 @@
     "location": "GEROGERY",
     "coordinate": {
       "lat": -35.838,
-      "long": 146.992
+      "lng": 146.992
     }
   },
   "GNR": {
@@ -2732,7 +2732,7 @@
     "location": "GIBSON REEF",
     "coordinate": {
       "lat": -17.317,
-      "long": 146.35
+      "lng": 146.35
     }
   },
   "GIM": {
@@ -2741,7 +2741,7 @@
     "location": "GILBERLAND MINE",
     "coordinate": {
       "lat": -19.3,
-      "long": 143.6
+      "lng": 143.6
     }
   },
   "GIRU": {
@@ -2750,7 +2750,7 @@
     "location": "GIRU",
     "coordinate": {
       "lat": -19.513,
-      "long": 147.105
+      "lng": 147.105
     }
   },
   "GVB": {
@@ -2759,7 +2759,7 @@
     "location": "GLADESVILLE BRIDGE",
     "coordinate": {
       "lat": -33.842,
-      "long": 151.147
+      "lng": 151.147
     }
   },
   "GBRY": {
@@ -2768,7 +2768,7 @@
     "location": "GLEN BRAY",
     "coordinate": {
       "lat": -35.925,
-      "long": 147.008
+      "lng": 147.008
     }
   },
   "GBR": {
@@ -2777,7 +2777,7 @@
     "location": "GLENBURN",
     "coordinate": {
       "lat": -37.425,
-      "long": 145.422
+      "lng": 145.422
     }
   },
   "GLEN": {
@@ -2786,7 +2786,7 @@
     "location": "GLENLOCH INTERCHANGE",
     "coordinate": {
       "lat": -35.285,
-      "long": 149.085
+      "lng": 149.085
     }
   },
   "GMN": {
@@ -2795,7 +2795,7 @@
     "location": "GLENMORGAN",
     "coordinate": {
       "lat": -27.25,
-      "long": 149.683
+      "lng": 149.683
     }
   },
   "GLC": {
@@ -2804,7 +2804,7 @@
     "location": "GLENORCHY",
     "coordinate": {
       "lat": -31.917,
-      "long": 139.783
+      "lng": 139.783
     }
   },
   "GRE": {
@@ -2813,7 +2813,7 @@
     "location": "GLENREAGH",
     "coordinate": {
       "lat": -30.055,
-      "long": 152.978
+      "lng": 152.978
     }
   },
   "GRK": {
@@ -2822,7 +2822,7 @@
     "location": "GLENROCK HS",
     "coordinate": {
       "lat": -15.117,
-      "long": 145.083
+      "lng": 145.083
     }
   },
   "GCR": {
@@ -2831,7 +2831,7 @@
     "location": "GLOUCESTER",
     "coordinate": {
       "lat": -32.005,
-      "long": 151.967
+      "lng": 151.967
     }
   },
   "GMH": {
@@ -2840,7 +2840,7 @@
     "location": "GMH",
     "coordinate": {
       "lat": -38.008,
-      "long": 145.238
+      "lng": 145.238
     }
   },
   "GOI": {
@@ -2849,7 +2849,7 @@
     "location": "GOLDSMITH ISLAND",
     "coordinate": {
       "lat": -20.683,
-      "long": 149.15
+      "lng": 149.15
     }
   },
   "GON": {
@@ -2858,7 +2858,7 @@
     "location": "GOODNA",
     "coordinate": {
       "lat": -27.617,
-      "long": 152.888
+      "lng": 152.888
     }
   },
   "GGV": {
@@ -2867,7 +2867,7 @@
     "location": "GOOGONG RESV",
     "coordinate": {
       "lat": -35.422,
-      "long": 149.262
+      "lng": 149.262
     }
   },
   "GMBG": {
@@ -2876,7 +2876,7 @@
     "location": "GOOMBUNGEE",
     "coordinate": {
       "lat": -27.308,
-      "long": 151.85
+      "lng": 151.85
     }
   },
   "GNN": {
@@ -2885,7 +2885,7 @@
     "location": "GOONANEMAN",
     "coordinate": {
       "lat": -25.433,
-      "long": 152.133
+      "lng": 152.133
     }
   },
   "GGO": {
@@ -2894,7 +2894,7 @@
     "location": "GOONOO GOONOO HS",
     "coordinate": {
       "lat": -31.31,
-      "long": 150.905
+      "lng": 150.905
     }
   },
   "GOV": {
@@ -2903,7 +2903,7 @@
     "location": "GORDONVALE",
     "coordinate": {
       "lat": -17.088,
-      "long": 145.783
+      "lng": 145.783
     }
   },
   "GOW": {
@@ -2912,7 +2912,7 @@
     "location": "GOWRIE JUNCTION",
     "coordinate": {
       "lat": -27.5,
-      "long": 151.887
+      "lng": 151.887
     }
   },
   "GRAA": {
@@ -2921,7 +2921,7 @@
     "location": "GRANYA",
     "coordinate": {
       "lat": -36.112,
-      "long": 147.317
+      "lng": 147.317
     }
   },
   "GVH": {
@@ -2930,7 +2930,7 @@
     "location": "GRAVELLY BEACH",
     "coordinate": {
       "lat": -41.288,
-      "long": 146.972
+      "lng": 146.972
     }
   },
   "GRHL": {
@@ -2939,7 +2939,7 @@
     "location": "GREEN HILLS",
     "coordinate": {
       "lat": -31.925,
-      "long": 116.958
+      "lng": 116.958
     }
   },
   "GNIS": {
@@ -2948,7 +2948,7 @@
     "location": "GREEN ISLAND (CAIRNS)",
     "coordinate": {
       "lat": -16.758,
-      "long": 145.975
+      "lng": 145.975
     }
   },
   "GRL": {
@@ -2957,7 +2957,7 @@
     "location": "GREEN ISLAND (MACKAY)",
     "coordinate": {
       "lat": -20.983,
-      "long": 149.15
+      "lng": 149.15
     }
   },
   "GRNH": {
@@ -2966,7 +2966,7 @@
     "location": "GREENHILL",
     "coordinate": {
       "lat": -17.04,
-      "long": 145.805
+      "lng": 145.805
     }
   },
   "GNM": {
@@ -2975,7 +2975,7 @@
     "location": "GREENMOUNT",
     "coordinate": {
       "lat": -27.783,
-      "long": 151.95
+      "lng": 151.95
     }
   },
   "GRRV": {
@@ -2984,7 +2984,7 @@
     "location": "GROSE RIVER",
     "coordinate": {
       "lat": -33.615,
-      "long": 150.67
+      "lng": 150.67
     }
   },
   "GDG": {
@@ -2993,7 +2993,7 @@
     "location": "GUNDAGAI",
     "coordinate": {
       "lat": -35.062,
-      "long": 148.103
+      "lng": 148.103
     }
   },
   "GUP": {
@@ -3002,7 +3002,7 @@
     "location": "GUNN PT",
     "coordinate": {
       "lat": -12.183,
-      "long": 130.992
+      "lng": 130.992
     }
   },
   "GUNN": {
@@ -3011,7 +3011,7 @@
     "location": "GUNNING",
     "coordinate": {
       "lat": -34.782,
-      "long": 149.267
+      "lng": 149.267
     }
   },
   "GUNG": {
@@ -3020,7 +3020,7 @@
     "location": "GUTHALUNGRA",
     "coordinate": {
       "lat": -19.933,
-      "long": 147.833
+      "lng": 147.833
     }
   },
   "HADEN": {
@@ -3029,7 +3029,7 @@
     "location": "HADEN",
     "coordinate": {
       "lat": -27.22,
-      "long": 151.888
+      "lng": 151.888
     }
   },
   "HSP": {
@@ -3038,7 +3038,7 @@
     "location": "HADSPEN",
     "coordinate": {
       "lat": -41.508,
-      "long": 147.058
+      "lng": 147.058
     }
   },
   "HALL": {
@@ -3047,7 +3047,7 @@
     "location": "HALL",
     "coordinate": {
       "lat": -35.168,
-      "long": 149.068
+      "lng": 149.068
     }
   },
   "HMM": {
@@ -3056,7 +3056,7 @@
     "location": "HAMMOND ISLAND",
     "coordinate": {
       "lat": -10.533,
-      "long": 142.217
+      "lng": 142.217
     }
   },
   "HMN": {
@@ -3065,7 +3065,7 @@
     "location": "HAMPTON",
     "coordinate": {
       "lat": -27.358,
-      "long": 152.067
+      "lng": 152.067
     }
   },
   "HAVY": {
@@ -3074,7 +3074,7 @@
     "location": "HAPPY VALLEY",
     "coordinate": {
       "lat": -26.808,
-      "long": 153.133
+      "lng": 153.133
     }
   },
   "HBB": {
@@ -3083,7 +3083,7 @@
     "location": "HARBOUR BRIDGE",
     "coordinate": {
       "lat": -33.853,
-      "long": 151.208
+      "lng": 151.208
     }
   },
   "HAF": {
@@ -3092,7 +3092,7 @@
     "location": "HAREFIELD",
     "coordinate": {
       "lat": -34.963,
-      "long": 147.517
+      "lng": 147.517
     }
   },
   "HGTE": {
@@ -3101,7 +3101,7 @@
     "location": "HARROGATE",
     "coordinate": {
       "lat": -34.953,
-      "long": 139.018
+      "lng": 139.018
     }
   },
   "HARV": {
@@ -3110,7 +3110,7 @@
     "location": "HARVEY",
     "coordinate": {
       "lat": -33.083,
-      "long": 115.9
+      "lng": 115.9
     }
   },
   "HSTI": {
@@ -3119,7 +3119,7 @@
     "location": "HASTINGS",
     "coordinate": {
       "lat": -28.3,
-      "long": 145.183
+      "lng": 145.183
     }
   },
   "HASS": {
@@ -3128,7 +3128,7 @@
     "location": "HASTINGS PT",
     "coordinate": {
       "lat": -28.358,
-      "long": 153.58
+      "lng": 153.58
     }
   },
   "HATF": {
@@ -3137,7 +3137,7 @@
     "location": "HATFIELD",
     "coordinate": {
       "lat": -33.7,
-      "long": 143.65
+      "lng": 143.65
     }
   },
   "HVI": {
@@ -3146,7 +3146,7 @@
     "location": "HAVANNAH ISLAND",
     "coordinate": {
       "lat": -18.845,
-      "long": 146.538
+      "lng": 146.538
     }
   },
   "HPT": {
@@ -3155,7 +3155,7 @@
     "location": "HAY PT",
     "coordinate": {
       "lat": -21.278,
-      "long": 149.292
+      "lng": 149.292
     }
   },
   "HAZ": {
@@ -3164,7 +3164,7 @@
     "location": "HAZELWOOD ISLAND",
     "coordinate": {
       "lat": -20.283,
-      "long": 149.083
+      "lng": 149.083
     }
   },
   "HEAT": {
@@ -3173,7 +3173,7 @@
     "location": "HEATHCOTE TOWNSHIP",
     "coordinate": {
       "lat": -36.917,
-      "long": 144.7
+      "lng": 144.7
     }
   },
   "HRR": {
@@ -3182,7 +3182,7 @@
     "location": "HELENA RIVER RESV",
     "coordinate": {
       "lat": -32.002,
-      "long": 116.227
+      "lng": 116.227
     }
   },
   "HNB": {
@@ -3191,7 +3191,7 @@
     "location": "HELENSBURGH",
     "coordinate": {
       "lat": -34.192,
-      "long": 150.975
+      "lng": 150.975
     }
   },
   "HED": {
@@ -3200,7 +3200,7 @@
     "location": "HELIDON",
     "coordinate": {
       "lat": -27.55,
-      "long": 152.133
+      "lng": 152.133
     }
   },
   "HENTY": {
@@ -3209,7 +3209,7 @@
     "location": "HENTY",
     "coordinate": {
       "lat": -35.525,
-      "long": 147.033
+      "lng": 147.033
     }
   },
   "HKE": {
@@ -3218,7 +3218,7 @@
     "location": "HERDSMAN LAKE",
     "coordinate": {
       "lat": -31.92,
-      "long": 115.813
+      "lng": 115.813
     }
   },
   "HXB": {
@@ -3227,7 +3227,7 @@
     "location": "HEXHAM BRIDGE",
     "coordinate": {
       "lat": -32.83,
-      "long": 151.69
+      "lng": 151.69
     }
   },
   "HIPA": {
@@ -3236,7 +3236,7 @@
     "location": "HIGH PERFORMANCE AREA 3",
     "coordinate": {
       "lat": -27.15,
-      "long": 153.847
+      "lng": 153.847
     }
   },
   "HVTG": {
@@ -3245,7 +3245,7 @@
     "location": "HIGH VOLTAGE",
     "coordinate": {
       "lat": -17.015,
-      "long": 145.763
+      "lng": 145.763
     }
   },
   "HIM": {
@@ -3254,7 +3254,7 @@
     "location": "HILTON MINE",
     "coordinate": {
       "lat": -20.567,
-      "long": 139.483
+      "lng": 139.483
     }
   },
   "HNCH": {
@@ -3263,7 +3263,7 @@
     "location": "HINCHINBROOK ISLAND",
     "coordinate": {
       "lat": -18.367,
-      "long": 146.25
+      "lng": 146.25
     }
   },
   "HDWL": {
@@ -3272,7 +3272,7 @@
     "location": "HINZE DAM WALL",
     "coordinate": {
       "lat": -28.05,
-      "long": 153.287
+      "lng": 153.287
     }
   },
   "HCTY": {
@@ -3281,7 +3281,7 @@
     "location": "HOBART CBD",
     "coordinate": {
       "lat": -42.883,
-      "long": 147.333
+      "lng": 147.333
     }
   },
   "HBKT": {
@@ -3290,7 +3290,7 @@
     "location": "HOLBROOK TOWNSHIP",
     "coordinate": {
       "lat": -35.73,
-      "long": 147.325
+      "lng": 147.325
     }
   },
   "HOLM": {
@@ -3299,7 +3299,7 @@
     "location": "HOLMES REEF",
     "coordinate": {
       "lat": -16.5,
-      "long": 148
+      "lng": 148
     }
   },
   "HBU": {
@@ -3308,7 +3308,7 @@
     "location": "HOMEBUSH",
     "coordinate": {
       "lat": -21.28,
-      "long": 149.05
+      "lng": 149.05
     }
   },
   "HDP": {
@@ -3317,7 +3317,7 @@
     "location": "HOOD PT",
     "coordinate": {
       "lat": -34.383,
-      "long": 119.567
+      "lng": 119.567
     }
   },
   "HPI": {
@@ -3326,7 +3326,7 @@
     "location": "HOPE INLET",
     "coordinate": {
       "lat": -12.328,
-      "long": 131.017
+      "lng": 131.017
     }
   },
   "HVR": {
@@ -3335,7 +3335,7 @@
     "location": "HOPE VALLEY RESV",
     "coordinate": {
       "lat": -34.85,
-      "long": 138.683
+      "lng": 138.683
     }
   },
   "HORD": {
@@ -3344,7 +3344,7 @@
     "location": "HORDERN HILLS",
     "coordinate": {
       "lat": -20.65,
-      "long": 130.317
+      "lng": 130.317
     }
   },
   "HZWF": {
@@ -3353,7 +3353,7 @@
     "location": "HORIZONTAL WATERFALLS",
     "coordinate": {
       "lat": -16.383,
-      "long": 123.967
+      "lng": 123.967
     }
   },
   "HBVT": {
@@ -3362,7 +3362,7 @@
     "location": "HORNIBROOK VIADUCT",
     "coordinate": {
       "lat": -27.273,
-      "long": 153.072
+      "lng": 153.072
     }
   },
   "HSY": {
@@ -3371,7 +3371,7 @@
     "location": "HORNSBY",
     "coordinate": {
       "lat": -33.692,
-      "long": 151.107
+      "lng": 151.107
     }
   },
   "HST": {
@@ -3380,16 +3380,16 @@
     "location": "HOSKINSTOWN",
     "coordinate": {
       "lat": -35.422,
-      "long": 149.45
+      "lng": 149.45
     }
   },
   "HWG": {
     "code": "HWG",
     "state": "NSW",
-    "location": "HOWLONG",
+    "location": "HOWlng",
     "coordinate": {
       "lat": -35.977,
-      "long": 146.625
+      "lng": 146.625
     }
   },
   "HGR": {
@@ -3398,7 +3398,7 @@
     "location": "HUGH RIVER",
     "coordinate": {
       "lat": -24.35,
-      "long": 133.433
+      "lng": 133.433
     }
   },
   "HWW": {
@@ -3407,7 +3407,7 @@
     "location": "HUME WEIR WALL",
     "coordinate": {
       "lat": -36.112,
-      "long": 147.025
+      "lng": 147.025
     }
   },
   "HYH": {
@@ -3416,7 +3416,7 @@
     "location": "HUMMOCKY HILLS",
     "coordinate": {
       "lat": -41.733,
-      "long": 147.25
+      "lng": 147.25
     }
   },
   "HRD": {
@@ -3425,7 +3425,7 @@
     "location": "HUNGERFORD",
     "coordinate": {
       "lat": -29,
-      "long": 144.4
+      "lng": 144.4
     }
   },
   "HYDEN": {
@@ -3434,7 +3434,7 @@
     "location": "HYDEN",
     "coordinate": {
       "lat": -32.45,
-      "long": 118.867
+      "lng": 118.867
     }
   },
   "IND": {
@@ -3443,7 +3443,7 @@
     "location": "INDEE HS",
     "coordinate": {
       "lat": -20.787,
-      "long": 118.592
+      "lng": 118.592
     }
   },
   "IDNA": {
@@ -3452,7 +3452,7 @@
     "location": "INDIANA",
     "coordinate": {
       "lat": -23.333,
-      "long": 135.433
+      "lng": 135.433
     }
   },
   "IDK": {
@@ -3461,7 +3461,7 @@
     "location": "INDULKANA TOWNSHIP",
     "coordinate": {
       "lat": -26.967,
-      "long": 133.325
+      "lng": 133.325
     }
   },
   "INGL": {
@@ -3470,7 +3470,7 @@
     "location": "INGLEBURN",
     "coordinate": {
       "lat": -33.972,
-      "long": 150.858
+      "lng": 150.858
     }
   },
   "IPHL": {
@@ -3479,7 +3479,7 @@
     "location": "IPPIA HILL",
     "coordinate": {
       "lat": -25.117,
-      "long": 133.05
+      "lng": 133.05
     }
   },
   "ISB": {
@@ -3488,7 +3488,7 @@
     "location": "ISRAELITE BAY",
     "coordinate": {
       "lat": -33.617,
-      "long": 123.883
+      "lng": 123.883
     }
   },
   "JSK": {
@@ -3497,7 +3497,7 @@
     "location": "JACK SMITH LAKE",
     "coordinate": {
       "lat": -38.5,
-      "long": 147
+      "lng": 147
     }
   },
   "JAC": {
@@ -3506,7 +3506,7 @@
     "location": "JACKO'S JUNCTION",
     "coordinate": {
       "lat": -12.263,
-      "long": 131.037
+      "lng": 131.037
     }
   },
   "JNR": {
@@ -3515,7 +3515,7 @@
     "location": "JACKSON RIVER",
     "coordinate": {
       "lat": -11.583,
-      "long": 142
+      "lng": 142
     }
   },
   "JSL": {
@@ -3524,7 +3524,7 @@
     "location": "JACOB'S SUGARLOAF",
     "coordinate": {
       "lat": -41.942,
-      "long": 147.3
+      "lng": 147.3
     }
   },
   "JACW": {
@@ -3533,7 +3533,7 @@
     "location": "JACOB'S WELL",
     "coordinate": {
       "lat": -32.033,
-      "long": 117.2
+      "lng": 117.2
     }
   },
   "JMPP": {
@@ -3542,7 +3542,7 @@
     "location": "JAMES PRICE POINT",
     "coordinate": {
       "lat": -17.485,
-      "long": 122.143
+      "lng": 122.143
     }
   },
   "JADL": {
@@ -3551,7 +3551,7 @@
     "location": "JARRAHDALE",
     "coordinate": {
       "lat": -32.34,
-      "long": 116.075
+      "lng": 116.075
     }
   },
   "JCK": {
@@ -3560,7 +3560,7 @@
     "location": "JAY CREEK",
     "coordinate": {
       "lat": -23.787,
-      "long": 133.5
+      "lng": 133.5
     }
   },
   "JEA": {
@@ -3569,7 +3569,7 @@
     "location": "JEANNIE RIVER",
     "coordinate": {
       "lat": -14.733,
-      "long": 144.867
+      "lng": 144.867
     }
   },
   "JES": {
@@ -3578,7 +3578,7 @@
     "location": "JESSIE GAP",
     "coordinate": {
       "lat": -23.748,
-      "long": 134.018
+      "lng": 134.018
     }
   },
   "JIBN": {
@@ -3587,7 +3587,7 @@
     "location": "JIBBON PT",
     "coordinate": {
       "lat": -34.085,
-      "long": 151.17
+      "lng": 151.17
     }
   },
   "JIA": {
@@ -3596,7 +3596,7 @@
     "location": "JINDERA",
     "coordinate": {
       "lat": -35.958,
-      "long": 146.888
+      "lng": 146.888
     }
   },
   "JDN": {
@@ -3605,7 +3605,7 @@
     "location": "JONDARYAN",
     "coordinate": {
       "lat": -27.367,
-      "long": 151.588
+      "lng": 151.588
     }
   },
   "JGK": {
@@ -3614,7 +3614,7 @@
     "location": "JUG CREEK",
     "coordinate": {
       "lat": -22,
-      "long": 144.7
+      "lng": 144.7
     }
   },
   "JPP": {
@@ -3623,7 +3623,7 @@
     "location": "JUMPINPIN",
     "coordinate": {
       "lat": -27.733,
-      "long": 153.45
+      "lng": 153.45
     }
   },
   "JUNEE": {
@@ -3632,7 +3632,7 @@
     "location": "JUNEE",
     "coordinate": {
       "lat": -34.867,
-      "long": 147.583
+      "lng": 147.583
     }
   },
   "JUP": {
@@ -3641,7 +3641,7 @@
     "location": "JUPITERS CASINO",
     "coordinate": {
       "lat": -28.032,
-      "long": 153.43
+      "lng": 153.43
     }
   },
   "KKN": {
@@ -3650,7 +3650,7 @@
     "location": "KAIMKILLENBUN",
     "coordinate": {
       "lat": -27.067,
-      "long": 151.433
+      "lng": 151.433
     }
   },
   "KAO": {
@@ -3659,7 +3659,7 @@
     "location": "KALKALLO",
     "coordinate": {
       "lat": -37.537,
-      "long": 144.945
+      "lng": 144.945
     }
   },
   "KTS": {
@@ -3668,7 +3668,7 @@
     "location": "KEATS ISLAND",
     "coordinate": {
       "lat": -9.683,
-      "long": 143.45
+      "lng": 143.45
     }
   },
   "KEP": {
@@ -3677,7 +3677,7 @@
     "location": "KEEPIT DAM",
     "coordinate": {
       "lat": -30.88,
-      "long": 150.498
+      "lng": 150.498
     }
   },
   "KWE": {
@@ -3686,7 +3686,7 @@
     "location": "KEERWEE",
     "coordinate": {
       "lat": -25.217,
-      "long": 151.35
+      "lng": 151.35
     }
   },
   "KALL": {
@@ -3695,7 +3695,7 @@
     "location": "KENDALL",
     "coordinate": {
       "lat": -14.2,
-      "long": 141.6
+      "lng": 141.6
     }
   },
   "KSI": {
@@ -3704,7 +3704,7 @@
     "location": "KESWICK ISLAND",
     "coordinate": {
       "lat": -20.917,
-      "long": 149.417
+      "lng": 149.417
     }
   },
   "KMA": {
@@ -3713,7 +3713,7 @@
     "location": "KIAMA",
     "coordinate": {
       "lat": -34.667,
-      "long": 150.85
+      "lng": 150.85
     }
   },
   "KIAN": {
@@ -3722,7 +3722,7 @@
     "location": "KIANDRA",
     "coordinate": {
       "lat": -35.867,
-      "long": 148.5
+      "lng": 148.5
     }
   },
   "KDBF": {
@@ -3731,7 +3731,7 @@
     "location": "KIDSON BLUFF",
     "coordinate": {
       "lat": -22.25,
-      "long": 125.033
+      "lng": 125.033
     }
   },
   "KIEWA": {
@@ -3740,7 +3740,7 @@
     "location": "KIEWA",
     "coordinate": {
       "lat": -36.258,
-      "long": 147.008
+      "lng": 147.008
     }
   },
   "KLCY": {
@@ -3749,7 +3749,7 @@
     "location": "KILCOY TOWNSHIP",
     "coordinate": {
       "lat": -26.942,
-      "long": 152.563
+      "lng": 152.563
     }
   },
   "KKV": {
@@ -3758,7 +3758,7 @@
     "location": "KILKIVAN",
     "coordinate": {
       "lat": -26.083,
-      "long": 152.247
+      "lng": 152.247
     }
   },
   "KIM": {
@@ -3767,7 +3767,7 @@
     "location": "KILMORE",
     "coordinate": {
       "lat": -37.3,
-      "long": 144.955
+      "lng": 144.955
     }
   },
   "KMG": {
@@ -3776,7 +3776,7 @@
     "location": "KILMORE GAP",
     "coordinate": {
       "lat": -37.3,
-      "long": 144.983
+      "lng": 144.983
     }
   },
   "KLTO": {
@@ -3785,7 +3785,7 @@
     "location": "KILTO",
     "coordinate": {
       "lat": -17.692,
-      "long": 122.713
+      "lng": 122.713
     }
   },
   "KCAS": {
@@ -3794,7 +3794,7 @@
     "location": "KING CASCADES",
     "coordinate": {
       "lat": -15.625,
-      "long": 125.3
+      "lng": 125.3
     }
   },
   "KRT": {
@@ -3803,7 +3803,7 @@
     "location": "KING RANCH TULLY",
     "coordinate": {
       "lat": -18.083,
-      "long": 145.833
+      "lng": 145.833
     }
   },
   "KGLE": {
@@ -3812,7 +3812,7 @@
     "location": "KINGLAKE",
     "coordinate": {
       "lat": -37.522,
-      "long": 145.35
+      "lng": 145.35
     }
   },
   "KBCH": {
@@ -3821,7 +3821,7 @@
     "location": "KINGS BEACH",
     "coordinate": {
       "lat": -26.805,
-      "long": 153.14
+      "lng": 153.14
     }
   },
   "KCFF": {
@@ -3830,7 +3830,7 @@
     "location": "KINGSCLIFF",
     "coordinate": {
       "lat": -28.25,
-      "long": 153.572
+      "lng": 153.572
     }
   },
   "KGT": {
@@ -3839,7 +3839,7 @@
     "location": "KINGSTHORPE",
     "coordinate": {
       "lat": -27.478,
-      "long": 151.813
+      "lng": 151.813
     }
   },
   "KINN": {
@@ -3848,7 +3848,7 @@
     "location": "KINGSTON CENTRE",
     "coordinate": {
       "lat": -37.957,
-      "long": 145.077
+      "lng": 145.077
     }
   },
   "KIRA": {
@@ -3857,7 +3857,7 @@
     "location": "KIRRA",
     "coordinate": {
       "lat": -28.167,
-      "long": 153.523
+      "lng": 153.523
     }
   },
   "KSPT": {
@@ -3866,7 +3866,7 @@
     "location": "KISSING POINT",
     "coordinate": {
       "lat": -19.242,
-      "long": 146.805
+      "lng": 146.805
     }
   },
   "KNW": {
@@ -3875,7 +3875,7 @@
     "location": "KONGWAK",
     "coordinate": {
       "lat": -38.517,
-      "long": 145.717
+      "lng": 145.717
     }
   },
   "KTG": {
@@ -3884,7 +3884,7 @@
     "location": "KOOLATONG RIVER",
     "coordinate": {
       "lat": -13.083,
-      "long": 135.65
+      "lng": 135.65
     }
   },
   "KBD": {
@@ -3893,7 +3893,7 @@
     "location": "KOOMBOOLOOMBA DAM",
     "coordinate": {
       "lat": -17.833,
-      "long": 145.6
+      "lng": 145.6
     }
   },
   "KOOM": {
@@ -3902,7 +3902,7 @@
     "location": "KOOMOOLOOBOOKA CAVE",
     "coordinate": {
       "lat": -31.483,
-      "long": 129.583
+      "lng": 129.583
     }
   },
   "KANC": {
@@ -3911,7 +3911,7 @@
     "location": "KOORAN CROCODILE FARM",
     "coordinate": {
       "lat": -23.3,
-      "long": 150.733
+      "lng": 150.733
     }
   },
   "KOT": {
@@ -3920,7 +3920,7 @@
     "location": "KOOTINGAL",
     "coordinate": {
       "lat": -31.05,
-      "long": 151.05
+      "lng": 151.05
     }
   },
   "KOPP": {
@@ -3929,7 +3929,7 @@
     "location": "KOPPEN PARK",
     "coordinate": {
       "lat": -16.932,
-      "long": 145.733
+      "lng": 145.733
     }
   },
   "KREE": {
@@ -3938,7 +3938,7 @@
     "location": "KOREELAH",
     "coordinate": {
       "lat": -35.917,
-      "long": 136.917
+      "lng": 136.917
     }
   },
   "KUN": {
@@ -3947,7 +3947,7 @@
     "location": "KUNWARARA",
     "coordinate": {
       "lat": -22.917,
-      "long": 150.133
+      "lng": 150.133
     }
   },
   "KRN": {
@@ -3956,7 +3956,7 @@
     "location": "KURANDA",
     "coordinate": {
       "lat": -16.817,
-      "long": 145.638
+      "lng": 145.638
     }
   },
   "KRMD": {
@@ -3965,7 +3965,7 @@
     "location": "KURMOND",
     "coordinate": {
       "lat": -33.55,
-      "long": 150.687
+      "lng": 150.687
     }
   },
   "KYP": {
@@ -3974,7 +3974,7 @@
     "location": "KYEAMBA PARK",
     "coordinate": {
       "lat": -35.447,
-      "long": 147.617
+      "lng": 147.617
     }
   },
   "KYE": {
@@ -3983,7 +3983,7 @@
     "location": "KYEAMBA TOWER",
     "coordinate": {
       "lat": -35.525,
-      "long": 147.592
+      "lng": 147.592
     }
   },
   "KTN": {
@@ -3992,7 +3992,7 @@
     "location": "KYNETON",
     "coordinate": {
       "lat": -37.247,
-      "long": 144.458
+      "lng": 144.458
     }
   },
   "LDH": {
@@ -4001,7 +4001,7 @@
     "location": "LADYSMITH",
     "coordinate": {
       "lat": -35.212,
-      "long": 147.517
+      "lng": 147.517
     }
   },
   "LDLY": {
@@ -4010,7 +4010,7 @@
     "location": "LAIDLEY",
     "coordinate": {
       "lat": -27.633,
-      "long": 152.383
+      "lng": 152.383
     }
   },
   "LKT": {
@@ -4019,7 +4019,7 @@
     "location": "LAKE ALBERT",
     "coordinate": {
       "lat": -35.178,
-      "long": 147.363
+      "lng": 147.363
     }
   },
   "LKAD": {
@@ -4028,7 +4028,7 @@
     "location": "LAKE AMADEUS",
     "coordinate": {
       "lat": -24.58,
-      "long": 130.462
+      "lng": 130.462
     }
   },
   "LBT": {
@@ -4037,7 +4037,7 @@
     "location": "LAKE BATHURST",
     "coordinate": {
       "lat": -35.05,
-      "long": 149.683
+      "lng": 149.683
     }
   },
   "LKON": {
@@ -4046,7 +4046,7 @@
     "location": "LAKE CLARENDON",
     "coordinate": {
       "lat": -27.492,
-      "long": 152.35
+      "lng": 152.35
     }
   },
   "LCR": {
@@ -4055,7 +4055,7 @@
     "location": "LAKE CORANGAMITE",
     "coordinate": {
       "lat": -38.1,
-      "long": 143.517
+      "lng": 143.517
     }
   },
   "LCDI": {
@@ -4064,7 +4064,7 @@
     "location": "LAKE CURRIMUNDI",
     "coordinate": {
       "lat": -26.765,
-      "long": 153.137
+      "lng": 153.137
     }
   },
   "LAD": {
@@ -4073,7 +4073,7 @@
     "location": "LAKE DEAN",
     "coordinate": {
       "lat": -12.733,
-      "long": 131.017
+      "lng": 131.017
     }
   },
   "LDAP": {
@@ -4082,7 +4082,7 @@
     "location": "LAKE DISAPPOINTMENT",
     "coordinate": {
       "lat": -23.5,
-      "long": 122.667
+      "lng": 122.667
     }
   },
   "LKEC": {
@@ -4091,7 +4091,7 @@
     "location": "LAKE ECHO",
     "coordinate": {
       "lat": -42.167,
-      "long": 146.633
+      "lng": 146.633
     }
   },
   "LEM": {
@@ -4100,7 +4100,7 @@
     "location": "LAKE EPSOM",
     "coordinate": {
       "lat": -21.488,
-      "long": 148.833
+      "lng": 148.833
     }
   },
   "LEYN": {
@@ -4109,7 +4109,7 @@
     "location": "LAKE EYRE NORTH",
     "coordinate": {
       "lat": -28.417,
-      "long": 137.3
+      "lng": 137.3
     }
   },
   "LFS": {
@@ -4118,7 +4118,7 @@
     "location": "LAKE FINNISS",
     "coordinate": {
       "lat": -12.38,
-      "long": 131.475
+      "lng": 131.475
     }
   },
   "LFRO": {
@@ -4127,7 +4127,7 @@
     "location": "LAKE FROME",
     "coordinate": {
       "lat": -30.633,
-      "long": 139.867
+      "lng": 139.867
     }
   },
   "LGGN": {
@@ -4136,7 +4136,7 @@
     "location": "LAKE GEORGE NORTH",
     "coordinate": {
       "lat": -34.988,
-      "long": 149.392
+      "lng": 149.392
     }
   },
   "LGGS": {
@@ -4145,7 +4145,7 @@
     "location": "LAKE GEORGE SOUTH",
     "coordinate": {
       "lat": -35.203,
-      "long": 149.408
+      "lng": 149.408
     }
   },
   "LGEN": {
@@ -4154,7 +4154,7 @@
     "location": "LAKE GILLEN",
     "coordinate": {
       "lat": -26.217,
-      "long": 124.6
+      "lng": 124.6
     }
   },
   "LGDA": {
@@ -4163,7 +4163,7 @@
     "location": "LAKE GININDERRA",
     "coordinate": {
       "lat": -35.233,
-      "long": 149.068
+      "lng": 149.068
     }
   },
   "LKH": {
@@ -4172,7 +4172,7 @@
     "location": "LAKE HINDMARSH",
     "coordinate": {
       "lat": -36.117,
-      "long": 141.867
+      "lng": 141.867
     }
   },
   "LKIM": {
@@ -4181,7 +4181,7 @@
     "location": "LAKE ILMA",
     "coordinate": {
       "lat": -29.25,
-      "long": 127.767
+      "lng": 127.767
     }
   },
   "LKG": {
@@ -4190,7 +4190,7 @@
     "location": "LAKE KING",
     "coordinate": {
       "lat": -33.083,
-      "long": 119.667
+      "lng": 119.667
     }
   },
   "LMC": {
@@ -4199,7 +4199,7 @@
     "location": "LAKE MANCHESTER",
     "coordinate": {
       "lat": -27.483,
-      "long": 152.767
+      "lng": 152.767
     }
   },
   "LME": {
@@ -4208,7 +4208,7 @@
     "location": "LAKE MAURICE",
     "coordinate": {
       "lat": -29.4,
-      "long": 130.95
+      "lng": 130.95
     }
   },
   "LMWL": {
@@ -4217,7 +4217,7 @@
     "location": "LAKE MINIGWAL",
     "coordinate": {
       "lat": -29.583,
-      "long": 123.167
+      "lng": 123.167
     }
   },
   "LOOH": {
@@ -4226,7 +4226,7 @@
     "location": "LAKE MOOGERAH",
     "coordinate": {
       "lat": -28.033,
-      "long": 152.55
+      "lng": 152.55
     }
   },
   "LKNL": {
@@ -4235,7 +4235,7 @@
     "location": "LAKE NEALE",
     "coordinate": {
       "lat": -24.247,
-      "long": 129.967
+      "lng": 129.967
     }
   },
   "LRID": {
@@ -4244,7 +4244,7 @@
     "location": "LAKE RAESIDE",
     "coordinate": {
       "lat": -29.55,
-      "long": 122.3
+      "lng": 122.3
     }
   },
   "LRAN": {
@@ -4253,7 +4253,7 @@
     "location": "LAKE RASON",
     "coordinate": {
       "lat": -28.667,
-      "long": 124.283
+      "lng": 124.283
     }
   },
   "LSPR": {
@@ -4262,7 +4262,7 @@
     "location": "LAKE SURPRISE",
     "coordinate": {
       "lat": -20.233,
-      "long": 131.8
+      "lng": 131.8
     }
   },
   "LTOM": {
@@ -4271,7 +4271,7 @@
     "location": "LAKE THOMSON",
     "coordinate": {
       "lat": -32.152,
-      "long": 115.835
+      "lng": 115.835
     }
   },
   "LTL": {
@@ -4280,7 +4280,7 @@
     "location": "LAKE THROSSELL",
     "coordinate": {
       "lat": -27.633,
-      "long": 124.083
+      "lng": 124.083
     }
   },
   "LTRR": {
@@ -4289,7 +4289,7 @@
     "location": "LAKE TORRENS",
     "coordinate": {
       "lat": -31.422,
-      "long": 138.087
+      "lng": 138.087
     }
   },
   "WITE": {
@@ -4298,7 +4298,7 @@
     "location": "LAKE WHITE",
     "coordinate": {
       "lat": -21.1,
-      "long": 129.05
+      "lng": 129.05
     }
   },
   "LYEO": {
@@ -4307,7 +4307,7 @@
     "location": "LAKE YEO",
     "coordinate": {
       "lat": -28.052,
-      "long": 124.552
+      "lng": 124.552
     }
   },
   "LKEE": {
@@ -4316,7 +4316,7 @@
     "location": "LAKES ENTRANCE",
     "coordinate": {
       "lat": -37.867,
-      "long": 148
+      "lng": 148
     }
   },
   "LCD": {
@@ -4325,7 +4325,7 @@
     "location": "LANCEFIELD",
     "coordinate": {
       "lat": -37.278,
-      "long": 144.728
+      "lng": 144.728
     }
   },
   "LANC": {
@@ -4334,7 +4334,7 @@
     "location": "LANCELIN TOWNSHIP",
     "coordinate": {
       "lat": -31.018,
-      "long": 115.328
+      "lng": 115.328
     }
   },
   "LGH": {
@@ -4343,7 +4343,7 @@
     "location": "LANGHAM",
     "coordinate": {
       "lat": -22.2,
-      "long": 150.1
+      "lng": 150.1
     }
   },
   "LHCK": {
@@ -4352,7 +4352,7 @@
     "location": "LANGHORNE CREEK",
     "coordinate": {
       "lat": -35.297,
-      "long": 139.045
+      "lng": 139.045
     }
   },
   "LSDW": {
@@ -4361,7 +4361,7 @@
     "location": "LANSDOWNE",
     "coordinate": {
       "lat": -17.615,
-      "long": 126.743
+      "lng": 126.743
     }
   },
   "LUY": {
@@ -4370,7 +4370,7 @@
     "location": "LATROBE UNIVERSITY",
     "coordinate": {
       "lat": -37.717,
-      "long": 145.05
+      "lng": 145.05
     }
   },
   "LAUD": {
@@ -4379,7 +4379,7 @@
     "location": "LAUDERDALE",
     "coordinate": {
       "lat": -42.9,
-      "long": 147.5
+      "lng": 147.5
     }
   },
   "LVAB": {
@@ -4388,7 +4388,7 @@
     "location": "LAVERTON",
     "coordinate": {
       "lat": -37.863,
-      "long": 144.745
+      "lng": 144.745
     }
   },
   "TON": {
@@ -4397,7 +4397,7 @@
     "location": "LAVERTON BOM TOWER",
     "coordinate": {
       "lat": -37.855,
-      "long": 144.755
+      "lng": 144.755
     }
   },
   "LWG": {
@@ -4406,7 +4406,7 @@
     "location": "LAWRENCE GORGE",
     "coordinate": {
       "lat": -24.017,
-      "long": 133.408
+      "lng": 133.408
     }
   },
   "LAOS": {
@@ -4415,7 +4415,7 @@
     "location": "LAYOAK ISLAND",
     "coordinate": {
       "lat": -9.85,
-      "long": 143.317
+      "lng": 143.317
     }
   },
   "LPT": {
@@ -4424,7 +4424,7 @@
     "location": "LEE PT",
     "coordinate": {
       "lat": -12.333,
-      "long": 130.9
+      "lng": 130.9
     }
   },
   "LPD": {
@@ -4433,7 +4433,7 @@
     "location": "LEOPOLD",
     "coordinate": {
       "lat": -38.192,
-      "long": 144.467
+      "lng": 144.467
     }
   },
   "LIHR": {
@@ -4442,7 +4442,7 @@
     "location": "LIGHTHORSE INTERCHANGE M7\/M4",
     "coordinate": {
       "lat": -33.798,
-      "long": 150.853
+      "lng": 150.853
     }
   },
   "LIY": {
@@ -4451,7 +4451,7 @@
     "location": "LILYDALE",
     "coordinate": {
       "lat": -41.25,
-      "long": 147.217
+      "lng": 147.217
     }
   },
   "LOWS": {
@@ -4460,7 +4460,7 @@
     "location": "LINDENOW SOUTH",
     "coordinate": {
       "lat": -37.828,
-      "long": 147.433
+      "lng": 147.433
     }
   },
   "LVE": {
@@ -4469,7 +4469,7 @@
     "location": "LINVILLE",
     "coordinate": {
       "lat": -26.85,
-      "long": 152.267
+      "lng": 152.267
     }
   },
   "LMGE": {
@@ -4478,7 +4478,7 @@
     "location": "LITTLE MULGRAVE",
     "coordinate": {
       "lat": -17.138,
-      "long": 145.725
+      "lng": 145.725
     }
   },
   "LRM": {
@@ -4487,7 +4487,7 @@
     "location": "LITTLE RIVER MOUTH",
     "coordinate": {
       "lat": -38.007,
-      "long": 144.583
+      "lng": 144.583
     }
   },
   "LBET": {
@@ -4496,7 +4496,7 @@
     "location": "LOBETHAL",
     "coordinate": {
       "lat": -34.9,
-      "long": 138.867
+      "lng": 138.867
     }
   },
   "LSR": {
@@ -4505,7 +4505,7 @@
     "location": "LOCH SPORT",
     "coordinate": {
       "lat": -38.05,
-      "long": 147.583
+      "lng": 147.583
     }
   },
   "LOGI": {
@@ -4514,25 +4514,25 @@
     "location": "LOGIC CENTRE",
     "coordinate": {
       "lat": -36.077,
-      "long": 146.718
+      "lng": 146.718
     }
   },
   "LRF": {
     "code": "LRF",
     "state": "NSW",
-    "location": "LONG REEF",
+    "location": "lng REEF",
     "coordinate": {
       "lat": -33.742,
-      "long": 151.322
+      "lng": 151.322
     }
   },
   "LFC": {
     "code": "LFC",
     "state": "QLD",
-    "location": "LONGFORD CREEK",
+    "location": "lngFORD CREEK",
     "coordinate": {
       "lat": -20.208,
-      "long": 148.367
+      "lng": 148.367
     }
   },
   "LORN": {
@@ -4541,7 +4541,7 @@
     "location": "LORNE TOWNSHIP",
     "coordinate": {
       "lat": -38.543,
-      "long": 143.97
+      "lng": 143.97
     }
   },
   "LHD": {
@@ -4550,7 +4550,7 @@
     "location": "LOW HEAD",
     "coordinate": {
       "lat": -41.067,
-      "long": 146.8
+      "lng": 146.8
     }
   },
   "LWI": {
@@ -4559,7 +4559,7 @@
     "location": "LOW ISLETS",
     "coordinate": {
       "lat": -16.383,
-      "long": 145.567
+      "lng": 145.567
     }
   },
   "LRP": {
@@ -4568,7 +4568,7 @@
     "location": "LOW ROCKY PT",
     "coordinate": {
       "lat": -43,
-      "long": 145.5
+      "lng": 145.5
     }
   },
   "LWD": {
@@ -4577,7 +4577,7 @@
     "location": "LOWOOD",
     "coordinate": {
       "lat": -27.467,
-      "long": 152.583
+      "lng": 152.583
     }
   },
   "LNDA": {
@@ -4586,7 +4586,7 @@
     "location": "LUCINDA",
     "coordinate": {
       "lat": -18.533,
-      "long": 146.333
+      "lng": 146.333
     }
   },
   "LYNR": {
@@ -4595,7 +4595,7 @@
     "location": "LYND RIVER",
     "coordinate": {
       "lat": -17.4,
-      "long": 143.75
+      "lng": 143.75
     }
   },
   "MACB": {
@@ -4604,7 +4604,7 @@
     "location": "MACHANS BEACH",
     "coordinate": {
       "lat": -16.85,
-      "long": 145.75
+      "lng": 145.75
     }
   },
   "MZR": {
@@ -4613,7 +4613,7 @@
     "location": "MACKENZIE RIVER",
     "coordinate": {
       "lat": -23.167,
-      "long": 149.5
+      "lng": 149.5
     }
   },
   "MKV": {
@@ -4622,7 +4622,7 @@
     "location": "MACKSVILLE",
     "coordinate": {
       "lat": -30.708,
-      "long": 152.915
+      "lng": 152.915
     }
   },
   "MGEW": {
@@ -4631,7 +4631,7 @@
     "location": "MAGILL ESTATE WINERY",
     "coordinate": {
       "lat": -34.92,
-      "long": 138.68
+      "lng": 138.68
     }
   },
   "MAS": {
@@ -4640,7 +4640,7 @@
     "location": "MAGNESITE MINE",
     "coordinate": {
       "lat": -22.888,
-      "long": 150.183
+      "lng": 150.183
     }
   },
   "MADO": {
@@ -4649,7 +4649,7 @@
     "location": "MANDORAH",
     "coordinate": {
       "lat": -12.442,
-      "long": 130.762
+      "lng": 130.762
     }
   },
   "MDU": {
@@ -4658,7 +4658,7 @@
     "location": "MANDURAH",
     "coordinate": {
       "lat": -32.53,
-      "long": 115.722
+      "lng": 115.722
     }
   },
   "MGL": {
@@ -4667,7 +4667,7 @@
     "location": "MANGALORE",
     "coordinate": {
       "lat": -42.658,
-      "long": 147.242
+      "lng": 147.242
     }
   },
   "MOP": {
@@ -4676,7 +4676,7 @@
     "location": "MANGOPLAH",
     "coordinate": {
       "lat": -35.392,
-      "long": 147.242
+      "lng": 147.242
     }
   },
   "MAL": {
@@ -4685,7 +4685,7 @@
     "location": "MANILLA",
     "coordinate": {
       "lat": -30.75,
-      "long": 150.723
+      "lng": 150.723
     }
   },
   "MANLY": {
@@ -4694,7 +4694,7 @@
     "location": "MANLY",
     "coordinate": {
       "lat": -33.798,
-      "long": 151.288
+      "lng": 151.288
     }
   },
   "MTD": {
@@ -4703,7 +4703,7 @@
     "location": "MANTON DAM",
     "coordinate": {
       "lat": -12.85,
-      "long": 131.125
+      "lng": 131.125
     }
   },
   "MBA": {
@@ -4712,7 +4712,7 @@
     "location": "MAREEBA",
     "coordinate": {
       "lat": -17.068,
-      "long": 145.418
+      "lng": 145.418
     }
   },
   "MRL": {
@@ -4721,7 +4721,7 @@
     "location": "MARIA ISLAND",
     "coordinate": {
       "lat": -42.633,
-      "long": 148.083
+      "lng": 148.083
     }
   },
   "MLIT": {
@@ -4730,7 +4730,7 @@
     "location": "MARINO LIGHT HOUSE",
     "coordinate": {
       "lat": -35.055,
-      "long": 138.513
+      "lng": 138.513
     }
   },
   "MARQ": {
@@ -4739,7 +4739,7 @@
     "location": "MARINO'S QUARRY",
     "coordinate": {
       "lat": -16.92,
-      "long": 145.727
+      "lng": 145.727
     }
   },
   "MRBR": {
@@ -4748,7 +4748,7 @@
     "location": "MAROUBRA BEACH",
     "coordinate": {
       "lat": -33.95,
-      "long": 151.257
+      "lng": 151.257
     }
   },
   "MAR": {
@@ -4757,7 +4757,7 @@
     "location": "MARRAR",
     "coordinate": {
       "lat": -34.825,
-      "long": 147.35
+      "lng": 147.35
     }
   },
   "MARR": {
@@ -4766,7 +4766,7 @@
     "location": "MARRAWAH",
     "coordinate": {
       "lat": -40.91,
-      "long": 144.708
+      "lng": 144.708
     }
   },
   "MHT": {
@@ -4775,7 +4775,7 @@
     "location": "MARTHA PT",
     "coordinate": {
       "lat": -38.317,
-      "long": 144.983
+      "lng": 144.983
     }
   },
   "MKN": {
@@ -4784,7 +4784,7 @@
     "location": "MARY KATHLEEN",
     "coordinate": {
       "lat": -20.783,
-      "long": 139.983
+      "lng": 139.983
     }
   },
   "MVL": {
@@ -4793,7 +4793,7 @@
     "location": "MARYSVILLE",
     "coordinate": {
       "lat": -37.517,
-      "long": 145.75
+      "lng": 145.75
     }
   },
   "MHD": {
@@ -4802,7 +4802,7 @@
     "location": "MASTHEAD ISLAND",
     "coordinate": {
       "lat": -23.533,
-      "long": 151.733
+      "lng": 151.733
     }
   },
   "MRH": {
@@ -4811,7 +4811,7 @@
     "location": "MAURICE HILL",
     "coordinate": {
       "lat": -23.933,
-      "long": 151.25
+      "lng": 151.25
     }
   },
   "MAYD": {
@@ -4820,7 +4820,7 @@
     "location": "MAYDENA",
     "coordinate": {
       "lat": -42.763,
-      "long": 146.597
+      "lng": 146.597
     }
   },
   "MYF": {
@@ -4829,7 +4829,7 @@
     "location": "MAYFIELD",
     "coordinate": {
       "lat": -33.963,
-      "long": 150.625
+      "lng": 150.625
     }
   },
   "MAYL": {
@@ -4838,7 +4838,7 @@
     "location": "MAYLANDS POLICE ACADEMY",
     "coordinate": {
       "lat": -31.947,
-      "long": 115.903
+      "lng": 115.903
     }
   },
   "MVAL": {
@@ -4847,7 +4847,7 @@
     "location": "MCLAREN VALE",
     "coordinate": {
       "lat": -35.225,
-      "long": 138.547
+      "lng": 138.547
     }
   },
   "MCTY": {
@@ -4856,7 +4856,7 @@
     "location": "MELBOURNE CBD",
     "coordinate": {
       "lat": -37.808,
-      "long": 144.958
+      "lng": 144.958
     }
   },
   "MCG": {
@@ -4865,7 +4865,7 @@
     "location": "MELBOURNE CRICKET GROUND",
     "coordinate": {
       "lat": -37.82,
-      "long": 144.983
+      "lng": 144.983
     }
   },
   "MELS": {
@@ -4874,7 +4874,7 @@
     "location": "MELTON SOUTH",
     "coordinate": {
       "lat": -37.683,
-      "long": 144.567
+      "lng": 144.567
     }
   },
   "MEG": {
@@ -4883,7 +4883,7 @@
     "location": "MENANGLE",
     "coordinate": {
       "lat": -34.125,
-      "long": 150.742
+      "lng": 150.742
     }
   },
   "MRI": {
@@ -4892,7 +4892,7 @@
     "location": "MERION",
     "coordinate": {
       "lat": -22.867,
-      "long": 149.033
+      "lng": 149.033
     }
   },
   "MRJ": {
@@ -4901,7 +4901,7 @@
     "location": "MERRIJIG",
     "coordinate": {
       "lat": -37.117,
-      "long": 146.25
+      "lng": 146.25
     }
   },
   "MIAR": {
@@ -4910,7 +4910,7 @@
     "location": "MIAREE POOL BRIDGE",
     "coordinate": {
       "lat": -20.85,
-      "long": 116.61
+      "lng": 116.61
     }
   },
   "MHGO": {
@@ -4919,7 +4919,7 @@
     "location": "MICHELAGO",
     "coordinate": {
       "lat": -35.717,
-      "long": 149.167
+      "lng": 149.167
     }
   },
   "MII": {
@@ -4928,7 +4928,7 @@
     "location": "MIDGE ISLAND",
     "coordinate": {
       "lat": -20.692,
-      "long": 148.762
+      "lng": 148.762
     }
   },
   "MCRO": {
@@ -4937,7 +4937,7 @@
     "location": "MILLS CROSS",
     "coordinate": {
       "lat": -35.372,
-      "long": 149.425
+      "lng": 149.425
     }
   },
   "MSTM": {
@@ -4946,7 +4946,7 @@
     "location": "MILLSTREAM STN",
     "coordinate": {
       "lat": -21.617,
-      "long": 117.067
+      "lng": 117.067
     }
   },
   "MPO": {
@@ -4955,7 +4955,7 @@
     "location": "MILPEROO",
     "coordinate": {
       "lat": -23.183,
-      "long": 141.25
+      "lng": 141.25
     }
   },
   "MIJ": {
@@ -4964,7 +4964,7 @@
     "location": "MINJILANG",
     "coordinate": {
       "lat": -11.148,
-      "long": 132.58
+      "lng": 132.58
     }
   },
   "MISB": {
@@ -4973,7 +4973,7 @@
     "location": "MISSION BEACH",
     "coordinate": {
       "lat": -17.87,
-      "long": 146.107
+      "lng": 146.107
     }
   },
   "MSC": {
@@ -4982,7 +4982,7 @@
     "location": "MISSION BEACH",
     "coordinate": {
       "lat": -17.883,
-      "long": 146.1
+      "lng": 146.1
     }
   },
   "MITI": {
@@ -4991,7 +4991,7 @@
     "location": "MITIAMO",
     "coordinate": {
       "lat": -36.212,
-      "long": 144.23
+      "lng": 144.23
     }
   },
   "MFBH": {
@@ -5000,7 +5000,7 @@
     "location": "MOFFAT BEACH",
     "coordinate": {
       "lat": -26.788,
-      "long": 153.142
+      "lng": 153.142
     }
   },
   "MFH": {
@@ -5009,7 +5009,7 @@
     "location": "MOFFAT HEAD",
     "coordinate": {
       "lat": -26.79,
-      "long": 153.14
+      "lng": 153.14
     }
   },
   "MBH": {
@@ -5018,7 +5018,7 @@
     "location": "MOOLOOLABA",
     "coordinate": {
       "lat": -26.7,
-      "long": 153.133
+      "lng": 153.133
     }
   },
   "MVC": {
@@ -5027,7 +5027,7 @@
     "location": "MOONEE VALLEY RACECOURSE",
     "coordinate": {
       "lat": -37.767,
-      "long": 144.933
+      "lng": 144.933
     }
   },
   "MIE": {
@@ -5036,7 +5036,7 @@
     "location": "MOONIE",
     "coordinate": {
       "lat": -27.717,
-      "long": 150.367
+      "lng": 150.367
     }
   },
   "MPSC": {
@@ -5045,7 +5045,7 @@
     "location": "MOORE PARK SUPA CENTRE",
     "coordinate": {
       "lat": -33.903,
-      "long": 151.215
+      "lng": 151.215
     }
   },
   "MORN": {
@@ -5054,7 +5054,7 @@
     "location": "MORNINGTON",
     "coordinate": {
       "lat": -42.857,
-      "long": 147.412
+      "lng": 147.412
     }
   },
   "MSV": {
@@ -5063,7 +5063,7 @@
     "location": "MOSS VALE",
     "coordinate": {
       "lat": -34.525,
-      "long": 150.422
+      "lng": 150.422
     }
   },
   "MMA": {
@@ -5072,7 +5072,7 @@
     "location": "MOSSMAN",
     "coordinate": {
       "lat": -16.458,
-      "long": 145.372
+      "lng": 145.372
     }
   },
   "BAK": {
@@ -5081,7 +5081,7 @@
     "location": "MOUNT BARKER",
     "coordinate": {
       "lat": -35.078,
-      "long": 138.867
+      "lng": 138.867
     }
   },
   "MBST": {
@@ -5090,7 +5090,7 @@
     "location": "MOUNT BENSTEAD",
     "coordinate": {
       "lat": -23.567,
-      "long": 134.275
+      "lng": 134.275
     }
   },
   "MBC": {
@@ -5099,7 +5099,7 @@
     "location": "MOUNT BLACK",
     "coordinate": {
       "lat": -19.283,
-      "long": 146.558
+      "lng": 146.558
     }
   },
   "MBK": {
@@ -5108,7 +5108,7 @@
     "location": "MOUNT BLACKWOOD",
     "coordinate": {
       "lat": -21.033,
-      "long": 148.942
+      "lng": 148.942
     }
   },
   "MTBL": {
@@ -5117,7 +5117,7 @@
     "location": "MOUNT BOHLE",
     "coordinate": {
       "lat": -19.267,
-      "long": 146.688
+      "lng": 146.688
     }
   },
   "MBR": {
@@ -5126,7 +5126,7 @@
     "location": "MOUNT BOLD RESV",
     "coordinate": {
       "lat": -35.122,
-      "long": 138.7
+      "lng": 138.7
     }
   },
   "MTB": {
@@ -5135,7 +5135,7 @@
     "location": "MOUNT BOYCE",
     "coordinate": {
       "lat": -33.618,
-      "long": 150.273
+      "lng": 150.273
     }
   },
   "MCAR": {
@@ -5144,7 +5144,7 @@
     "location": "MOUNT CARNARVON",
     "coordinate": {
       "lat": -24.917,
-      "long": 148.383
+      "lng": 148.383
     }
   },
   "MCHR": {
@@ -5153,7 +5153,7 @@
     "location": "MOUNT CHRISTIE",
     "coordinate": {
       "lat": -30.55,
-      "long": 133.217
+      "lng": 133.217
     }
   },
   "MCOM": {
@@ -5162,7 +5162,7 @@
     "location": "MOUNT COMPASS",
     "coordinate": {
       "lat": -35.35,
-      "long": 138.617
+      "lng": 138.617
     }
   },
   "MTK": {
@@ -5171,7 +5171,7 @@
     "location": "MOUNT COOKE",
     "coordinate": {
       "lat": -32.417,
-      "long": 116.307
+      "lng": 116.307
     }
   },
   "MTC": {
@@ -5180,7 +5180,7 @@
     "location": "MOUNT COOLUM",
     "coordinate": {
       "lat": -26.562,
-      "long": 153.083
+      "lng": 153.083
     }
   },
   "MTBA": {
@@ -5189,7 +5189,7 @@
     "location": "MOUNT CORAMBA",
     "coordinate": {
       "lat": -30.222,
-      "long": 153.05
+      "lng": 153.05
     }
   },
   "TCR": {
@@ -5198,7 +5198,7 @@
     "location": "MOUNT COREE",
     "coordinate": {
       "lat": -35.308,
-      "long": 148.81
+      "lng": 148.81
     }
   },
   "MCOO": {
@@ -5207,7 +5207,7 @@
     "location": "MOUNT COTTON",
     "coordinate": {
       "lat": -27.622,
-      "long": 153.217
+      "lng": 153.217
     }
   },
   "MCOT": {
@@ -5216,7 +5216,7 @@
     "location": "MOUNT COTTRELL",
     "coordinate": {
       "lat": -37.763,
-      "long": 144.62
+      "lng": 144.62
     }
   },
   "MUE": {
@@ -5225,7 +5225,7 @@
     "location": "MOUNT DALE",
     "coordinate": {
       "lat": -32.127,
-      "long": 116.297
+      "lng": 116.297
     }
   },
   "MDY": {
@@ -5234,7 +5234,7 @@
     "location": "MOUNT DAY",
     "coordinate": {
       "lat": -32.133,
-      "long": 120.5
+      "lng": 120.5
     }
   },
   "MELE": {
@@ -5243,7 +5243,7 @@
     "location": "MOUNT ELEPHANT",
     "coordinate": {
       "lat": -16.45,
-      "long": 144.933
+      "lng": 144.933
     }
   },
   "MEV": {
@@ -5252,7 +5252,7 @@
     "location": "MOUNT EVERARD",
     "coordinate": {
       "lat": -25.183,
-      "long": 125.067
+      "lng": 125.067
     }
   },
   "MFN": {
@@ -5261,7 +5261,7 @@
     "location": "MOUNT FUNNEL",
     "coordinate": {
       "lat": -21.625,
-      "long": 149.387
+      "lng": 149.387
     }
   },
   "MGLO": {
@@ -5270,7 +5270,7 @@
     "location": "MOUNT GLORIOUS",
     "coordinate": {
       "lat": -27.333,
-      "long": 152.767
+      "lng": 152.767
     }
   },
   "MVT": {
@@ -5279,7 +5279,7 @@
     "location": "MOUNT GRAVATT",
     "coordinate": {
       "lat": -27.55,
-      "long": 153.075
+      "lng": 153.075
     }
   },
   "MJK": {
@@ -5288,7 +5288,7 @@
     "location": "MOUNT JACKSON HS",
     "coordinate": {
       "lat": -30.2,
-      "long": 119.1
+      "lng": 119.1
     }
   },
   "MTKI": {
@@ -5297,7 +5297,7 @@
     "location": "MOUNT KINGSTON",
     "coordinate": {
       "lat": -25.433,
-      "long": 133.633
+      "lng": 133.633
     }
   },
   "MLI": {
@@ -5306,7 +5306,7 @@
     "location": "MOUNT LION",
     "coordinate": {
       "lat": -23.392,
-      "long": 150.322
+      "lng": 150.322
     }
   },
   "MLUY": {
@@ -5315,7 +5315,7 @@
     "location": "MOUNT LUCY",
     "coordinate": {
       "lat": -22.6,
-      "long": 133.533
+      "lng": 133.533
     }
   },
   "MCD": {
@@ -5324,7 +5324,7 @@
     "location": "MOUNT MACEDON",
     "coordinate": {
       "lat": -37.375,
-      "long": 144.577
+      "lng": 144.577
     }
   },
   "MTMA": {
@@ -5333,7 +5333,7 @@
     "location": "MOUNT MARIA",
     "coordinate": {
       "lat": -27.467,
-      "long": 151.483
+      "lng": 151.483
     }
   },
   "MMY": {
@@ -5342,7 +5342,7 @@
     "location": "MOUNT MOLLOY",
     "coordinate": {
       "lat": -16.678,
-      "long": 145.33
+      "lng": 145.33
     }
   },
   "MOB": {
@@ -5351,7 +5351,7 @@
     "location": "MOUNT MOOMBIL",
     "coordinate": {
       "lat": -30.315,
-      "long": 152.852
+      "lng": 152.852
     }
   },
   "MGN": {
@@ -5360,7 +5360,7 @@
     "location": "MOUNT MORGAN",
     "coordinate": {
       "lat": -23.645,
-      "long": 150.392
+      "lng": 150.392
     }
   },
   "MTM": {
@@ -5369,7 +5369,7 @@
     "location": "MOUNT MUGGA",
     "coordinate": {
       "lat": -35.355,
-      "long": 149.13
+      "lng": 149.13
     }
   },
   "MIY": {
@@ -5378,7 +5378,7 @@
     "location": "MOUNT NINDERRY",
     "coordinate": {
       "lat": -26.555,
-      "long": 152.992
+      "lng": 152.992
     }
   },
   "OOR": {
@@ -5387,7 +5387,7 @@
     "location": "MOUNT OORAMINNA",
     "coordinate": {
       "lat": -24.092,
-      "long": 134.003
+      "lng": 134.003
     }
   },
   "MPG": {
@@ -5396,7 +5396,7 @@
     "location": "MOUNT PALERANG",
     "coordinate": {
       "lat": -35.433,
-      "long": 149.6
+      "lng": 149.6
     }
   },
   "PIPR": {
@@ -5405,7 +5405,7 @@
     "location": "MOUNT PIPER",
     "coordinate": {
       "lat": -37.205,
-      "long": 145.003
+      "lng": 145.003
     }
   },
   "MPT": {
@@ -5414,7 +5414,7 @@
     "location": "MOUNT PLEASANT",
     "coordinate": {
       "lat": -34.775,
-      "long": 139.05
+      "lng": 139.05
     }
   },
   "SOV": {
@@ -5423,7 +5423,7 @@
     "location": "MOUNT SOMERVILLE RADAR",
     "coordinate": {
       "lat": -28.215,
-      "long": 153.427
+      "lng": 153.427
     }
   },
   "MTEW": {
@@ -5432,7 +5432,7 @@
     "location": "MOUNT STEWAN",
     "coordinate": {
       "lat": -20.367,
-      "long": 144.05
+      "lng": 144.05
     }
   },
   "MUM": {
@@ -5441,7 +5441,7 @@
     "location": "MOUNT STROMLO",
     "coordinate": {
       "lat": -35.317,
-      "long": 149.008
+      "lng": 149.008
     }
   },
   "MUSD": {
@@ -5450,7 +5450,7 @@
     "location": "MOUNT SYDNEY",
     "coordinate": {
       "lat": -21.4,
-      "long": 121.2
+      "lng": 121.2
     }
   },
   "MTLR": {
@@ -5459,7 +5459,7 @@
     "location": "MOUNT TAYLOR",
     "coordinate": {
       "lat": -35.373,
-      "long": 149.077
+      "lng": 149.077
     }
   },
   "MTY": {
@@ -5468,7 +5468,7 @@
     "location": "MOUNT TYSON",
     "coordinate": {
       "lat": -27.583,
-      "long": 151.567
+      "lng": 151.567
     }
   },
   "MUO": {
@@ -5477,7 +5477,7 @@
     "location": "MOUNT UNDOOLYA",
     "coordinate": {
       "lat": -23.738,
-      "long": 134.103
+      "lng": 134.103
     }
   },
   "MVO": {
@@ -5486,7 +5486,7 @@
     "location": "MOUNT VERNON HS",
     "coordinate": {
       "lat": -24.233,
-      "long": 118.233
+      "lng": 118.233
     }
   },
   "MVI": {
@@ -5495,7 +5495,7 @@
     "location": "MOUNT VICTORIA",
     "coordinate": {
       "lat": -33.583,
-      "long": 150.25
+      "lng": 150.25
     }
   },
   "MTWK": {
@@ -5504,7 +5504,7 @@
     "location": "MOUNT WALKER",
     "coordinate": {
       "lat": -27.788,
-      "long": 152.557
+      "lng": 152.557
     }
   },
   "MTWG": {
@@ -5513,7 +5513,7 @@
     "location": "MOUNT WARNING",
     "coordinate": {
       "lat": -28.4,
-      "long": 153.267
+      "lng": 153.267
     }
   },
   "MTWN": {
@@ -5522,7 +5522,7 @@
     "location": "MOUNT WELLINGTON",
     "coordinate": {
       "lat": -37.56,
-      "long": 146.81
+      "lng": 146.81
     }
   },
   "MWH": {
@@ -5531,7 +5531,7 @@
     "location": "MOUNT WHEELER",
     "coordinate": {
       "lat": -23.227,
-      "long": 150.683
+      "lng": 150.683
     }
   },
   "MWK": {
@@ -5540,7 +5540,7 @@
     "location": "MOUNT WILKIE",
     "coordinate": {
       "lat": -20.952,
-      "long": 116.418
+      "lng": 116.418
     }
   },
   "MBKR": {
@@ -5549,7 +5549,7 @@
     "location": "MOUTH OF THE BLACK RIVER",
     "coordinate": {
       "lat": -19.18,
-      "long": 146.653
+      "lng": 146.653
     }
   },
   "MBHR": {
@@ -5558,7 +5558,7 @@
     "location": "MOUTH OF THE BOHLE RIVER",
     "coordinate": {
       "lat": -19.197,
-      "long": 146.702
+      "lng": 146.702
     }
   },
   "MMT": {
@@ -5567,7 +5567,7 @@
     "location": "MT MARGARET",
     "coordinate": {
       "lat": -19.35,
-      "long": 146.602
+      "lng": 146.602
     }
   },
   "MUDI": {
@@ -5576,7 +5576,7 @@
     "location": "MUD ISLAND",
     "coordinate": {
       "lat": -27.333,
-      "long": 153.25
+      "lng": 153.25
     }
   },
   "MEER": {
@@ -5585,7 +5585,7 @@
     "location": "MUDGEERABA",
     "coordinate": {
       "lat": -28.083,
-      "long": 153.367
+      "lng": 153.367
     }
   },
   "MUP": {
@@ -5594,7 +5594,7 @@
     "location": "MULLALOO PT",
     "coordinate": {
       "lat": -31.808,
-      "long": 115.725
+      "lng": 115.725
     }
   },
   "LLN": {
@@ -5603,7 +5603,7 @@
     "location": "MULLEN",
     "coordinate": {
       "lat": -25.037,
-      "long": 153
+      "lng": 153
     }
   },
   "MBBY": {
@@ -5612,7 +5612,7 @@
     "location": "MULLUMBIMBY",
     "coordinate": {
       "lat": -28.55,
-      "long": 153.5
+      "lng": 153.5
     }
   },
   "MWR": {
@@ -5621,7 +5621,7 @@
     "location": "MUNDARING WEIR",
     "coordinate": {
       "lat": -31.955,
-      "long": 116.158
+      "lng": 116.158
     }
   },
   "MAA": {
@@ -5630,7 +5630,7 @@
     "location": "MUNGALLALA",
     "coordinate": {
       "lat": -26.45,
-      "long": 147.55
+      "lng": 147.55
     }
   },
   "MUNM": {
@@ -5639,7 +5639,7 @@
     "location": "MUNIGANEEN MT",
     "coordinate": {
       "lat": -27.408,
-      "long": 151.875
+      "lng": 151.875
     }
   },
   "MHY": {
@@ -5648,7 +5648,7 @@
     "location": "MURPHY'S CREEK",
     "coordinate": {
       "lat": -27.463,
-      "long": 152.055
+      "lng": 152.055
     }
   },
   "MBD": {
@@ -5657,7 +5657,7 @@
     "location": "MURRAY BRIDGE",
     "coordinate": {
       "lat": -35.15,
-      "long": 139.31
+      "lng": 139.31
     }
   },
   "MYW": {
@@ -5666,7 +5666,7 @@
     "location": "MURRAY DOWNS",
     "coordinate": {
       "lat": -25.033,
-      "long": 139.2
+      "lng": 139.2
     }
   },
   "MMM": {
@@ -5675,7 +5675,7 @@
     "location": "MURRUMBATEMAN",
     "coordinate": {
       "lat": -34.972,
-      "long": 149.025
+      "lng": 149.025
     }
   },
   "MUI": {
@@ -5684,7 +5684,7 @@
     "location": "MURRURUNDI",
     "coordinate": {
       "lat": -31.767,
-      "long": 150.833
+      "lng": 150.833
     }
   },
   "MUR": {
@@ -5693,7 +5693,7 @@
     "location": "MURWILLUMBAH",
     "coordinate": {
       "lat": -28.325,
-      "long": 153.397
+      "lng": 153.397
     }
   },
   "MUEE": {
@@ -5702,7 +5702,7 @@
     "location": "MUTARNEE",
     "coordinate": {
       "lat": -18.95,
-      "long": 146.3
+      "lng": 146.3
     }
   },
   "MRTL": {
@@ -5711,7 +5711,7 @@
     "location": "MYRTLE",
     "coordinate": {
       "lat": -19.7,
-      "long": 146.533
+      "lng": 146.533
     }
   },
   "NMB": {
@@ -5720,7 +5720,7 @@
     "location": "NAMBOUR",
     "coordinate": {
       "lat": -26.628,
-      "long": 152.958
+      "lng": 152.958
     }
   },
   "NHS": {
@@ -5729,7 +5729,7 @@
     "location": "NAMBUCCA HEADS",
     "coordinate": {
       "lat": -30.645,
-      "long": 153.008
+      "lng": 153.008
     }
   },
   "NAA": {
@@ -5738,7 +5738,7 @@
     "location": "NARA INLET",
     "coordinate": {
       "lat": -20.15,
-      "long": 148.9
+      "lng": 148.9
     }
   },
   "NAMA": {
@@ -5747,7 +5747,7 @@
     "location": "NAROOMA",
     "coordinate": {
       "lat": -36.2,
-      "long": 150.133
+      "lng": 150.133
     }
   },
   "NRW": {
@@ -5756,7 +5756,7 @@
     "location": "NARRE WARREN",
     "coordinate": {
       "lat": -38.017,
-      "long": 145.3
+      "lng": 145.3
     }
   },
   "NOOG": {
@@ -5765,7 +5765,7 @@
     "location": "NARROOGAL",
     "coordinate": {
       "lat": -10.25,
-      "long": 142.5
+      "lng": 142.5
     }
   },
   "NKBO": {
@@ -5774,7 +5774,7 @@
     "location": "NECKARBOO",
     "coordinate": {
       "lat": -32.067,
-      "long": 144.617
+      "lng": 144.617
     }
   },
   "NEM": {
@@ -5783,7 +5783,7 @@
     "location": "NEMINGHA",
     "coordinate": {
       "lat": -31.125,
-      "long": 150.992
+      "lng": 150.992
     }
   },
   "NPBR": {
@@ -5792,7 +5792,7 @@
     "location": "NEPEAN BRIDGE",
     "coordinate": {
       "lat": -33.763,
-      "long": 150.66
+      "lng": 150.66
     }
   },
   "NEN": {
@@ -5801,7 +5801,7 @@
     "location": "NERANG",
     "coordinate": {
       "lat": -27.988,
-      "long": 153.338
+      "lng": 153.338
     }
   },
   "NGI": {
@@ -5810,7 +5810,7 @@
     "location": "NGULUPI",
     "coordinate": {
       "lat": -10.243,
-      "long": 142.41
+      "lng": 142.41
     }
   },
   "NTT": {
@@ -5819,7 +5819,7 @@
     "location": "NIMBIN TV TOWERS",
     "coordinate": {
       "lat": -28.542,
-      "long": 153.292
+      "lng": 153.292
     }
   },
   "NIM": {
@@ -5828,7 +5828,7 @@
     "location": "NIMROD PASSAGE",
     "coordinate": {
       "lat": -12.1,
-      "long": 143.783
+      "lng": 143.783
     }
   },
   "NDI": {
@@ -5837,7 +5837,7 @@
     "location": "NINDIGULLY",
     "coordinate": {
       "lat": -28.35,
-      "long": 148.817
+      "lng": 148.817
     }
   },
   "NARL": {
@@ -5846,7 +5846,7 @@
     "location": "NOARLUNGA",
     "coordinate": {
       "lat": -35.142,
-      "long": 138.488
+      "lng": 138.488
     }
   },
   "NBB": {
@@ -5855,7 +5855,7 @@
     "location": "NOBBYS HEAD",
     "coordinate": {
       "lat": -32.915,
-      "long": 151.79
+      "lng": 151.79
     }
   },
   "NDY": {
@@ -5864,7 +5864,7 @@
     "location": "NODDY REEF",
     "coordinate": {
       "lat": -13.733,
-      "long": 143.75
+      "lng": 143.75
     }
   },
   "NOME": {
@@ -5873,7 +5873,7 @@
     "location": "NOME",
     "coordinate": {
       "lat": -19.377,
-      "long": 146.92
+      "lng": 146.92
     }
   },
   "NNDO": {
@@ -5882,7 +5882,7 @@
     "location": "NOONDOO",
     "coordinate": {
       "lat": -28.617,
-      "long": 148.433
+      "lng": 148.433
     }
   },
   "NOSA": {
@@ -5891,7 +5891,7 @@
     "location": "NOOSA HEADS",
     "coordinate": {
       "lat": -26.375,
-      "long": 153.117
+      "lng": 153.117
     }
   },
   "NEQ": {
@@ -5900,7 +5900,7 @@
     "location": "NORTH EAST QUARRY",
     "coordinate": {
       "lat": -37.942,
-      "long": 144.583
+      "lng": 144.583
     }
   },
   "NOHD": {
@@ -5909,7 +5909,7 @@
     "location": "NORTH HEAD",
     "coordinate": {
       "lat": -33.822,
-      "long": 151.292
+      "lng": 151.292
     }
   },
   "NORT": {
@@ -5918,7 +5918,7 @@
     "location": "NORTH LAKE",
     "coordinate": {
       "lat": -32.077,
-      "long": 115.823
+      "lng": 115.823
     }
   },
   "NSTA": {
@@ -5927,7 +5927,7 @@
     "location": "NORTH STAR",
     "coordinate": {
       "lat": -28.917,
-      "long": 150.417
+      "lng": 150.417
     }
   },
   "NBRR": {
@@ -5936,7 +5936,7 @@
     "location": "NORTHERN TIP BERSERKERS",
     "coordinate": {
       "lat": -23.278,
-      "long": 150.588
+      "lng": 150.588
     }
   },
   "NRWN": {
@@ -5945,7 +5945,7 @@
     "location": "NORWIN",
     "coordinate": {
       "lat": -27.558,
-      "long": 151.38
+      "lng": 151.38
     }
   },
   "NUDG": {
@@ -5954,7 +5954,7 @@
     "location": "NUDGEE TIP",
     "coordinate": {
       "lat": -27.358,
-      "long": 153.092
+      "lng": 153.092
     }
   },
   "NUA": {
@@ -5963,7 +5963,7 @@
     "location": "NUNAMARA",
     "coordinate": {
       "lat": -41.392,
-      "long": 147.3
+      "lng": 147.3
     }
   },
   "NUN": {
@@ -5972,7 +5972,7 @@
     "location": "NUNDLE",
     "coordinate": {
       "lat": -31.467,
-      "long": 151.125
+      "lng": 151.125
     }
   },
   "NUPA": {
@@ -5981,7 +5981,7 @@
     "location": "NURIOOTPA",
     "coordinate": {
       "lat": -34.483,
-      "long": 139
+      "lng": 139
     }
   },
   "NCHU": {
@@ -5990,7 +5990,7 @@
     "location": "NYCHUM",
     "coordinate": {
       "lat": -16.843,
-      "long": 144.462
+      "lng": 144.462
     }
   },
   "OAT": {
@@ -5999,7 +5999,7 @@
     "location": "OATLANDS",
     "coordinate": {
       "lat": -42.3,
-      "long": 147.367
+      "lng": 147.367
     }
   },
   "OBC": {
@@ -6008,7 +6008,7 @@
     "location": "OBSERVATION CITY",
     "coordinate": {
       "lat": -31.895,
-      "long": 115.755
+      "lng": 115.755
     }
   },
   "OBSH": {
@@ -6017,7 +6017,7 @@
     "location": "OBSERVATORY HILL",
     "coordinate": {
       "lat": -28.967,
-      "long": 132
+      "lng": 132
     }
   },
   "OBY": {
@@ -6026,7 +6026,7 @@
     "location": "OLD BOMBANDY",
     "coordinate": {
       "lat": -22.433,
-      "long": 148.633
+      "lng": 148.633
     }
   },
   "OLCO": {
@@ -6035,7 +6035,7 @@
     "location": "OLD CORK",
     "coordinate": {
       "lat": -22.933,
-      "long": 141.867
+      "lng": 141.867
     }
   },
   "ONPK": {
@@ -6044,7 +6044,7 @@
     "location": "ORAN PARK",
     "coordinate": {
       "lat": -34.008,
-      "long": 150.742
+      "lng": 150.742
     }
   },
   "ORKS": {
@@ -6053,7 +6053,7 @@
     "location": "ORCHARD ROCKS",
     "coordinate": {
       "lat": -19.11,
-      "long": 146.882
+      "lng": 146.882
     }
   },
   "ORF": {
@@ -6062,7 +6062,7 @@
     "location": "ORFORD NESS",
     "coordinate": {
       "lat": -11.3,
-      "long": 142.817
+      "lng": 142.817
     }
   },
   "OHB": {
@@ -6071,7 +6071,7 @@
     "location": "OUTER HARBOR",
     "coordinate": {
       "lat": -34.775,
-      "long": 138.483
+      "lng": 138.483
     }
   },
   "OVL": {
@@ -6080,7 +6080,7 @@
     "location": "OVERLANDER",
     "coordinate": {
       "lat": -26.4,
-      "long": 114.467
+      "lng": 114.467
     }
   },
   "OEN": {
@@ -6089,7 +6089,7 @@
     "location": "OWEN",
     "coordinate": {
       "lat": -34.27,
-      "long": 138.542
+      "lng": 138.542
     }
   },
   "OWS": {
@@ -6098,7 +6098,7 @@
     "location": "OWEN SPRINGS",
     "coordinate": {
       "lat": -23.875,
-      "long": 133.472
+      "lng": 133.472
     }
   },
   "OFD": {
@@ -6107,7 +6107,7 @@
     "location": "OXENFORD",
     "coordinate": {
       "lat": -27.883,
-      "long": 153.317
+      "lng": 153.317
     }
   },
   "PCVE": {
@@ -6116,7 +6116,7 @@
     "location": "PALM COVE",
     "coordinate": {
       "lat": -16.75,
-      "long": 145.667
+      "lng": 145.667
     }
   },
   "PFRM": {
@@ -6125,7 +6125,7 @@
     "location": "PALM FARM",
     "coordinate": {
       "lat": -17.043,
-      "long": 145.762
+      "lng": 145.762
     }
   },
   "PLW": {
@@ -6134,7 +6134,7 @@
     "location": "PALM MEADOWS",
     "coordinate": {
       "lat": -28.033,
-      "long": 152.408
+      "lng": 152.408
     }
   },
   "PLU": {
@@ -6143,7 +6143,7 @@
     "location": "PALUMA DAM",
     "coordinate": {
       "lat": -18.955,
-      "long": 146.145
+      "lng": 146.145
     }
   },
   "SFG": {
@@ -6152,7 +6152,7 @@
     "location": "PARADISE GARDENS",
     "coordinate": {
       "lat": -28.018,
-      "long": 153.375
+      "lng": 153.375
     }
   },
   "PKR": {
@@ -6161,7 +6161,7 @@
     "location": "PARK RIDGE WATER TOWER",
     "coordinate": {
       "lat": -27.705,
-      "long": 153.038
+      "lng": 153.038
     }
   },
   "PRKH": {
@@ -6170,7 +6170,7 @@
     "location": "PARKHURST",
     "coordinate": {
       "lat": -23.303,
-      "long": 150.513
+      "lng": 150.513
     }
   },
   "PRT": {
@@ -6179,7 +6179,7 @@
     "location": "PARRAMATTA",
     "coordinate": {
       "lat": -33.817,
-      "long": 151.005
+      "lng": 151.005
     }
   },
   "PAA": {
@@ -6188,7 +6188,7 @@
     "location": "PATONGA",
     "coordinate": {
       "lat": -33.552,
-      "long": 151.263
+      "lng": 151.263
     }
   },
   "PECO": {
@@ -6197,7 +6197,7 @@
     "location": "PEACOCK",
     "coordinate": {
       "lat": -18.683,
-      "long": 145.983
+      "lng": 145.983
     }
   },
   "PDNE": {
@@ -6206,7 +6206,7 @@
     "location": "PEAK DOWNS MINE",
     "coordinate": {
       "lat": -22.25,
-      "long": 148.183
+      "lng": 148.183
     }
   },
   "PEAR": {
@@ -6215,7 +6215,7 @@
     "location": "PEARSON ISLES",
     "coordinate": {
       "lat": -33.95,
-      "long": 134.267
+      "lng": 134.267
     }
   },
   "PCCK": {
@@ -6224,7 +6224,7 @@
     "location": "PELICAN CREEK",
     "coordinate": {
       "lat": -25.233,
-      "long": 150.9
+      "lng": 150.9
     }
   },
   "PENH": {
@@ -6233,7 +6233,7 @@
     "location": "PENNANT HILLS STROBE",
     "coordinate": {
       "lat": -33.74,
-      "long": 151.07
+      "lng": 151.07
     }
   },
   "PENT": {
@@ -6242,7 +6242,7 @@
     "location": "PENRITH",
     "coordinate": {
       "lat": -33.758,
-      "long": 150.7
+      "lng": 150.7
     }
   },
   "PVS": {
@@ -6251,7 +6251,7 @@
     "location": "PERCIVAL LAKES",
     "coordinate": {
       "lat": -21.58,
-      "long": 124.16
+      "lng": 124.16
     }
   },
   "PEG": {
@@ -6260,7 +6260,7 @@
     "location": "PEREGIAN",
     "coordinate": {
       "lat": -26.517,
-      "long": 153.1
+      "lng": 153.1
     }
   },
   "PCKD": {
@@ -6269,7 +6269,7 @@
     "location": "PERSEVERENCE CREEK DAM",
     "coordinate": {
       "lat": -27.305,
-      "long": 152.122
+      "lng": 152.122
     }
   },
   "PCTY": {
@@ -6278,7 +6278,7 @@
     "location": "PERTH CITY",
     "coordinate": {
       "lat": -31.955,
-      "long": 115.857
+      "lng": 115.857
     }
   },
   "PTI": {
@@ -6287,7 +6287,7 @@
     "location": "PETRIE",
     "coordinate": {
       "lat": -27.267,
-      "long": 152.975
+      "lng": 152.975
     }
   },
   "PIB": {
@@ -6296,7 +6296,7 @@
     "location": "PICKERING BROOK GOLF COURSE",
     "coordinate": {
       "lat": -32.038,
-      "long": 116.112
+      "lng": 116.112
     }
   },
   "PIL": {
@@ -6305,7 +6305,7 @@
     "location": "PICKET HILL",
     "coordinate": {
       "lat": -30.572,
-      "long": 152.983
+      "lng": 152.983
     }
   },
   "PCA": {
@@ -6314,7 +6314,7 @@
     "location": "PICNIC BAY",
     "coordinate": {
       "lat": -19.183,
-      "long": 146.85
+      "lng": 146.85
     }
   },
   "PNP": {
@@ -6323,7 +6323,7 @@
     "location": "PICNIC PT",
     "coordinate": {
       "lat": -33.98,
-      "long": 151.002
+      "lng": 151.002
     }
   },
   "PIC": {
@@ -6332,7 +6332,7 @@
     "location": "PICTON",
     "coordinate": {
       "lat": -34.175,
-      "long": 150.617
+      "lng": 150.617
     }
   },
   "PIG": {
@@ -6341,7 +6341,7 @@
     "location": "PIGGERY",
     "coordinate": {
       "lat": -36.013,
-      "long": 146.792
+      "lng": 146.792
     }
   },
   "PIPT": {
@@ -6350,7 +6350,7 @@
     "location": "PINE PT",
     "coordinate": {
       "lat": -34.567,
-      "long": 137.883
+      "lng": 137.883
     }
   },
   "PING": {
@@ -6359,7 +6359,7 @@
     "location": "PINGARING",
     "coordinate": {
       "lat": -32.758,
-      "long": 118.625
+      "lng": 118.625
     }
   },
   "PII": {
@@ -6368,7 +6368,7 @@
     "location": "PIRATE PT",
     "coordinate": {
       "lat": -23.508,
-      "long": 150.642
+      "lng": 150.642
     }
   },
   "PWH": {
@@ -6377,7 +6377,7 @@
     "location": "PITTSWORTH",
     "coordinate": {
       "lat": -27.722,
-      "long": 151.633
+      "lng": 151.633
     }
   },
   "PTOM": {
@@ -6386,7 +6386,7 @@
     "location": "POINT ORMOND",
     "coordinate": {
       "lat": -37.883,
-      "long": 144.983
+      "lng": 144.983
     }
   },
   "PSS": {
@@ -6395,7 +6395,7 @@
     "location": "POINT STEPHENS LIGHTHOUSE",
     "coordinate": {
       "lat": -32.747,
-      "long": 152.208
+      "lng": 152.208
     }
   },
   "PRP": {
@@ -6404,7 +6404,7 @@
     "location": "PORPOISE PT",
     "coordinate": {
       "lat": -27.937,
-      "long": 153.425
+      "lng": 153.425
     }
   },
   "PAL": {
@@ -6413,7 +6413,7 @@
     "location": "PORT ADELAIDE",
     "coordinate": {
       "lat": -34.85,
-      "long": 138.5
+      "lng": 138.5
     }
   },
   "PMA": {
@@ -6422,7 +6422,7 @@
     "location": "PORT ALMA",
     "coordinate": {
       "lat": -23.583,
-      "long": 150.858
+      "lng": 150.858
     }
   },
   "POMP": {
@@ -6431,7 +6431,7 @@
     "location": "PORT CAMPBELL",
     "coordinate": {
       "lat": -38.62,
-      "long": 142.995
+      "lng": 142.995
     }
   },
   "PDV": {
@@ -6440,7 +6440,7 @@
     "location": "PORT DAVEY",
     "coordinate": {
       "lat": -43.333,
-      "long": 145.883
+      "lng": 145.883
     }
   },
   "PTD": {
@@ -6449,7 +6449,7 @@
     "location": "PORT DOUGLAS",
     "coordinate": {
       "lat": -16.483,
-      "long": 145.463
+      "lng": 145.463
     }
   },
   "PJUL": {
@@ -6458,7 +6458,7 @@
     "location": "PORT JULIA",
     "coordinate": {
       "lat": -34.667,
-      "long": 137.878
+      "lng": 137.878
     }
   },
   "PMG": {
@@ -6467,7 +6467,7 @@
     "location": "PORT MUSGRAVE",
     "coordinate": {
       "lat": -12,
-      "long": 141.933
+      "lng": 141.933
     }
   },
   "PNE": {
@@ -6476,7 +6476,7 @@
     "location": "PORT NEILL",
     "coordinate": {
       "lat": -34.117,
-      "long": 136.35
+      "lng": 136.35
     }
   },
   "PNL": {
@@ -6485,7 +6485,7 @@
     "location": "PORT NOARLUNGA",
     "coordinate": {
       "lat": -35.15,
-      "long": 138.467
+      "lng": 138.467
     }
   },
   "PIPS": {
@@ -6494,7 +6494,7 @@
     "location": "PORT PHILLIP HEADS",
     "coordinate": {
       "lat": -38.293,
-      "long": 144.633
+      "lng": 144.633
     }
   },
   "PVCT": {
@@ -6503,7 +6503,7 @@
     "location": "PORT VINCENT",
     "coordinate": {
       "lat": -34.782,
-      "long": 137.862
+      "lng": 137.862
     }
   },
   "POWR": {
@@ -6512,7 +6512,7 @@
     "location": "POWERHOUSE",
     "coordinate": {
       "lat": -32.095,
-      "long": 115.757
+      "lng": 115.757
     }
   },
   "PWLC": {
@@ -6521,7 +6521,7 @@
     "location": "POWERLINE CROSSING",
     "coordinate": {
       "lat": -37.613,
-      "long": 144.778
+      "lng": 144.778
     }
   },
   "PRES": {
@@ -6530,7 +6530,7 @@
     "location": "PRESCOTT LAKES",
     "coordinate": {
       "lat": -20.75,
-      "long": 125.167
+      "lng": 125.167
     }
   },
   "PRS": {
@@ -6539,7 +6539,7 @@
     "location": "PRIMROSE SANDS",
     "coordinate": {
       "lat": -42.883,
-      "long": 147.667
+      "lng": 147.667
     }
   },
   "PCB": {
@@ -6548,7 +6548,7 @@
     "location": "PRINCESS CHARLOTTE BAY",
     "coordinate": {
       "lat": -14.333,
-      "long": 144.117
+      "lng": 144.117
     }
   },
   "PSP": {
@@ -6557,7 +6557,7 @@
     "location": "PROSPECT RESV",
     "coordinate": {
       "lat": -33.817,
-      "long": 150.917
+      "lng": 150.917
     }
   },
   "PSF": {
@@ -6566,7 +6566,7 @@
     "location": "PROSSERS SUGARLOAF",
     "coordinate": {
       "lat": -42.675,
-      "long": 147.825
+      "lng": 147.825
     }
   },
   "PSTO": {
@@ -6575,7 +6575,7 @@
     "location": "PROSTON",
     "coordinate": {
       "lat": -26.167,
-      "long": 151.6
+      "lng": 151.6
     }
   },
   "DNGR": {
@@ -6584,7 +6584,7 @@
     "location": "PT DANGER",
     "coordinate": {
       "lat": -28.165,
-      "long": 153.552
+      "lng": 153.552
     }
   },
   "FAW": {
@@ -6593,7 +6593,7 @@
     "location": "PT FAWCETT",
     "coordinate": {
       "lat": -11.8,
-      "long": 130.017
+      "lng": 130.017
     }
   },
   "PMPH": {
@@ -6602,7 +6602,7 @@
     "location": "PUMPHREY'S BRIDGE",
     "coordinate": {
       "lat": -32.667,
-      "long": 116.9
+      "lng": 116.9
     }
   },
   "PBF": {
@@ -6611,7 +6611,7 @@
     "location": "PURLINGBROOKE FALLS",
     "coordinate": {
       "lat": -28.167,
-      "long": 153.267
+      "lng": 153.267
     }
   },
   "PWDA": {
@@ -6620,7 +6620,7 @@
     "location": "PURRAWUNDA",
     "coordinate": {
       "lat": -27.538,
-      "long": 151.625
+      "lng": 151.625
     }
   },
   "PUTY": {
@@ -6629,16 +6629,16 @@
     "location": "PUTTY",
     "coordinate": {
       "lat": -32.967,
-      "long": 150.75
+      "lng": 150.75
     }
   },
   "PYA": {
     "code": "PYA",
     "state": "VIC",
-    "location": "PYALONG",
+    "location": "PYAlng",
     "coordinate": {
       "lat": -37.117,
-      "long": 144.855
+      "lng": 144.855
     }
   },
   "PYK": {
@@ -6647,7 +6647,7 @@
     "location": "PYKES CREEK RESV",
     "coordinate": {
       "lat": -37.6,
-      "long": 144.295
+      "lng": 144.295
     }
   },
   "QE2": {
@@ -6656,7 +6656,7 @@
     "location": "QE2 STADIUM",
     "coordinate": {
       "lat": -27.558,
-      "long": 153.063
+      "lng": 153.063
     }
   },
   "QAI": {
@@ -6665,7 +6665,7 @@
     "location": "QUAIL ISLAND",
     "coordinate": {
       "lat": -22.133,
-      "long": 150
+      "lng": 150
     }
   },
   "QBN": {
@@ -6674,7 +6674,7 @@
     "location": "QUEANBEYAN",
     "coordinate": {
       "lat": -35.36,
-      "long": 149.243
+      "lng": 149.243
     }
   },
   "Q1": {
@@ -6683,7 +6683,7 @@
     "location": "QUEBEC ONE",
     "coordinate": {
       "lat": -28.007,
-      "long": 153.43
+      "lng": 153.43
     }
   },
   "QLW": {
@@ -6692,7 +6692,7 @@
     "location": "QUINALOW",
     "coordinate": {
       "lat": -27.105,
-      "long": 151.622
+      "lng": 151.622
     }
   },
   "QNDI": {
@@ -6701,7 +6701,7 @@
     "location": "QUIRINDI",
     "coordinate": {
       "lat": -31.49,
-      "long": 150.513
+      "lng": 150.513
     }
   },
   "RIL": {
@@ -6710,7 +6710,7 @@
     "location": "RABBIT ISLAND",
     "coordinate": {
       "lat": -20.833,
-      "long": 148.9
+      "lng": 148.9
     }
   },
   "RBY": {
@@ -6719,7 +6719,7 @@
     "location": "RABY BAY",
     "coordinate": {
       "lat": -27.517,
-      "long": 153.275
+      "lng": 153.275
     }
   },
   "RDRS": {
@@ -6728,7 +6728,7 @@
     "location": "RADAR SITE",
     "coordinate": {
       "lat": -19.2,
-      "long": 146.767
+      "lng": 146.767
     }
   },
   "RADT": {
@@ -6737,7 +6737,7 @@
     "location": "RADIO TELESCOPE",
     "coordinate": {
       "lat": -42.817,
-      "long": 147.45
+      "lng": 147.45
     }
   },
   "RAIS": {
@@ -6746,7 +6746,7 @@
     "location": "RAINE ISLAND",
     "coordinate": {
       "lat": -11.6,
-      "long": 144.033
+      "lng": 144.033
     }
   },
   "RNN": {
@@ -6755,7 +6755,7 @@
     "location": "RANNES",
     "coordinate": {
       "lat": -24.1,
-      "long": 150.117
+      "lng": 150.117
     }
   },
   "RAPD": {
@@ -6764,7 +6764,7 @@
     "location": "RAPID BAY",
     "coordinate": {
       "lat": -35.522,
-      "long": 138.183
+      "lng": 138.183
     }
   },
   "RTY": {
@@ -6773,7 +6773,7 @@
     "location": "RATHDOWNEY",
     "coordinate": {
       "lat": -28.217,
-      "long": 152.867
+      "lng": 152.867
     }
   },
   "RKI": {
@@ -6782,7 +6782,7 @@
     "location": "RATTLESNAKE ISLAND",
     "coordinate": {
       "lat": -19.033,
-      "long": 146.612
+      "lng": 146.612
     }
   },
   "RCS": {
@@ -6791,7 +6791,7 @@
     "location": "RED CLIFFS",
     "coordinate": {
       "lat": -34.3,
-      "long": 142.217
+      "lng": 142.217
     }
   },
   "RDHI": {
@@ -6800,7 +6800,7 @@
     "location": "RED HILL",
     "coordinate": {
       "lat": -21.633,
-      "long": 148.05
+      "lng": 148.05
     }
   },
   "RER": {
@@ -6809,7 +6809,7 @@
     "location": "RED ROCK",
     "coordinate": {
       "lat": -29.987,
-      "long": 153.225
+      "lng": 153.225
     }
   },
   "REDC": {
@@ -6818,7 +6818,7 @@
     "location": "REDCLIFFE BRIDGE",
     "coordinate": {
       "lat": -31.93,
-      "long": 115.938
+      "lng": 115.938
     }
   },
   "RDV": {
@@ -6827,7 +6827,7 @@
     "location": "REDCLIFFE VALE HS",
     "coordinate": {
       "lat": -21.117,
-      "long": 148.117
+      "lng": 148.117
     }
   },
   "REDF": {
@@ -6836,7 +6836,7 @@
     "location": "REDFERN RAILWAY STATION",
     "coordinate": {
       "lat": -33.892,
-      "long": 151.198
+      "lng": 151.198
     }
   },
   "REDB": {
@@ -6845,7 +6845,7 @@
     "location": "REDLAND BAY",
     "coordinate": {
       "lat": -27.6,
-      "long": 153.3
+      "lng": 153.3
     }
   },
   "REDL": {
@@ -6854,7 +6854,7 @@
     "location": "REDLYNCH",
     "coordinate": {
       "lat": -16.883,
-      "long": 145.7
+      "lng": 145.7
     }
   },
   "RENR": {
@@ -6863,7 +6863,7 @@
     "location": "RENNER SPRINGS",
     "coordinate": {
       "lat": -18.317,
-      "long": 133.8
+      "lng": 133.8
     }
   },
   "RESC": {
@@ -6872,7 +6872,7 @@
     "location": "RESEARCH CENTRE",
     "coordinate": {
       "lat": -14.78,
-      "long": 131.937
+      "lng": 131.937
     }
   },
   "RCH": {
@@ -6881,7 +6881,7 @@
     "location": "RICHMOND",
     "coordinate": {
       "lat": -42.733,
-      "long": 147.433
+      "lng": 147.433
     }
   },
   "RIT": {
@@ -6890,7 +6890,7 @@
     "location": "RING TANK",
     "coordinate": {
       "lat": -26.75,
-      "long": 153.092
+      "lng": 153.092
     }
   },
   "RMH": {
@@ -6899,7 +6899,7 @@
     "location": "RIVER MOUTH",
     "coordinate": {
       "lat": -34.583,
-      "long": 138.358
+      "lng": 138.358
     }
   },
   "RIV": {
@@ -6908,7 +6908,7 @@
     "location": "RIVERINA CAMPUS",
     "coordinate": {
       "lat": -35.055,
-      "long": 147.347
+      "lng": 147.347
     }
   },
   "RVTN": {
@@ -6917,7 +6917,7 @@
     "location": "RIVERTON",
     "coordinate": {
       "lat": -34.165,
-      "long": 138.747
+      "lng": 138.747
     }
   },
   "ROTC": {
@@ -6926,7 +6926,7 @@
     "location": "ROBINA TOWN CENTRE",
     "coordinate": {
       "lat": -28.077,
-      "long": 153.385
+      "lng": 153.385
     }
   },
   "ROK": {
@@ -6935,7 +6935,7 @@
     "location": "ROCKBANK",
     "coordinate": {
       "lat": -37.728,
-      "long": 144.653
+      "lng": 144.653
     }
   },
   "ROHM": {
@@ -6944,7 +6944,7 @@
     "location": "ROCKINGHAM",
     "coordinate": {
       "lat": -32.292,
-      "long": 115.742
+      "lng": 115.742
     }
   },
   "RLY": {
@@ -6953,7 +6953,7 @@
     "location": "ROLEYSTONE",
     "coordinate": {
       "lat": -32.117,
-      "long": 116.075
+      "lng": 116.075
     }
   },
   "RGS": {
@@ -6962,7 +6962,7 @@
     "location": "ROLLINGSTONE",
     "coordinate": {
       "lat": -19.047,
-      "long": 146.388
+      "lng": 146.388
     }
   },
   "RKWC": {
@@ -6971,7 +6971,7 @@
     "location": "ROOKWOOD CEMETERY",
     "coordinate": {
       "lat": -33.875,
-      "long": 151.055
+      "lng": 151.055
     }
   },
   "RSH": {
@@ -6980,7 +6980,7 @@
     "location": "ROSEHILL RACECOURSE",
     "coordinate": {
       "lat": -33.825,
-      "long": 151.025
+      "lng": 151.025
     }
   },
   "RVB": {
@@ -6989,7 +6989,7 @@
     "location": "ROSEVILLE BRIDGE",
     "coordinate": {
       "lat": -33.767,
-      "long": 151.2
+      "lng": 151.2
     }
   },
   "RSWD": {
@@ -6998,7 +6998,7 @@
     "location": "ROSEWOOD",
     "coordinate": {
       "lat": -27.637,
-      "long": 152.593
+      "lng": 152.593
     }
   },
   "RSEW": {
@@ -7007,7 +7007,7 @@
     "location": "ROSEWOOD ISLAND",
     "coordinate": {
       "lat": -22.4,
-      "long": 149.733
+      "lng": 149.733
     }
   },
   "RRDM": {
@@ -7016,7 +7016,7 @@
     "location": "ROSS RIVER DAM",
     "coordinate": {
       "lat": -19.412,
-      "long": 146.733
+      "lng": 146.733
     }
   },
   "RLR": {
@@ -7025,7 +7025,7 @@
     "location": "ROSSLYNNE RESV",
     "coordinate": {
       "lat": -37.47,
-      "long": 144.563
+      "lng": 144.563
     }
   },
   "RMT": {
@@ -7034,7 +7034,7 @@
     "location": "ROUND MT",
     "coordinate": {
       "lat": -19.462,
-      "long": 146.695
+      "lng": 146.695
     }
   },
   "RCB": {
@@ -7043,7 +7043,7 @@
     "location": "RUSH CUTTERS BAY",
     "coordinate": {
       "lat": -33.873,
-      "long": 151.232
+      "lng": 151.232
     }
   },
   "RUIS": {
@@ -7052,7 +7052,7 @@
     "location": "RUSSELL ISLAND",
     "coordinate": {
       "lat": -27.667,
-      "long": 153.383
+      "lng": 153.383
     }
   },
   "RYB": {
@@ -7061,7 +7061,7 @@
     "location": "RYDE BRIDGE",
     "coordinate": {
       "lat": -33.825,
-      "long": 151.092
+      "lng": 151.092
     }
   },
   "SADD": {
@@ -7070,7 +7070,7 @@
     "location": "SADDLE MT",
     "coordinate": {
       "lat": -16.82,
-      "long": 145.65
+      "lng": 145.65
     }
   },
   "SSV": {
@@ -7079,7 +7079,7 @@
     "location": "SAMSONVALE",
     "coordinate": {
       "lat": -27.278,
-      "long": 152.855
+      "lng": 152.855
     }
   },
   "SAU": {
@@ -7088,7 +7088,7 @@
     "location": "SANCTUARY COVE",
     "coordinate": {
       "lat": -27.858,
-      "long": 153.375
+      "lng": 153.375
     }
   },
   "SALW": {
@@ -7097,7 +7097,7 @@
     "location": "SANDALWOOD",
     "coordinate": {
       "lat": -34.95,
-      "long": 140.133
+      "lng": 140.133
     }
   },
   "SSTO": {
@@ -7106,7 +7106,7 @@
     "location": "SANDERSTON",
     "coordinate": {
       "lat": -34.743,
-      "long": 139.252
+      "lng": 139.252
     }
   },
   "SAND": {
@@ -7115,7 +7115,7 @@
     "location": "SANDGATE PIER",
     "coordinate": {
       "lat": -27.328,
-      "long": 153.088
+      "lng": 153.088
     }
   },
   "SDP": {
@@ -7124,7 +7124,7 @@
     "location": "SANDY PT",
     "coordinate": {
       "lat": -38.417,
-      "long": 145.233
+      "lng": 145.233
     }
   },
   "STT": {
@@ -7133,7 +7133,7 @@
     "location": "SANTA TERESA",
     "coordinate": {
       "lat": -24.133,
-      "long": 134.373
+      "lng": 134.373
     }
   },
   "SJI": {
@@ -7142,7 +7142,7 @@
     "location": "SARAJI",
     "coordinate": {
       "lat": -22.433,
-      "long": 148.283
+      "lng": 148.283
     }
   },
   "SRIN": {
@@ -7151,7 +7151,7 @@
     "location": "SARINA",
     "coordinate": {
       "lat": -21.425,
-      "long": 149.217
+      "lng": 149.217
     }
   },
   "SVR": {
@@ -7160,7 +7160,7 @@
     "location": "SAVAGE RIVER",
     "coordinate": {
       "lat": -41.583,
-      "long": 145.133
+      "lng": 145.133
     }
   },
   "SWTE": {
@@ -7169,7 +7169,7 @@
     "location": "SAWTELL",
     "coordinate": {
       "lat": -30.367,
-      "long": 153.1
+      "lng": 153.1
     }
   },
   "SWY": {
@@ -7178,7 +7178,7 @@
     "location": "SAWYERS VALLEY",
     "coordinate": {
       "lat": -31.905,
-      "long": 116.205
+      "lng": 116.205
     }
   },
   "STC": {
@@ -7187,7 +7187,7 @@
     "location": "SCOTT CREEK",
     "coordinate": {
       "lat": -14.833,
-      "long": 131.833
+      "lng": 131.833
     }
   },
   "STTE": {
@@ -7196,7 +7196,7 @@
     "location": "SCOTTSDALE",
     "coordinate": {
       "lat": -41.167,
-      "long": 147.517
+      "lng": 147.517
     }
   },
   "SECF": {
@@ -7205,7 +7205,7 @@
     "location": "SEA CLIFF BRIDGE",
     "coordinate": {
       "lat": -34.253,
-      "long": 150.975
+      "lng": 150.975
     }
   },
   "SVAL": {
@@ -7214,7 +7214,7 @@
     "location": "SECOND VALLEY",
     "coordinate": {
       "lat": -35.517,
-      "long": 138.217
+      "lng": 138.217
     }
   },
   "SLB": {
@@ -7223,7 +7223,7 @@
     "location": "SELLICKS BEACH",
     "coordinate": {
       "lat": -35.342,
-      "long": 138.45
+      "lng": 138.45
     }
   },
   "SDS": {
@@ -7232,7 +7232,7 @@
     "location": "SHAUNA DOWNS",
     "coordinate": {
       "lat": -24.617,
-      "long": 149.917
+      "lng": 149.917
     }
   },
   "SHCR": {
@@ -7241,7 +7241,7 @@
     "location": "SHAW CREEK",
     "coordinate": {
       "lat": -25.217,
-      "long": 129.73
+      "lng": 129.73
     }
   },
   "SHI": {
@@ -7250,7 +7250,7 @@
     "location": "SHAW ISLAND",
     "coordinate": {
       "lat": -20.513,
-      "long": 149.087
+      "lng": 149.087
     }
   },
   "SHL": {
@@ -7259,7 +7259,7 @@
     "location": "SHELBURNE BAY",
     "coordinate": {
       "lat": -11.883,
-      "long": 143.017
+      "lng": 143.017
     }
   },
   "SEL": {
@@ -7268,7 +7268,7 @@
     "location": "SHELLEY BRIDGE",
     "coordinate": {
       "lat": -32.025,
-      "long": 115.9
+      "lng": 115.9
     }
   },
   "SHOAL": {
@@ -7277,7 +7277,7 @@
     "location": "SHOAL",
     "coordinate": {
       "lat": -38.067,
-      "long": 145.033
+      "lng": 145.033
     }
   },
   "SSG": {
@@ -7286,7 +7286,7 @@
     "location": "SIMPSONS GAP",
     "coordinate": {
       "lat": -23.68,
-      "long": 133.717
+      "lng": 133.717
     }
   },
   "SIXS": {
@@ -7295,7 +7295,7 @@
     "location": "SIX SOUTH",
     "coordinate": {
       "lat": -32.185,
-      "long": 115.933
+      "lng": 115.933
     }
   },
   "SKP": {
@@ -7304,7 +7304,7 @@
     "location": "SKIPTON",
     "coordinate": {
       "lat": -37.683,
-      "long": 143.367
+      "lng": 143.367
     }
   },
   "SLPT": {
@@ -7313,7 +7313,7 @@
     "location": "SLADE POINT",
     "coordinate": {
       "lat": -21.065,
-      "long": 149.225
+      "lng": 149.225
     }
   },
   "SGK": {
@@ -7322,7 +7322,7 @@
     "location": "SLOPING HUMMOCK",
     "coordinate": {
       "lat": -24.85,
-      "long": 152.433
+      "lng": 152.433
     }
   },
   "SLP": {
@@ -7331,7 +7331,7 @@
     "location": "SLOPING ISLAND",
     "coordinate": {
       "lat": -42.948,
-      "long": 147.648
+      "lng": 147.648
     }
   },
   "SMIF": {
@@ -7340,7 +7340,7 @@
     "location": "SMITHFIELD",
     "coordinate": {
       "lat": -16.833,
-      "long": 145.683
+      "lng": 145.683
     }
   },
   "SYI": {
@@ -7349,7 +7349,7 @@
     "location": "SNOWY INTERSECTION",
     "coordinate": {
       "lat": -35.183,
-      "long": 147.868
+      "lng": 147.868
     }
   },
   "SOFA": {
@@ -7358,7 +7358,7 @@
     "location": "SOFALA",
     "coordinate": {
       "lat": -33.017,
-      "long": 149.683
+      "lng": 149.683
     }
   },
   "SRP": {
@@ -7367,7 +7367,7 @@
     "location": "SOLDIERS POINT",
     "coordinate": {
       "lat": -32.7,
-      "long": 152.063
+      "lng": 152.063
     }
   },
   "SMD": {
@@ -7376,7 +7376,7 @@
     "location": "SOMERSET DAM",
     "coordinate": {
       "lat": -27.122,
-      "long": 152.55
+      "lng": 152.55
     }
   },
   "SMN": {
@@ -7385,7 +7385,7 @@
     "location": "SOMERTON",
     "coordinate": {
       "lat": -30.942,
-      "long": 150.637
+      "lng": 150.637
     }
   },
   "SORL": {
@@ -7394,7 +7394,7 @@
     "location": "SORELL",
     "coordinate": {
       "lat": -42.783,
-      "long": 147.583
+      "lng": 147.583
     }
   },
   "SEC": {
@@ -7403,7 +7403,7 @@
     "location": "SOUTH EAST CAPE",
     "coordinate": {
       "lat": -43.65,
-      "long": 146.817
+      "lng": 146.817
     }
   },
   "SMIB": {
@@ -7412,7 +7412,7 @@
     "location": "SOUTH MISSION BEACH",
     "coordinate": {
       "lat": -17.948,
-      "long": 146.092
+      "lng": 146.092
     }
   },
   "SPR": {
@@ -7421,7 +7421,7 @@
     "location": "SOUTH PARA RESV",
     "coordinate": {
       "lat": -34.683,
-      "long": 138.867
+      "lng": 138.867
     }
   },
   "SPN": {
@@ -7430,7 +7430,7 @@
     "location": "SOUTH PINNACLE",
     "coordinate": {
       "lat": -19.408,
-      "long": 146.633
+      "lng": 146.633
     }
   },
   "SDG": {
@@ -7439,7 +7439,7 @@
     "location": "SOUTHEDGE",
     "coordinate": {
       "lat": -16.817,
-      "long": 145.217
+      "lng": 145.217
     }
   },
   "SBRR": {
@@ -7448,7 +7448,7 @@
     "location": "SOUTHERN TIP BERSERKERS",
     "coordinate": {
       "lat": -23.4,
-      "long": 150.625
+      "lng": 150.625
     }
   },
   "SPT": {
@@ -7457,7 +7457,7 @@
     "location": "SOUTHPORT",
     "coordinate": {
       "lat": -27.917,
-      "long": 153.372
+      "lng": 153.372
     }
   },
   "STR": {
@@ -7466,7 +7466,7 @@
     "location": "SOUTHPORT ROAD",
     "coordinate": {
       "lat": -12.65,
-      "long": 130.775
+      "lng": 130.775
     }
   },
   "SPIT": {
@@ -7475,7 +7475,7 @@
     "location": "SPIT BRIDGE",
     "coordinate": {
       "lat": -33.803,
-      "long": 151.247
+      "lng": 151.247
     }
   },
   "SRR": {
@@ -7484,7 +7484,7 @@
     "location": "SPLIT ROCK RESV",
     "coordinate": {
       "lat": -30.575,
-      "long": 150.7
+      "lng": 150.7
     }
   },
   "SOI": {
@@ -7493,7 +7493,7 @@
     "location": "SPLIT SOLITARY ISLAND",
     "coordinate": {
       "lat": -30.242,
-      "long": 153.18
+      "lng": 153.18
     }
   },
   "SPMT": {
@@ -7502,7 +7502,7 @@
     "location": "SPRING MOUNTAIN",
     "coordinate": {
       "lat": -27.713,
-      "long": 152.885
+      "lng": 152.885
     }
   },
   "SBK": {
@@ -7511,7 +7511,7 @@
     "location": "SPRINGBROOK",
     "coordinate": {
       "lat": -28.232,
-      "long": 153.278
+      "lng": 153.278
     }
   },
   "SGM": {
@@ -7520,7 +7520,7 @@
     "location": "ST GEORGES MINE",
     "coordinate": {
       "lat": -16.5,
-      "long": 144.4
+      "lng": 144.4
     }
   },
   "SHIS": {
@@ -7529,7 +7529,7 @@
     "location": "ST HELENA ISLAND",
     "coordinate": {
       "lat": -27.378,
-      "long": 153.233
+      "lng": 153.233
     }
   },
   "SIS": {
@@ -7538,7 +7538,7 @@
     "location": "ST IVES SHOWGROUND",
     "coordinate": {
       "lat": -33.705,
-      "long": 151.183
+      "lng": 151.183
     }
   },
   "SKI": {
@@ -7547,7 +7547,7 @@
     "location": "ST KILDA",
     "coordinate": {
       "lat": -34.742,
-      "long": 138.53
+      "lng": 138.53
     }
   },
   "SRY": {
@@ -7556,7 +7556,7 @@
     "location": "STANSBURY",
     "coordinate": {
       "lat": -34.912,
-      "long": 137.788
+      "lng": 137.788
     }
   },
   "SLL": {
@@ -7565,7 +7565,7 @@
     "location": "STANWELL PARK",
     "coordinate": {
       "lat": -34.228,
-      "long": 150.988
+      "lng": 150.988
     }
   },
   "SPS": {
@@ -7574,7 +7574,7 @@
     "location": "STANWELL POWER STN",
     "coordinate": {
       "lat": -23.5,
-      "long": 150.333
+      "lng": 150.333
     }
   },
   "SNP": {
@@ -7583,7 +7583,7 @@
     "location": "STATION PIER",
     "coordinate": {
       "lat": -37.848,
-      "long": 144.93
+      "lng": 144.93
     }
   },
   "STPK": {
@@ -7592,7 +7592,7 @@
     "location": "STEPHENSONS PEAK",
     "coordinate": {
       "lat": -25.5,
-      "long": 130.183
+      "lng": 130.183
     }
   },
   "SCRK": {
@@ -7601,7 +7601,7 @@
     "location": "STONEY CREEK",
     "coordinate": {
       "lat": -16.878,
-      "long": 145.655
+      "lng": 145.655
     }
   },
   "SBD": {
@@ -7610,7 +7610,7 @@
     "location": "STORY BRIDGE",
     "coordinate": {
       "lat": -27.465,
-      "long": 153.038
+      "lng": 153.038
     }
   },
   "STOT": {
@@ -7619,7 +7619,7 @@
     "location": "STOTTS ISLAND",
     "coordinate": {
       "lat": -28.268,
-      "long": 153.5
+      "lng": 153.5
     }
   },
   "SYN": {
@@ -7628,7 +7628,7 @@
     "location": "STRATHALBYN",
     "coordinate": {
       "lat": -35.258,
-      "long": 138.895
+      "lng": 138.895
     }
   },
   "SFE": {
@@ -7637,7 +7637,7 @@
     "location": "STRATHFINELLA",
     "coordinate": {
       "lat": -23.35,
-      "long": 143.55
+      "lng": 143.55
     }
   },
   "STRA": {
@@ -7646,7 +7646,7 @@
     "location": "STRATHGORDON",
     "coordinate": {
       "lat": -42.767,
-      "long": 146.037
+      "lng": 146.037
     }
   },
   "SLY": {
@@ -7655,7 +7655,7 @@
     "location": "STRELLEY HS",
     "coordinate": {
       "lat": -20.442,
-      "long": 118.983
+      "lng": 118.983
     }
   },
   "SRO": {
@@ -7664,7 +7664,7 @@
     "location": "STROUD ROAD",
     "coordinate": {
       "lat": -32.347,
-      "long": 151.918
+      "lng": 151.918
     }
   },
   "SUA": {
@@ -7673,7 +7673,7 @@
     "location": "STUART",
     "coordinate": {
       "lat": -19.35,
-      "long": 146.833
+      "lng": 146.833
     }
   },
   "STUM": {
@@ -7682,7 +7682,7 @@
     "location": "STUMERS CREEK",
     "coordinate": {
       "lat": -26.52,
-      "long": 153.085
+      "lng": 153.085
     }
   },
   "SUI": {
@@ -7691,7 +7691,7 @@
     "location": "STURT INTERSECTION",
     "coordinate": {
       "lat": -35.22,
-      "long": 147.793
+      "lng": 147.793
     }
   },
   "SUB": {
@@ -7700,7 +7700,7 @@
     "location": "SUBSTATION",
     "coordinate": {
       "lat": -34.737,
-      "long": 138.713
+      "lng": 138.713
     }
   },
   "SUTR": {
@@ -7709,7 +7709,7 @@
     "location": "SUGAR TERMINAL",
     "coordinate": {
       "lat": -16.942,
-      "long": 145.767
+      "lng": 145.767
     }
   },
   "SLMT": {
@@ -7718,7 +7718,7 @@
     "location": "SUGARLOAF MT",
     "coordinate": {
       "lat": -31.433,
-      "long": 150.875
+      "lng": 150.875
     }
   },
   "SUG": {
@@ -7727,7 +7727,7 @@
     "location": "SUGARLOAF PT",
     "coordinate": {
       "lat": -32.445,
-      "long": 152.54
+      "lng": 152.54
     }
   },
   "SGSV": {
@@ -7736,7 +7736,7 @@
     "location": "SUGARLOAF RESERVOIR",
     "coordinate": {
       "lat": -37.675,
-      "long": 145.3
+      "lng": 145.3
     }
   },
   "SWLD": {
@@ -7745,7 +7745,7 @@
     "location": "SUGARWORLD",
     "coordinate": {
       "lat": -17.017,
-      "long": 145.732
+      "lng": 145.732
     }
   },
   "SUNZ": {
@@ -7754,7 +7754,7 @@
     "location": "SUN ZINC REFINERY",
     "coordinate": {
       "lat": -19.333,
-      "long": 146.887
+      "lng": 146.887
     }
   },
   "SBU": {
@@ -7763,7 +7763,7 @@
     "location": "SUNBURY",
     "coordinate": {
       "lat": -37.583,
-      "long": 144.725
+      "lng": 144.725
     }
   },
   "SWT": {
@@ -7772,7 +7772,7 @@
     "location": "SUNBURY WATER TANK",
     "coordinate": {
       "lat": -37.548,
-      "long": 144.692
+      "lng": 144.692
     }
   },
   "SBIT": {
@@ -7781,7 +7781,7 @@
     "location": "SURBITON",
     "coordinate": {
       "lat": -23.15,
-      "long": 146.617
+      "lng": 146.617
     }
   },
   "SUPA": {
@@ -7790,7 +7790,7 @@
     "location": "SURFER'S PARADISE",
     "coordinate": {
       "lat": -28,
-      "long": 153.433
+      "lng": 153.433
     }
   },
   "SUD": {
@@ -7799,7 +7799,7 @@
     "location": "SUTHERLAND",
     "coordinate": {
       "lat": -34.038,
-      "long": 151.055
+      "lng": 151.055
     }
   },
   "SHER": {
@@ -7808,7 +7808,7 @@
     "location": "SUTHERLANDS",
     "coordinate": {
       "lat": -34.15,
-      "long": 139.233
+      "lng": 139.233
     }
   },
   "SUE": {
@@ -7817,7 +7817,7 @@
     "location": "SUTTON ROAD OVERPASS",
     "coordinate": {
       "lat": -35.183,
-      "long": 149.258
+      "lng": 149.258
     }
   },
   "SBCH": {
@@ -7826,7 +7826,7 @@
     "location": "SUTTONS BEACH",
     "coordinate": {
       "lat": -27.235,
-      "long": 153.115
+      "lng": 153.115
     }
   },
   "SCTY": {
@@ -7835,7 +7835,7 @@
     "location": "SYDNEY CBD",
     "coordinate": {
       "lat": -33.867,
-      "long": 151.2
+      "lng": 151.2
     }
   },
   "SCG": {
@@ -7844,7 +7844,7 @@
     "location": "SYDNEY CRICKET GROUND",
     "coordinate": {
       "lat": -33.892,
-      "long": 151.223
+      "lng": 151.223
     }
   },
   "SYHD": {
@@ -7853,7 +7853,7 @@
     "location": "SYDNEY HEADS",
     "coordinate": {
       "lat": -33.833,
-      "long": 151.292
+      "lng": 151.292
     }
   },
   "SYP": {
@@ -7862,7 +7862,7 @@
     "location": "SYMMONS PLAINS",
     "coordinate": {
       "lat": -41.655,
-      "long": 147.25
+      "lng": 147.25
     }
   },
   "TBL": {
@@ -7871,7 +7871,7 @@
     "location": "TABULAM",
     "coordinate": {
       "lat": -28.887,
-      "long": 152.568
+      "lng": 152.568
     }
   },
   "TCH": {
@@ -7880,7 +7880,7 @@
     "location": "TALC HEAD",
     "coordinate": {
       "lat": -12.48,
-      "long": 130.767
+      "lng": 130.767
     }
   },
   "TLAG": {
@@ -7889,7 +7889,7 @@
     "location": "TALLANGATTA",
     "coordinate": {
       "lat": -36.217,
-      "long": 147.175
+      "lng": 147.175
     }
   },
   "TLY": {
@@ -7898,7 +7898,7 @@
     "location": "TALLANGATTA CAUSEWAY",
     "coordinate": {
       "lat": -36.213,
-      "long": 147.247
+      "lng": 147.247
     }
   },
   "TRWL": {
@@ -7907,7 +7907,7 @@
     "location": "TALLARINGA WELL",
     "coordinate": {
       "lat": -29.033,
-      "long": 133.283
+      "lng": 133.283
     }
   },
   "TLK": {
@@ -7916,7 +7916,7 @@
     "location": "TALLAROOK",
     "coordinate": {
       "lat": -37.1,
-      "long": 145.1
+      "lng": 145.1
     }
   },
   "TID": {
@@ -7925,7 +7925,7 @@
     "location": "TAMAR ISLAND",
     "coordinate": {
       "lat": -41.383,
-      "long": 147.083
+      "lng": 147.083
     }
   },
   "TGN": {
@@ -7934,7 +7934,7 @@
     "location": "TANGORIN",
     "coordinate": {
       "lat": -21.733,
-      "long": 144.2
+      "lng": 144.2
     }
   },
   "TUND": {
@@ -7943,7 +7943,7 @@
     "location": "TANUNDA",
     "coordinate": {
       "lat": -34.533,
-      "long": 138.967
+      "lng": 138.967
     }
   },
   "TAGO": {
@@ -7952,7 +7952,7 @@
     "location": "TARAGO",
     "coordinate": {
       "lat": -35.07,
-      "long": 149.655
+      "lng": 149.655
     }
   },
   "TOWI": {
@@ -7961,7 +7961,7 @@
     "location": "TARCOWIE",
     "coordinate": {
       "lat": -32.95,
-      "long": 138.517
+      "lng": 138.517
     }
   },
   "TRT": {
@@ -7970,7 +7970,7 @@
     "location": "TARCUTTA",
     "coordinate": {
       "lat": -35.28,
-      "long": 147.738
+      "lng": 147.738
     }
   },
   "TAP": {
@@ -7979,7 +7979,7 @@
     "location": "TARGA GAP",
     "coordinate": {
       "lat": -41.312,
-      "long": 147.368
+      "lng": 147.368
     }
   },
   "TAR": {
@@ -7988,7 +7988,7 @@
     "location": "TARGET",
     "coordinate": {
       "lat": -27.613,
-      "long": 153.127
+      "lng": 153.127
     }
   },
   "TLEE": {
@@ -7997,7 +7997,7 @@
     "location": "TARLEE",
     "coordinate": {
       "lat": -34.275,
-      "long": 138.768
+      "lng": 138.768
     }
   },
   "TAS": {
@@ -8006,7 +8006,7 @@
     "location": "TASMAN BRIDGE",
     "coordinate": {
       "lat": -42.867,
-      "long": 147.35
+      "lng": 147.35
     }
   },
   "CKO": {
@@ -8015,7 +8015,7 @@
     "location": "TELEGRAPH OFFICE",
     "coordinate": {
       "lat": -19.233,
-      "long": 145.483
+      "lng": 145.483
     }
   },
   "TPL": {
@@ -8024,7 +8024,7 @@
     "location": "TEMPLE BAY",
     "coordinate": {
       "lat": -12.267,
-      "long": 143.15
+      "lng": 143.15
     }
   },
   "TLC": {
@@ -8033,7 +8033,7 @@
     "location": "TERRANORA LAKES COUNTRY CLUB",
     "coordinate": {
       "lat": -28.215,
-      "long": 153.473
+      "lng": 153.473
     }
   },
   "TWT": {
@@ -8042,7 +8042,7 @@
     "location": "TEWANTIN",
     "coordinate": {
       "lat": -26.4,
-      "long": 153.033
+      "lng": 153.033
     }
   },
   "THW": {
@@ -8051,7 +8051,7 @@
     "location": "THARWA",
     "coordinate": {
       "lat": -35.513,
-      "long": 149.07
+      "lng": 149.07
     }
   },
   "TCNR": {
@@ -8060,7 +8060,7 @@
     "location": "THE CORNER",
     "coordinate": {
       "lat": -19.325,
-      "long": 146.728
+      "lng": 146.728
     }
   },
   "THUM": {
@@ -8069,7 +8069,7 @@
     "location": "THE GUMS",
     "coordinate": {
       "lat": -33.833,
-      "long": 139.333
+      "lng": 139.333
     }
   },
   "TGU": {
@@ -8078,7 +8078,7 @@
     "location": "THE GUMS HS",
     "coordinate": {
       "lat": -33.85,
-      "long": 139.35
+      "lng": 139.35
     }
   },
   "TLMI": {
@@ -8087,7 +8087,7 @@
     "location": "THE LAKES MINE",
     "coordinate": {
       "lat": -31.865,
-      "long": 116.358
+      "lng": 116.358
     }
   },
   "THK": {
@@ -8096,7 +8096,7 @@
     "location": "THE OAKS",
     "coordinate": {
       "lat": -34.078,
-      "long": 150.578
+      "lng": 150.578
     }
   },
   "PIN": {
@@ -8105,7 +8105,7 @@
     "location": "THE PINES",
     "coordinate": {
       "lat": -28.142,
-      "long": 153.467
+      "lng": 153.467
     }
   },
   "RCK": {
@@ -8114,7 +8114,7 @@
     "location": "THE ROCK",
     "coordinate": {
       "lat": -35.275,
-      "long": 147.072
+      "lng": 147.072
     }
   },
   "APST": {
@@ -8123,7 +8123,7 @@
     "location": "THE STAMFORD (HOTEL)",
     "coordinate": {
       "lat": -33.932,
-      "long": 151.185
+      "lng": 151.185
     }
   },
   "WHF": {
@@ -8132,7 +8132,7 @@
     "location": "THE WHARF",
     "coordinate": {
       "lat": -38.1,
-      "long": 144.533
+      "lng": 144.533
     }
   },
   "THB": {
@@ -8141,7 +8141,7 @@
     "location": "THEEBINE",
     "coordinate": {
       "lat": -25.95,
-      "long": 152.55
+      "lng": 152.55
     }
   },
   "THSM": {
@@ -8150,7 +8150,7 @@
     "location": "THOMPSON 1",
     "coordinate": {
       "lat": -17.012,
-      "long": 145.752
+      "lng": 145.752
     }
   },
   "TORN": {
@@ -8159,7 +8159,7 @@
     "location": "THORNTON",
     "coordinate": {
       "lat": -27.817,
-      "long": 152.383
+      "lng": 152.383
     }
   },
   "TNP": {
@@ -8168,7 +8168,7 @@
     "location": "THORNTON GAP",
     "coordinate": {
       "lat": -19.358,
-      "long": 146.462
+      "lng": 146.462
     }
   },
   "TBRT": {
@@ -8177,7 +8177,7 @@
     "location": "TIMBERTOP",
     "coordinate": {
       "lat": -16.958,
-      "long": 145.805
+      "lng": 145.805
     }
   },
   "TING": {
@@ -8186,7 +8186,7 @@
     "location": "TINGALPA RESERVOIR",
     "coordinate": {
       "lat": -27.54,
-      "long": 153.167
+      "lng": 153.167
     }
   },
   "TMPT": {
@@ -8195,7 +8195,7 @@
     "location": "TOM PRICE",
     "coordinate": {
       "lat": -22.695,
-      "long": 117.792
+      "lng": 117.792
     }
   },
   "TOO": {
@@ -8204,7 +8204,7 @@
     "location": "TOOBORAC",
     "coordinate": {
       "lat": -37.05,
-      "long": 144.8
+      "lng": 144.8
     }
   },
   "TLN": {
@@ -8213,7 +8213,7 @@
     "location": "TOOLLEEN",
     "coordinate": {
       "lat": -36.717,
-      "long": 144.683
+      "lng": 144.683
     }
   },
   "TOOU": {
@@ -8222,7 +8222,7 @@
     "location": "TOOMULLA",
     "coordinate": {
       "lat": -19.083,
-      "long": 146.467
+      "lng": 146.467
     }
   },
   "TOGA": {
@@ -8231,7 +8231,7 @@
     "location": "TOORONGA",
     "coordinate": {
       "lat": -37.848,
-      "long": 145.047
+      "lng": 145.047
     }
   },
   "TOWA": {
@@ -8240,7 +8240,7 @@
     "location": "TOWRANA HS",
     "coordinate": {
       "lat": -25.433,
-      "long": 115.233
+      "lng": 115.233
     }
   },
   "TVM": {
@@ -8249,7 +8249,7 @@
     "location": "TREVALLYN DAM",
     "coordinate": {
       "lat": -41.455,
-      "long": 147.088
+      "lng": 147.088
     }
   },
   "TRIN": {
@@ -8258,7 +8258,7 @@
     "location": "TRINITY BEACH",
     "coordinate": {
       "lat": -16.783,
-      "long": 145.7
+      "lng": 145.7
     }
   },
   "TRUO": {
@@ -8267,7 +8267,7 @@
     "location": "TRURO",
     "coordinate": {
       "lat": -34.412,
-      "long": 139.12
+      "lng": 139.12
     }
   },
   "TKER": {
@@ -8276,7 +8276,7 @@
     "location": "TUCKER",
     "coordinate": {
       "lat": -24.483,
-      "long": 149.2
+      "lng": 149.2
     }
   },
   "TUK": {
@@ -8285,7 +8285,7 @@
     "location": "TUCKERS KNOB",
     "coordinate": {
       "lat": -30.343,
-      "long": 152.98
+      "lng": 152.98
     }
   },
   "TGC": {
@@ -8294,7 +8294,7 @@
     "location": "TUGGERANONG TOWN CENTRE",
     "coordinate": {
       "lat": -35.417,
-      "long": 149.067
+      "lng": 149.067
     }
   },
   "TUMB": {
@@ -8303,7 +8303,7 @@
     "location": "TUMBULGUM",
     "coordinate": {
       "lat": -28.278,
-      "long": 153.467
+      "lng": 153.467
     }
   },
   "TTLE": {
@@ -8312,7 +8312,7 @@
     "location": "TURTLE PT",
     "coordinate": {
       "lat": -14.85,
-      "long": 129.25
+      "lng": 129.25
     }
   },
   "TWRN": {
@@ -8321,7 +8321,7 @@
     "location": "TWO RN",
     "coordinate": {
       "lat": -33.937,
-      "long": 150.888
+      "lng": 150.888
     }
   },
   "TOS": {
@@ -8330,7 +8330,7 @@
     "location": "TWO ROCKS",
     "coordinate": {
       "lat": -31.492,
-      "long": 115.583
+      "lng": 115.583
     }
   },
   "UKER": {
@@ -8339,7 +8339,7 @@
     "location": "UKEREBAGH ISLAND",
     "coordinate": {
       "lat": -28.18,
-      "long": 153.547
+      "lng": 153.547
     }
   },
   "UDA": {
@@ -8348,7 +8348,7 @@
     "location": "ULLADULLA",
     "coordinate": {
       "lat": -35.35,
-      "long": 150.483
+      "lng": 150.483
     }
   },
   "UNDW": {
@@ -8357,7 +8357,7 @@
     "location": "UNDEMOW WATERHOLE",
     "coordinate": {
       "lat": -17.583,
-      "long": 135.25
+      "lng": 135.25
     }
   },
   "UQLD": {
@@ -8366,7 +8366,7 @@
     "location": "UNI OF QLD ST LUCIA",
     "coordinate": {
       "lat": -27.498,
-      "long": 153.013
+      "lng": 153.013
     }
   },
   "USW": {
@@ -8375,7 +8375,7 @@
     "location": "UPPER SWAN",
     "coordinate": {
       "lat": -31.772,
-      "long": 116.017
+      "lng": 116.017
     }
   },
   "URAN": {
@@ -8384,7 +8384,7 @@
     "location": "URANGAN",
     "coordinate": {
       "lat": -25.283,
-      "long": 152.9
+      "lng": 152.9
     }
   },
   "URA": {
@@ -8393,7 +8393,7 @@
     "location": "URANQUINTY",
     "coordinate": {
       "lat": -35.192,
-      "long": 147.247
+      "lng": 147.247
     }
   },
   "URC": {
@@ -8402,7 +8402,7 @@
     "location": "URRBRAE AGRICULTURAL HIGH SCHOOL",
     "coordinate": {
       "lat": -34.967,
-      "long": 138.625
+      "lng": 138.625
     }
   },
   "URU": {
@@ -8411,7 +8411,7 @@
     "location": "URUNGA",
     "coordinate": {
       "lat": -30.492,
-      "long": 153.017
+      "lng": 153.017
     }
   },
   "VTG": {
@@ -8420,7 +8420,7 @@
     "location": "VEHICLE TESTING GROUND",
     "coordinate": {
       "lat": -37.883,
-      "long": 144.417
+      "lng": 144.417
     }
   },
   "VELO": {
@@ -8429,7 +8429,7 @@
     "location": "VELODROME",
     "coordinate": {
       "lat": -34.843,
-      "long": 138.612
+      "lng": 138.612
     }
   },
   "VICP": {
@@ -8438,7 +8438,7 @@
     "location": "VICTORIA PARK",
     "coordinate": {
       "lat": -34.933,
-      "long": 138.622
+      "lng": 138.622
     }
   },
   "VOKH": {
@@ -8447,7 +8447,7 @@
     "location": "VOKES HILL",
     "coordinate": {
       "lat": -28.483,
-      "long": 130.583
+      "lng": 130.583
     }
   },
   "VPH": {
@@ -8456,7 +8456,7 @@
     "location": "VPH",
     "coordinate": {
       "lat": -31.945,
-      "long": 115.96
+      "lng": 115.96
     }
   },
   "WGL": {
@@ -8465,7 +8465,7 @@
     "location": "WAIGEN LAKES",
     "coordinate": {
       "lat": -27.617,
-      "long": 128.783
+      "lng": 128.783
     }
   },
   "WTC": {
@@ -8474,7 +8474,7 @@
     "location": "WAITE CAMPUS",
     "coordinate": {
       "lat": -34.97,
-      "long": 138.635
+      "lng": 138.635
     }
   },
   "WKT": {
@@ -8483,7 +8483,7 @@
     "location": "WALKERSTON",
     "coordinate": {
       "lat": -21.163,
-      "long": 149.063
+      "lng": 149.063
     }
   },
   "WBH": {
@@ -8492,7 +8492,7 @@
     "location": "WALLABADAH",
     "coordinate": {
       "lat": -31.538,
-      "long": 150.825
+      "lng": 150.825
     }
   },
   "WAN": {
@@ -8501,7 +8501,7 @@
     "location": "WALLAN",
     "coordinate": {
       "lat": -37.408,
-      "long": 144.977
+      "lng": 144.977
     }
   },
   "WGR": {
@@ -8510,7 +8510,7 @@
     "location": "WALLANGARRA",
     "coordinate": {
       "lat": -28.917,
-      "long": 151.933
+      "lng": 151.933
     }
   },
   "WRO": {
@@ -8519,7 +8519,7 @@
     "location": "WALLAROO",
     "coordinate": {
       "lat": -33.933,
-      "long": 137.633
+      "lng": 137.633
     }
   },
   "WMB": {
@@ -8528,7 +8528,7 @@
     "location": "WALLUMBILLA",
     "coordinate": {
       "lat": -26.583,
-      "long": 149.183
+      "lng": 149.183
     }
   },
   "WPE": {
@@ -8537,7 +8537,7 @@
     "location": "WALPOLE",
     "coordinate": {
       "lat": -34.983,
-      "long": 116.733
+      "lng": 116.733
     }
   },
   "WTBG": {
@@ -8546,7 +8546,7 @@
     "location": "WALTER TAYLOR BRIDGE",
     "coordinate": {
       "lat": -27.505,
-      "long": 152.973
+      "lng": 152.973
     }
   },
   "WDN": {
@@ -8555,7 +8555,7 @@
     "location": "WANDANDIAN",
     "coordinate": {
       "lat": -35.083,
-      "long": 150.517
+      "lng": 150.517
     }
   },
   "WAND": {
@@ -8564,7 +8564,7 @@
     "location": "WANDERING",
     "coordinate": {
       "lat": -32.675,
-      "long": 116.667
+      "lng": 116.667
     }
   },
   "WAT": {
@@ -8573,7 +8573,7 @@
     "location": "WANGETTI",
     "coordinate": {
       "lat": -16.665,
-      "long": 145.567
+      "lng": 145.567
     }
   },
   "WAG": {
@@ -8582,7 +8582,7 @@
     "location": "WANTABADGERY",
     "coordinate": {
       "lat": -35.058,
-      "long": 147.722
+      "lng": 147.722
     }
   },
   "WRNA": {
@@ -8591,7 +8591,7 @@
     "location": "WAROONA",
     "coordinate": {
       "lat": -32.842,
-      "long": 115.917
+      "lng": 115.917
     }
   },
   "WAD": {
@@ -8600,7 +8600,7 @@
     "location": "WARRAGAMBA DAM",
     "coordinate": {
       "lat": -33.885,
-      "long": 150.592
+      "lng": 150.592
     }
   },
   "WASL": {
@@ -8609,7 +8609,7 @@
     "location": "WARRAL SILO",
     "coordinate": {
       "lat": -31.15,
-      "long": 150.858
+      "lng": 150.858
     }
   },
   "WRD": {
@@ -8618,7 +8618,7 @@
     "location": "WARRANDYTE",
     "coordinate": {
       "lat": -37.75,
-      "long": 145.208
+      "lng": 145.208
     }
   },
   "WRR": {
@@ -8627,7 +8627,7 @@
     "location": "WARREN RESERVOIR",
     "coordinate": {
       "lat": -34.708,
-      "long": 138.933
+      "lng": 138.933
     }
   },
   "WFM": {
@@ -8636,7 +8636,7 @@
     "location": "WARWICK FARM",
     "coordinate": {
       "lat": -33.912,
-      "long": 150.947
+      "lng": 150.947
     }
   },
   "WFL": {
@@ -8645,7 +8645,7 @@
     "location": "WATERFALL",
     "coordinate": {
       "lat": -34.137,
-      "long": 150.992
+      "lng": 150.992
     }
   },
   "WAYS": {
@@ -8654,7 +8654,7 @@
     "location": "WAYSIDE",
     "coordinate": {
       "lat": -15.575,
-      "long": 131.04
+      "lng": 131.04
     }
   },
   "WWN": {
@@ -8663,7 +8663,7 @@
     "location": "WEALWANDANGIE",
     "coordinate": {
       "lat": -24.417,
-      "long": 148.05
+      "lng": 148.05
     }
   },
   "WCP": {
@@ -8672,7 +8672,7 @@
     "location": "WELLCAMP DOWNS",
     "coordinate": {
       "lat": -27.55,
-      "long": 151.85
+      "lng": 151.85
     }
   },
   "WELL": {
@@ -8681,7 +8681,7 @@
     "location": "WELLINGTON PT",
     "coordinate": {
       "lat": -27.468,
-      "long": 153.242
+      "lng": 153.242
     }
   },
   "WLS": {
@@ -8690,7 +8690,7 @@
     "location": "WELLSHOT",
     "coordinate": {
       "lat": -23.9,
-      "long": 144.433
+      "lng": 144.433
     }
   },
   "WELS": {
@@ -8699,7 +8699,7 @@
     "location": "WELSHPOOL",
     "coordinate": {
       "lat": -38.665,
-      "long": 146.438
+      "lng": 146.438
     }
   },
   "WBER": {
@@ -8708,7 +8708,7 @@
     "location": "WERRIBEE RACECOURSE",
     "coordinate": {
       "lat": -37.9,
-      "long": 144.642
+      "lng": 144.642
     }
   },
   "WBES": {
@@ -8717,7 +8717,7 @@
     "location": "WERRIBEE SOUTH",
     "coordinate": {
       "lat": -37.977,
-      "long": 144.688
+      "lng": 144.688
     }
   },
   "WEK": {
@@ -8726,7 +8726,7 @@
     "location": "WERRIS CREEK",
     "coordinate": {
       "lat": -31.358,
-      "long": 150.65
+      "lng": 150.65
     }
   },
   "WSM": {
@@ -8735,7 +8735,7 @@
     "location": "WEST ARM",
     "coordinate": {
       "lat": -12.55,
-      "long": 130.788
+      "lng": 130.788
     }
   },
   "WEBS": {
@@ -8744,7 +8744,7 @@
     "location": "WEST BASS",
     "coordinate": {
       "lat": -39.5,
-      "long": 141
+      "lng": 141
     }
   },
   "WTG": {
@@ -8753,7 +8753,7 @@
     "location": "WEST GAP",
     "coordinate": {
       "lat": -41.345,
-      "long": 146.775
+      "lng": 146.775
     }
   },
   "WSN": {
@@ -8762,7 +8762,7 @@
     "location": "WEST LAGOON",
     "coordinate": {
       "lat": -41.603,
-      "long": 147.028
+      "lng": 147.028
     }
   },
   "WEP": {
@@ -8771,7 +8771,7 @@
     "location": "WEST PT",
     "coordinate": {
       "lat": -19.128,
-      "long": 146.778
+      "lng": 146.778
     }
   },
   "WNFE": {
@@ -8780,7 +8780,7 @@
     "location": "WESTERN FREEWAY",
     "coordinate": {
       "lat": -27.575,
-      "long": 152.945
+      "lng": 152.945
     }
   },
   "WES": {
@@ -8789,7 +8789,7 @@
     "location": "WESTGATE BRIDGE",
     "coordinate": {
       "lat": -37.83,
-      "long": 144.897
+      "lng": 144.897
     }
   },
   "WMR": {
@@ -8798,7 +8798,7 @@
     "location": "WESTMAR",
     "coordinate": {
       "lat": -27.917,
-      "long": 149.717
+      "lng": 149.717
     }
   },
   "WST": {
@@ -8807,7 +8807,7 @@
     "location": "WESTMEAD",
     "coordinate": {
       "lat": -33.803,
-      "long": 150.987
+      "lng": 150.987
     }
   },
   "WTB": {
@@ -8816,7 +8816,7 @@
     "location": "WETHERBY",
     "coordinate": {
       "lat": -21.5,
-      "long": 142.833
+      "lng": 142.833
     }
   },
   "WHM": {
@@ -8825,7 +8825,7 @@
     "location": "WHIM CREEK",
     "coordinate": {
       "lat": -20.833,
-      "long": 117.833
+      "lng": 117.833
     }
   },
   "WTRK": {
@@ -8834,7 +8834,7 @@
     "location": "WHITE ROCK",
     "coordinate": {
       "lat": -18.778,
-      "long": 146.718
+      "lng": 146.718
     }
   },
   "WHW": {
@@ -8843,7 +8843,7 @@
     "location": "WHITEWOOD",
     "coordinate": {
       "lat": -21.483,
-      "long": 143.6
+      "lng": 143.6
     }
   },
   "WTS": {
@@ -8852,7 +8852,7 @@
     "location": "WHITTLESEA",
     "coordinate": {
       "lat": -37.517,
-      "long": 145.117
+      "lng": 145.117
     }
   },
   "WIKP": {
@@ -8861,7 +8861,7 @@
     "location": "WICKHAM PT",
     "coordinate": {
       "lat": -12.505,
-      "long": 130.86
+      "lng": 130.86
     }
   },
   "WHPL": {
@@ -8870,7 +8870,7 @@
     "location": "WILD HORSE PLAINS",
     "coordinate": {
       "lat": -34.36,
-      "long": 138.288
+      "lng": 138.288
     }
   },
   "WILE": {
@@ -8879,7 +8879,7 @@
     "location": "WILLEROO",
     "coordinate": {
       "lat": -15.283,
-      "long": 131.565
+      "lng": 131.565
     }
   },
   "WMS": {
@@ -8888,7 +8888,7 @@
     "location": "WILLIAMSTOWN",
     "coordinate": {
       "lat": -37.87,
-      "long": 144.912
+      "lng": 144.912
     }
   },
   "WICK": {
@@ -8897,7 +8897,7 @@
     "location": "WILLIES CREEK",
     "coordinate": {
       "lat": -17.75,
-      "long": 122.208
+      "lng": 122.208
     }
   },
   "WIE": {
@@ -8906,7 +8906,7 @@
     "location": "WIMMERA",
     "coordinate": {
       "lat": -31.158,
-      "long": 150.817
+      "lng": 150.817
     }
   },
   "WDU": {
@@ -8915,7 +8915,7 @@
     "location": "WIRRADGURIE",
     "coordinate": {
       "lat": -31.9,
-      "long": 152.067
+      "lng": 152.067
     }
   },
   "WSFR": {
@@ -8924,7 +8924,7 @@
     "location": "WISEMANS FERRY",
     "coordinate": {
       "lat": -33.38,
-      "long": 150.988
+      "lng": 150.988
     }
   },
   "WTHB": {
@@ -8933,7 +8933,7 @@
     "location": "WITHNELL BAY",
     "coordinate": {
       "lat": -20.58,
-      "long": 116.787
+      "lng": 116.787
     }
   },
   "WHDW": {
@@ -8942,7 +8942,7 @@
     "location": "WIVENHOE DAM WALL",
     "coordinate": {
       "lat": -27.395,
-      "long": 152.608
+      "lng": 152.608
     }
   },
   "WBK": {
@@ -8951,7 +8951,7 @@
     "location": "WOODBROOK",
     "coordinate": {
       "lat": -20.912,
-      "long": 117.117
+      "lng": 117.117
     }
   },
   "WOT": {
@@ -8960,7 +8960,7 @@
     "location": "WOODGATE",
     "coordinate": {
       "lat": -25.117,
-      "long": 152.567
+      "lng": 152.567
     }
   },
   "WOOS": {
@@ -8969,7 +8969,7 @@
     "location": "WOODLANDS GOLF COURSE",
     "coordinate": {
       "lat": -37.997,
-      "long": 145.1
+      "lng": 145.1
     }
   },
   "WMP": {
@@ -8978,7 +8978,7 @@
     "location": "WOODMAN PT",
     "coordinate": {
       "lat": -32.142,
-      "long": 115.733
+      "lng": 115.733
     }
   },
   "WYPT": {
@@ -8987,7 +8987,7 @@
     "location": "WOODY PT",
     "coordinate": {
       "lat": -27.265,
-      "long": 153.103
+      "lng": 153.103
     }
   },
   "WGG": {
@@ -8996,7 +8996,7 @@
     "location": "WOOLGOOLGA",
     "coordinate": {
       "lat": -30.113,
-      "long": 153.2
+      "lng": 153.2
     }
   },
   "WOI": {
@@ -9005,7 +9005,7 @@
     "location": "WOOLLAMIA",
     "coordinate": {
       "lat": -35.02,
-      "long": 150.66
+      "lng": 150.66
     }
   },
   "WNK": {
@@ -9014,7 +9014,7 @@
     "location": "WOOMANOOKA",
     "coordinate": {
       "lat": -13.733,
-      "long": 141.583
+      "lng": 141.583
     }
   },
   "WAM": {
@@ -9023,7 +9023,7 @@
     "location": "WOOMARGAMA",
     "coordinate": {
       "lat": -35.833,
-      "long": 147.248
+      "lng": 147.248
     }
   },
   "WRM": {
@@ -9032,7 +9032,7 @@
     "location": "WOORIM",
     "coordinate": {
       "lat": -27.078,
-      "long": 153.203
+      "lng": 153.203
     }
   },
   "WUN": {
@@ -9041,7 +9041,7 @@
     "location": "WUNDOWIE",
     "coordinate": {
       "lat": -31.767,
-      "long": 116.377
+      "lng": 116.377
     }
   },
   "WUTUL": {
@@ -9050,7 +9050,7 @@
     "location": "WUTUL",
     "coordinate": {
       "lat": -27.03,
-      "long": 151.808
+      "lng": 151.808
     }
   },
   "WMF": {
@@ -9059,7 +9059,7 @@
     "location": "WYMAH FERRY",
     "coordinate": {
       "lat": -36.042,
-      "long": 147.263
+      "lng": 147.263
     }
   },
   "WYR": {
@@ -9068,7 +9068,7 @@
     "location": "WYREEMA",
     "coordinate": {
       "lat": -27.65,
-      "long": 151.858
+      "lng": 151.858
     }
   },
   "YMA": {
@@ -9077,7 +9077,7 @@
     "location": "YAAMBA",
     "coordinate": {
       "lat": -23.133,
-      "long": 150.367
+      "lng": 150.367
     }
   },
   "YBU": {
@@ -9086,7 +9086,7 @@
     "location": "YABULU",
     "coordinate": {
       "lat": -19.213,
-      "long": 146.597
+      "lng": 146.597
     }
   },
   "YKH": {
@@ -9095,7 +9095,7 @@
     "location": "YACKANDANDAH",
     "coordinate": {
       "lat": -36.312,
-      "long": 146.842
+      "lng": 146.842
     }
   },
   "ALBO": {
@@ -9104,7 +9104,7 @@
     "location": "YALBOROO",
     "coordinate": {
       "lat": -20.833,
-      "long": 148.65
+      "lng": 148.65
     }
   },
   "YYN": {
@@ -9113,7 +9113,7 @@
     "location": "YAN YEAN RESV",
     "coordinate": {
       "lat": -37.558,
-      "long": 145.138
+      "lng": 145.138
     }
   },
   "ANDA": {
@@ -9122,7 +9122,7 @@
     "location": "YANDARAN",
     "coordinate": {
       "lat": -24.717,
-      "long": 152.117
+      "lng": 152.117
     }
   },
   "YNA": {
@@ -9131,7 +9131,7 @@
     "location": "YANDINA",
     "coordinate": {
       "lat": -26.563,
-      "long": 152.955
+      "lng": 152.955
     }
   },
   "YGB": {
@@ -9140,7 +9140,7 @@
     "location": "YANGEBUP LAKE",
     "coordinate": {
       "lat": -32.12,
-      "long": 115.833
+      "lng": 115.833
     }
   },
   "YYM": {
@@ -9149,7 +9149,7 @@
     "location": "YARINGA YACHT MARINA",
     "coordinate": {
       "lat": -38.247,
-      "long": 145.252
+      "lng": 145.252
     }
   },
   "YBH": {
@@ -9158,7 +9158,7 @@
     "location": "YARRABAH",
     "coordinate": {
       "lat": -16.917,
-      "long": 145.883
+      "lng": 145.883
     }
   },
   "ASST": {
@@ -9167,7 +9167,7 @@
     "location": "YASS TOWNSHIP",
     "coordinate": {
       "lat": -34.85,
-      "long": 148.917
+      "lng": 148.917
     }
   },
   "ORKT": {
@@ -9176,7 +9176,7 @@
     "location": "YORK TOWNSHIP",
     "coordinate": {
       "lat": -31.883,
-      "long": 116.767
+      "lng": 116.767
     }
   },
   "YKS": {
@@ -9185,7 +9185,7 @@
     "location": "YORKEYS KNOB",
     "coordinate": {
       "lat": -16.81,
-      "long": 145.725
+      "lng": 145.725
     }
   },
   "ORNN": {
@@ -9194,7 +9194,7 @@
     "location": "YORNANING TOWNSHIP",
     "coordinate": {
       "lat": -32.733,
-      "long": 117.167
+      "lng": 117.167
     }
   },
   "ULAB": {
@@ -9203,7 +9203,7 @@
     "location": "YULABILLA",
     "coordinate": {
       "lat": -27.067,
-      "long": 149.7
+      "lng": 149.7
     }
   },
   "URAR": {
@@ -9212,7 +9212,7 @@
     "location": "YURARABA",
     "coordinate": {
       "lat": -28.333,
-      "long": 151.4
+      "lng": 151.4
     }
   },
   "ZIN": {
@@ -9221,7 +9221,7 @@
     "location": "ZUIZIN ISLAND",
     "coordinate": {
       "lat": -10.1,
-      "long": 143.333
+      "lng": 143.333
     }
   }
 }

@@ -1,6 +1,8 @@
 waypoints = []
 waypoints_list = {}
 map = null
+flightpath = null
+markers = []
 
 function initMap() {
 	var mapdiv = document.getElementById('map')
@@ -10,65 +12,122 @@ function initMap() {
 	  zoom: 4,
 	  center: uluru
 	});
-	//var marker = new google.maps.Marker({
-	//  position: uluru,
-	//  map: map
-	//});
 }
 
 function createWaypoint()
 {
-	return {location: null, gps: null}
+	return {code: null, location: null, state: null, gps: null}
 }
 
-function updateLocation(index, value)
+function parseCoordinate()
 {
-	waypoints[index].location = value
+    return null
+    
+}
+
+function updateCode(index, value)
+{
+    var waypoint = waypoints[index]
+    if (value != waypoint.code)
+    {
+	    waypoint.code = value
+	    if (waypoints_list[value] != undefined)
+	    {
+	        known = waypoints_list[value]
+            waypoint.gps = known.coordinate
+            waypoint.location = known.location
+            waypoint.state = known.state
+            
+            updateTable()
+	        updateMap()
+        }
+        else if ((coordinate = parseCoordinate(value)) != null)
+        {
+            waypoints.gps = coordinate
+            
+            updateTable()
+            updateMap()
+        }
+	}
 }
 
 function addTableRow(table, index) {
-	row = table.insertRow(index)
-	locinput = document.createElement("input")
-	locinput.setAttribute('list','waypointlist')
-	locinput.classList.add("locationcell")
-	locinput.addEventListener('input', function (evt) {updateLocation(index, this.value)});
-	row.insertCell(0).appendChild(locinput)
+	var row = table.insertRow(index)
+	var codeinput = document.createElement("input")
+	codeinput.setAttribute('list','waypointlist')
+	codeinput.classList.add("codecell")
+	codeinput.addEventListener('input', function (evt) {updateCode(index, this.value)});
+	row.insertCell(0).appendChild(codeinput)
 	
-	gps = row.insertCell(1)
+	var gps = row.insertCell(1)
 	gps.classList.add("gpscell")
 	
-	row.insertCell(2)
+	var location = row.insertCell(2)
+	location.classList.add("locationcell")
 	
-	insertinput = document.createElement("button")
+	var state = row.insertCell(3)
+	state.classList.add("statecell")
+	
+	// Spacer cell
+	row.insertCell(4)
+	
+	var insertinput = document.createElement("button")
 	insertinput.innerHTML = "Insert:" + (index)
 	insertinput.onclick = function () {addWaypoint(index)}
-	row.insertCell(3).appendChild(insertinput) 
+	row.insertCell(5).appendChild(insertinput) 
 
-	deleteinput = document.createElement("button")
+	var deleteinput = document.createElement("button")
 	deleteinput.innerHTML = "Delete:" + index
 	deleteinput.onclick = function () {deleteWaypoint(index)}
 	deleteinput.class = "delete"
-	row.insertCell(4).appendChild(deleteinput) 
+	row.insertCell(6).appendChild(deleteinput) 
 }
 
 function updateTableRow(table, index) {
-	waypoint = waypoints[index]
-	
-	locationcell = document.getElementsByClassName("locationcell")[index]
-	locationcell.value = ""
-	if (locationcell && waypoint && waypoint.location) {
-		locationcell.value = waypoint.location
+	var waypoint = waypoints[index]
+	if (waypoint == undefined) {
+	    return
 	}
 	
-	gpscell = document.getElementsByClassName("gpscell")[index]
-	gpscell.innerHTML = ""
-	if (waypoint && waypoint.gps) {
-		gpscell.innerHTML = waypoint.gps
+	var codecell = document.getElementsByClassName("codecell")[index]
+	if (codecell) {
+	    if (waypoint.code) {
+		    codecell.value = waypoint.code
+		} else {
+		    codecell.value = ""
+		}
+	}
+	
+	var locationcell = document.getElementsByClassName("locationcell")[index]
+	if (locationcell) {
+	    if (waypoint.location) {
+		    locationcell.innerHTML = waypoint.location
+		} else {
+		    locationcell.innerHTML = ""
+		}
+	}
+	
+	var statecell = document.getElementsByClassName("statecell")[index]
+	if (statecell) {
+	    if (waypoint.state) {
+		    statecell.innerHTML = waypoint.state
+		} else {
+		    statecell.innerHTML = ""
+		}
+	}
+	
+	var gpscell = document.getElementsByClassName("gpscell")[index]
+	if (gpscell) {
+	    if (waypoint.gps) {
+		    gpscell.innerHTML = "Lat: " + waypoint.gps.lat + ", Long: " + waypoint.gps.lng
+		} else {
+		    gpscell.innerHTML = ""
+		}
 	}	
 }
 
 function updateTable() {
-	tablebody = document.getElementById('tablebody')
+	var tablebody = document.getElementById('tablebody')
 
 	while(tablebody.rows.length != waypoints.length) {
 		if (tablebody.rows.length > waypoints.length) {
@@ -84,10 +143,51 @@ function updateTable() {
 	updateMap()
 }
 
-function updateMap() {
-	header = document.getElementById('header')
-	map = document.getElementById('map')
+function resizeMap() {
+	var header = document.getElementById('header')
+	var map = document.getElementById('map')
 	map.style.height = (window.innerHeight - header.clientHeight) + "px"
+}
+
+function updateMap() {
+    resizeMap()
+    if (map == null) {
+        return
+    }
+    	
+	var coordinates = []
+	for (i in markers)
+	{
+	    markers[i].setMap(null)
+	}
+	
+	for (i in waypoints)
+	{
+	    var waypoint = waypoints[i]
+	    if (waypoint.gps != null) {
+	        coordinates.push(waypoint.gps)
+	    }
+	    var marker = new google.maps.Marker({
+	        position: waypoint.gps,
+	        map: map,
+	        title: waypoint.code + " - " + waypoint.location,
+	        label: parseInt(i)+1+""
+	    });
+	    markers.push(marker)
+	}
+	
+	if (flightpath != null) {
+	    flightpath.setMap(null)
+	}
+	
+	flightpath = new google.maps.Polyline({
+        path: coordinates,
+        geodesic: true,
+        strokeColor: '#FF0000',
+        strokeOpacity: 1.0,
+        strokeWeight: 2
+    });
+    flightpath.setMap(map)
 }
 
 function addWaypoint(index) {
@@ -128,6 +228,6 @@ addWaypoint(0)
 loadWaypoints()
 updateTable()
 
-window.onresize = updateMap
+window.onresize = resizeMap
 
 
