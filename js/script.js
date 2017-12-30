@@ -9,20 +9,27 @@ function initMap() {
 	
 	var uluru = {lat: -25.363, lng: 131.044};
 	map = new google.maps.Map(mapdiv, {
-	  zoom: 4,
-	  center: uluru
+	    zoom: 4,
+	    center: uluru
 	});
 }
 
 function createWaypoint()
 {
-	return {code: null, location: null, state: null, gps: null}
+	return {
+	    code: null, 
+        location: null, 
+        state: null, 
+        gps: null, 
+        distance: null, 
+        headingT: null, 
+        headingM: null
+    }
 }
 
 function parseCoordinate()
 {
-    return null
-    
+    return null 
 }
 
 function updateCode(index, value)
@@ -51,6 +58,15 @@ function updateCode(index, value)
 	}
 }
 
+function updateHeadingM(index, value)
+{
+    var waypoint = waypoints[index]
+    if (value != waypoint.headingM)
+    {
+	    waypoint.headingM = value
+	}
+}
+
 function addTableRow(table, index) {
 	var row = table.insertRow(index)
 	var codeinput = document.createElement("input")
@@ -68,19 +84,32 @@ function addTableRow(table, index) {
 	var state = row.insertCell(3)
 	state.classList.add("statecell")
 	
+	var distance = row.insertCell(4)
+	distance.classList.add("distancecell")
+	
+	var headingT = row.insertCell(5)
+	headingT.classList.add("headingtcell")
+	
+	
+	var headinginput = document.createElement("input")
+	headinginput.setAttribute('list','waypointlist')
+	headinginput.classList.add("headingmcell")
+	headinginput.addEventListener('input', function (evt) {updateHeadingM(index, this.value)});
+	row.insertCell(6).append(headinginput)
+	
 	// Spacer cell
-	row.insertCell(4)
+	row.insertCell(7)
 	
 	var insertinput = document.createElement("button")
 	insertinput.innerHTML = "Insert:" + (index)
 	insertinput.onclick = function () {addWaypoint(index)}
-	row.insertCell(5).appendChild(insertinput) 
+	row.insertCell(8).appendChild(insertinput) 
 
 	var deleteinput = document.createElement("button")
 	deleteinput.innerHTML = "Delete:" + index
 	deleteinput.onclick = function () {deleteWaypoint(index)}
 	deleteinput.class = "delete"
-	row.insertCell(6).appendChild(deleteinput) 
+	row.insertCell(9).appendChild(deleteinput) 
 }
 
 function updateTableRow(table, index) {
@@ -123,10 +152,51 @@ function updateTableRow(table, index) {
 		} else {
 		    gpscell.innerHTML = ""
 		}
+	}
+	
+	var headingtcell = document.getElementsByClassName("distancecell")[index]
+	if (headingtcell) {
+	    if (waypoint.distance) {
+		    headingtcell.innerHTML = Math.round(waypoint.distance/10)/100 + " km"
+		} else {
+		    headingtcell.innerHTML = ""
+		}
+	}
+	
+	var headingtcell = document.getElementsByClassName("headingtcell")[index]
+	if (headingtcell) {
+	    if (waypoint.headingT) {
+		    headingtcell.innerHTML = Math.round(waypoint.headingT*10)/10 + "&deg;"
+		} else {
+		    headingtcell.innerHTML = ""
+		}
+	}
+	
+	var headingmcell = document.getElementsByClassName("headingmcell")[index]
+	if (headingmcell) {
+	    if (waypoint.headingM) {
+		    headingmcell.value = Math.round(waypoint.headingM*10)/10
+		} else {
+		    headingmcell.value = ""
+		}
 	}	
 }
 
+function updateWaypointDetails() {
+    for (var i = 1; i < waypoints.length; i++) {
+        if (waypoints[i].gps && waypoints[i-1].gps) {
+            prev = new google.maps.LatLng(waypoints[i-1].gps.lat, waypoints[i-1].gps.lng)
+            curr = new google.maps.LatLng(waypoints[i].gps.lat, waypoints[i].gps.lng)
+            waypoints[i].distance = google.maps.geometry.spherical.computeDistanceBetween(curr, prev)
+            waypoints[i].headingT = google.maps.geometry.spherical.computeHeading(curr, prev)
+        }
+    }
+}
+
 function updateTable() {
+    updateWaypointDetails()
+
+
 	var tablebody = document.getElementById('tablebody')
 
 	while(tablebody.rows.length != waypoints.length) {
