@@ -15,21 +15,22 @@
 </head>
 
 <body>
+	<datalist id="waypointlist"></datalist>
 	<div id="header">
 		<table id="table">
-			<thead>
+			<tr>
 				<th class="location">Location</th>
 				<th class="gps">GPS</th>
 				<th class="spacer"></th>
 				<th class="insert">Insert</th>
 				<th class="delete">Delete</th>
-			</thead>
+			</tr>
 			<tbody id="tablebody">
 			</tbody>
 		</table>
 		<button onclick="addWaypoint()">Add Row</button>
 	</div>
-	<div id="map"/>
+	<div id="map"></div>
 
 	<script src="js/script.js"></script>
 	<script async defer

@@ -1,17 +1,19 @@
 waypoints = []
+waypoints_list = {}
+map = null
 
 function initMap() {
 	var mapdiv = document.getElementById('map')
 	
 	var uluru = {lat: -25.363, lng: 131.044};
-	var map = new google.maps.Map(mapdiv, {
+	map = new google.maps.Map(mapdiv, {
 	  zoom: 4,
 	  center: uluru
 	});
-	var marker = new google.maps.Marker({
-	  position: uluru,
-	  map: map
-	});
+	//var marker = new google.maps.Marker({
+	//  position: uluru,
+	//  map: map
+	//});
 }
 
 function createWaypoint()
@@ -27,22 +29,23 @@ function updateLocation(index, value)
 function addTableRow(table, index) {
 	row = table.insertRow(index)
 	locinput = document.createElement("input")
-	locinput.class = "locationclass"
+	locinput.setAttribute('list','waypointlist')
+	locinput.classList.add("locationcell")
 	locinput.addEventListener('input', function (evt) {updateLocation(index, this.value)});
 	row.insertCell(0).appendChild(locinput)
 	
 	gps = row.insertCell(1)
-	gps.class = "gpscell"
+	gps.classList.add("gpscell")
 	
 	row.insertCell(2)
 	
 	insertinput = document.createElement("button")
-	insertinput.innerHTML = "Insert"
+	insertinput.innerHTML = "Insert:" + (index)
 	insertinput.onclick = function () {addWaypoint(index)}
 	row.insertCell(3).appendChild(insertinput) 
 
 	deleteinput = document.createElement("button")
-	deleteinput.innerHTML = "Delete"
+	deleteinput.innerHTML = "Delete:" + index
 	deleteinput.onclick = function () {deleteWaypoint(index)}
 	deleteinput.class = "delete"
 	row.insertCell(4).appendChild(deleteinput) 
@@ -51,12 +54,16 @@ function addTableRow(table, index) {
 function updateTableRow(table, index) {
 	waypoint = waypoints[index]
 	
-	if (waypoint && waypoint.location) {
-		document.getElementsByClassName("locationcell")[index].value = waypoint.location
+	locationcell = document.getElementsByClassName("locationcell")[index]
+	locationcell.value = ""
+	if (locationcell && waypoint && waypoint.location) {
+		locationcell.value = waypoint.location
 	}
 	
+	gpscell = document.getElementsByClassName("gpscell")[index]
+	gpscell.innerHTML = ""
 	if (waypoint && waypoint.gps) {
-		document.getElementsByClassName("gpscell")[index].innerHTML = waypoint.gps
+		gpscell.innerHTML = waypoint.gps
 	}	
 }
 
@@ -82,10 +89,9 @@ function updateMap() {
 	map = document.getElementById('map')
 	map.style.height = (window.innerHeight - header.clientHeight) + "px"
 }
-window.onresize = updateMap
 
 function addWaypoint(index) {
-	if (index) {
+	if (index != null) {
 			waypoints.splice(index, 0, createWaypoint())   
 	} else {
 			waypoints.push(createWaypoint())
@@ -98,7 +104,30 @@ function deleteWaypoint(index) {
 	updateTable()
 }
 
+function loadWaypoints() {
+    var xhttp = new XMLHttpRequest();
+    xhttp.onreadystatechange = function() {
+        if (this.readyState == 4) {
+            waypoints_list = JSON.parse(this.responseText)
+            
+            datalist = document.getElementById('waypointlist')
+            datalist.innerHTML = ""
+
+            for (i in waypoints_list) {
+                var option = document.createElement('option')
+                option.value = i
+                datalist.appendChild(option)
+            }
+        }
+    };
+    xhttp.open("GET", "waypoints.json", true);
+    xhttp.send(); 
+}
+
 addWaypoint(0)
+loadWaypoints()
 updateTable()
+
+window.onresize = updateMap
 
 

@@ -1,0 +1,9227 @@
+{
+  "KNO": {
+    "code": "KNO",
+    "state": "NT",
+    "location": "ABEAM KUNOTH",
+    "coordinate": {
+      "lat": -23.542,
+      "long": 133.55
+    }
+  },
+  "ABKL": {
+    "code": "ABKL",
+    "state": "WA",
+    "location": "ABM KILTO",
+    "coordinate": {
+      "lat": -17.738,
+      "long": 122.735
+    }
+  },
+  "TVT": {
+    "code": "TVT",
+    "state": "QLD",
+    "location": "ABM TV TOWERS",
+    "coordinate": {
+      "lat": -27.475,
+      "long": 152.917
+    }
+  },
+  "ACE": {
+    "code": "ACE",
+    "state": "VIC",
+    "location": "ACADEMY",
+    "coordinate": {
+      "lat": -37.897,
+      "long": 145.18
+    }
+  },
+  "ANI": {
+    "code": "ANI",
+    "state": "QLD",
+    "location": "ACHERON ISLAND",
+    "coordinate": {
+      "lat": -18.962,
+      "long": 146.637
+    }
+  },
+  "ACLD": {
+    "code": "ACLD",
+    "state": "QLD",
+    "location": "ACLAND",
+    "coordinate": {
+      "lat": -27.305,
+      "long": 151.688
+    }
+  },
+  "ACTY": {
+    "code": "ACTY",
+    "state": "SA",
+    "location": "ADELAIDE CBD",
+    "coordinate": {
+      "lat": -34.933,
+      "long": 138.6
+    }
+  },
+  "ADB": {
+    "code": "ADB",
+    "state": "NT",
+    "location": "ADELAIDE RIVER BRIDGE",
+    "coordinate": {
+      "lat": -12.658,
+      "long": 131.333
+    }
+  },
+  "AOG": {
+    "code": "AOG",
+    "state": "NSW",
+    "location": "ADELONG",
+    "coordinate": {
+      "lat": -35.308,
+      "long": 148.067
+    }
+  },
+  "ADI": {
+    "code": "ADI",
+    "state": "QLD",
+    "location": "ADMIRALTY ISLAND",
+    "coordinate": {
+      "lat": -16.983,
+      "long": 145.775
+    }
+  },
+  "ADWD": {
+    "code": "ADWD",
+    "state": "WA",
+    "location": "ADVENTURE WORLD",
+    "coordinate": {
+      "lat": -32.095,
+      "long": 115.818
+    }
+  },
+  "ALON": {
+    "code": "ALON",
+    "state": "SA",
+    "location": "ALAWOONA",
+    "coordinate": {
+      "lat": -34.75,
+      "long": 140.5
+    }
+  },
+  "APL": {
+    "code": "APL",
+    "state": "VIC",
+    "location": "ALBERT PARK LAKE",
+    "coordinate": {
+      "lat": -37.855,
+      "long": 144.975
+    }
+  },
+  "AKW": {
+    "code": "AKW",
+    "state": "WA",
+    "location": "ALKIMOS WRECK",
+    "coordinate": {
+      "lat": -31.608,
+      "long": 115.65
+    }
+  },
+  "ALBA": {
+    "code": "ALBA",
+    "state": "QLD",
+    "location": "ALOOMBA",
+    "coordinate": {
+      "lat": -17.105,
+      "long": 145.833
+    }
+  },
+  "ALOA": {
+    "code": "ALOA",
+    "state": "VIC",
+    "location": "ALTONA",
+    "coordinate": {
+      "lat": -37.867,
+      "long": 144.85
+    }
+  },
+  "ALTS": {
+    "code": "ALTS",
+    "state": "VIC",
+    "location": "ALTONA SOUTH",
+    "coordinate": {
+      "lat": -37.878,
+      "long": 144.81
+    }
+  },
+  "ANG": {
+    "code": "ANG",
+    "state": "VIC",
+    "location": "ANGLESEA",
+    "coordinate": {
+      "lat": -38.417,
+      "long": 144.183
+    }
+  },
+  "APM": {
+    "code": "APM",
+    "state": "NSW",
+    "location": "ANM PAPER MILL",
+    "coordinate": {
+      "lat": -36,
+      "long": 146.983
+    }
+  },
+  "ANA": {
+    "code": "ANA",
+    "state": "NSW",
+    "location": "ANNA BAY",
+    "coordinate": {
+      "lat": -32.783,
+      "long": 152.083
+    }
+  },
+  "ANP": {
+    "code": "ANP",
+    "state": "QLD",
+    "location": "ANTILL PLAINS",
+    "coordinate": {
+      "lat": -19.433,
+      "long": 146.833
+    }
+  },
+  "APPN": {
+    "code": "APPN",
+    "state": "NSW",
+    "location": "APPIN",
+    "coordinate": {
+      "lat": -34.2,
+      "long": 150.788
+    }
+  },
+  "ARCD": {
+    "code": "ARCD",
+    "state": "QLD",
+    "location": "ARCADIA HS",
+    "coordinate": {
+      "lat": -20.867,
+      "long": 138.067
+    }
+  },
+  "AEN": {
+    "code": "AEN",
+    "state": "QLD",
+    "location": "ARDENT",
+    "coordinate": {
+      "lat": -26.778,
+      "long": 152.578
+    }
+  },
+  "ARE": {
+    "code": "ARE",
+    "state": "WA",
+    "location": "ARMADALE",
+    "coordinate": {
+      "lat": -32.143,
+      "long": 116.013
+    }
+  },
+  "AWP": {
+    "code": "AWP",
+    "state": "NT",
+    "location": "ARROWSMITH PT",
+    "coordinate": {
+      "lat": -13.25,
+      "long": 136.45
+    }
+  },
+  "ASU": {
+    "code": "ASU",
+    "state": "NSW",
+    "location": "ARUNDEL SUBSTATION",
+    "coordinate": {
+      "lat": -35.208,
+      "long": 147.4
+    }
+  },
+  "ATN": {
+    "code": "ATN",
+    "state": "QLD",
+    "location": "ATHERTON",
+    "coordinate": {
+      "lat": -17.258,
+      "long": 145.508
+    }
+  },
+  "ATG": {
+    "code": "ATG",
+    "state": "NSW",
+    "location": "ATTUNGA",
+    "coordinate": {
+      "lat": -30.933,
+      "long": 150.838
+    }
+  },
+  "ATV": {
+    "code": "ATV",
+    "state": "VIC",
+    "location": "ATV10",
+    "coordinate": {
+      "lat": -37.853,
+      "long": 145.168
+    }
+  },
+  "ALEC": {
+    "code": "ALEC",
+    "state": "NSW",
+    "location": "AUSTRALIAN LIVESTOCK EQUINE CENT",
+    "coordinate": {
+      "lat": -31.135,
+      "long": 150.922
+    }
+  },
+  "AVCA": {
+    "code": "AVCA",
+    "state": "TAS",
+    "location": "AVOCA",
+    "coordinate": {
+      "lat": -41.782,
+      "long": 147.72
+    }
+  },
+  "BADA": {
+    "code": "BADA",
+    "state": "QLD",
+    "location": "BABINDA",
+    "coordinate": {
+      "lat": -17.342,
+      "long": 145.925
+    }
+  },
+  "BMP": {
+    "code": "BMP",
+    "state": "VIC",
+    "location": "BACCHUS MARSH TOWNSHIP",
+    "coordinate": {
+      "lat": -37.675,
+      "long": 144.438
+    }
+  },
+  "BKRL": {
+    "code": "BKRL",
+    "state": "WA",
+    "location": "BAKER LAKE",
+    "coordinate": {
+      "lat": -26.712,
+      "long": 125.98
+    }
+  },
+  "BLHS": {
+    "code": "BLHS",
+    "state": "QLD",
+    "location": "BALD HILLS MAST",
+    "coordinate": {
+      "lat": -27.313,
+      "long": 153.017
+    }
+  },
+  "BOA": {
+    "code": "BOA",
+    "state": "VIC",
+    "location": "BALMORAL",
+    "coordinate": {
+      "lat": -37.25,
+      "long": 141.833
+    }
+  },
+  "BANG": {
+    "code": "BANG",
+    "state": "NSW",
+    "location": "BANGALOW",
+    "coordinate": {
+      "lat": -28.687,
+      "long": 153.517
+    }
+  },
+  "BDT": {
+    "code": "BDT",
+    "state": "VIC",
+    "location": "BARANDUDA TOWERS",
+    "coordinate": {
+      "lat": -36.25,
+      "long": 146.85
+    }
+  },
+  "BARB": {
+    "code": "BARB",
+    "state": "WA",
+    "location": "BARBAGALLO RACEWAY",
+    "coordinate": {
+      "lat": -31.667,
+      "long": 115.783
+    }
+  },
+  "BHCP": {
+    "code": "BHCP",
+    "state": "WA",
+    "location": "BARN HILL CARAVAN PARK",
+    "coordinate": {
+      "lat": -18.368,
+      "long": 122.04
+    }
+  },
+  "BSL": {
+    "code": "BSL",
+    "state": "QLD",
+    "location": "BARNES HILL",
+    "coordinate": {
+      "lat": -27.2,
+      "long": 152.1
+    }
+  },
+  "BRNJ": {
+    "code": "BRNJ",
+    "state": "NSW",
+    "location": "BARRENJOEY HEAD",
+    "coordinate": {
+      "lat": -33.58,
+      "long": 151.327
+    }
+  },
+  "BRR": {
+    "code": "BRR",
+    "state": "NSW",
+    "location": "BARRINGUN",
+    "coordinate": {
+      "lat": -29.017,
+      "long": 145.7
+    }
+  },
+  "BRGE": {
+    "code": "BRGE",
+    "state": "QLD",
+    "location": "BARRON GORGE",
+    "coordinate": {
+      "lat": -16.85,
+      "long": 145.65
+    }
+  },
+  "BPN": {
+    "code": "BPN",
+    "state": "VIC",
+    "location": "BARWON PRISON",
+    "coordinate": {
+      "lat": -37.983,
+      "long": 144.35
+    }
+  },
+  "KALK": {
+    "code": "KALK",
+    "state": "TAS",
+    "location": "BASS STRAIT",
+    "coordinate": {
+      "lat": -39.5,
+      "long": 142.5
+    }
+  },
+  "BATB": {
+    "code": "BATB",
+    "state": "NSW",
+    "location": "BATEMANS BAY",
+    "coordinate": {
+      "lat": -35.717,
+      "long": 150.183
+    }
+  },
+  "BTI": {
+    "code": "BTI",
+    "state": "NT",
+    "location": "BATHURST ISLAND",
+    "coordinate": {
+      "lat": -11.767,
+      "long": 130.617
+    }
+  },
+  "BNE": {
+    "code": "BNE",
+    "state": "TAS",
+    "location": "BATMAN BRIDGE",
+    "coordinate": {
+      "lat": -41.218,
+      "long": 146.915
+    }
+  },
+  "BAW": {
+    "code": "BAW",
+    "state": "VIC",
+    "location": "BAYWEST",
+    "coordinate": {
+      "lat": -38,
+      "long": 144.927
+    }
+  },
+  "BCM": {
+    "code": "BCM",
+    "state": "QLD",
+    "location": "BEACHMERE",
+    "coordinate": {
+      "lat": -27.117,
+      "long": 153.05
+    }
+  },
+  "BIV": {
+    "code": "BIV",
+    "state": "NSW",
+    "location": "BECTIVE HS",
+    "coordinate": {
+      "lat": -30.972,
+      "long": 150.738
+    }
+  },
+  "BENT": {
+    "code": "BENT",
+    "state": "QLD",
+    "location": "BEECHMONT",
+    "coordinate": {
+      "lat": -28.133,
+      "long": 153.2
+    }
+  },
+  "BCH": {
+    "code": "BCH",
+    "state": "VIC",
+    "location": "BEECHWORTH",
+    "coordinate": {
+      "lat": -36.358,
+      "long": 146.688
+    }
+  },
+  "BLR": {
+    "code": "BLR",
+    "state": "NSW",
+    "location": "BELLBROOK",
+    "coordinate": {
+      "lat": -30.822,
+      "long": 152.512
+    }
+  },
+  "BLIG": {
+    "code": "BLIG",
+    "state": "NSW",
+    "location": "BELLINGEN",
+    "coordinate": {
+      "lat": -30.455,
+      "long": 152.897
+    }
+  },
+  "BENV": {
+    "code": "BENV",
+    "state": "TAS",
+    "location": "BEN NEVIS",
+    "coordinate": {
+      "lat": -41.412,
+      "long": 147.642
+    }
+  },
+  "BND": {
+    "code": "BND",
+    "state": "NSW",
+    "location": "BENDEMEER",
+    "coordinate": {
+      "lat": -30.883,
+      "long": 151.15
+    }
+  },
+  "BEE": {
+    "code": "BEE",
+    "state": "NSW",
+    "location": "BERILEE",
+    "coordinate": {
+      "lat": -33.62,
+      "long": 151.105
+    }
+  },
+  "BESI": {
+    "code": "BESI",
+    "state": "QLD",
+    "location": "BESSIE POINT",
+    "coordinate": {
+      "lat": -16.903,
+      "long": 145.813
+    }
+  },
+  "BVG": {
+    "code": "BVG",
+    "state": "VIC",
+    "location": "BEVERIDGE",
+    "coordinate": {
+      "lat": -37.472,
+      "long": 144.972
+    }
+  },
+  "BDTN": {
+    "code": "BDTN",
+    "state": "QLD",
+    "location": "BIDDESTON",
+    "coordinate": {
+      "lat": -27.558,
+      "long": 151.717
+    }
+  },
+  "BIBA": {
+    "code": "BIBA",
+    "state": "QLD",
+    "location": "BINGIL BAY",
+    "coordinate": {
+      "lat": -17.828,
+      "long": 146.102
+    }
+  },
+  "BDWD": {
+    "code": "BDWD",
+    "state": "SA",
+    "location": "BIRDWOOD",
+    "coordinate": {
+      "lat": -34.823,
+      "long": 138.96
+    }
+  },
+  "BCT": {
+    "code": "BCT",
+    "state": "QLD",
+    "location": "BLACK MT",
+    "coordinate": {
+      "lat": -21.07,
+      "long": 149.097
+    }
+  },
+  "BKM": {
+    "code": "BKM",
+    "state": "ACT",
+    "location": "BLACK MT",
+    "coordinate": {
+      "lat": -35.275,
+      "long": 149.1
+    }
+  },
+  "BKIS": {
+    "code": "BKIS",
+    "state": "QLD",
+    "location": "BLACKSMITH ISLAND",
+    "coordinate": {
+      "lat": -20.633,
+      "long": 149.067
+    }
+  },
+  "BLIC": {
+    "code": "BLIC",
+    "state": "QLD",
+    "location": "BLI BLI CASTLE",
+    "coordinate": {
+      "lat": -26.625,
+      "long": 153.033
+    }
+  },
+  "BTM": {
+    "code": "BTM",
+    "state": "TAS",
+    "location": "BOAT HARBOUR",
+    "coordinate": {
+      "lat": -40.95,
+      "long": 145.633
+    }
+  },
+  "BOAT": {
+    "code": "BOAT",
+    "state": "WA",
+    "location": "BOATYARD",
+    "coordinate": {
+      "lat": -32.15,
+      "long": 115.767
+    }
+  },
+  "BODD": {
+    "code": "BODD",
+    "state": "WA",
+    "location": "BODDINGTON",
+    "coordinate": {
+      "lat": -32.8,
+      "long": 116.467
+    }
+  },
+  "BGN": {
+    "code": "BGN",
+    "state": "QLD",
+    "location": "BOGANTUNGAN",
+    "coordinate": {
+      "lat": -23.65,
+      "long": 147.3
+    }
+  },
+  "BLTB": {
+    "code": "BLTB",
+    "state": "VIC",
+    "location": "BOLTE BRIDGE",
+    "coordinate": {
+      "lat": -37.82,
+      "long": 144.932
+    }
+  },
+  "BSP": {
+    "code": "BSP",
+    "state": "NT",
+    "location": "BOND SPRINGS",
+    "coordinate": {
+      "lat": -23.517,
+      "long": 133.85
+    }
+  },
+  "BUVY": {
+    "code": "BUVY",
+    "state": "QLD",
+    "location": "BOND UNIVERSITY",
+    "coordinate": {
+      "lat": -28.077,
+      "long": 153.41
+    }
+  },
+  "BNG": {
+    "code": "BNG",
+    "state": "VIC",
+    "location": "BONEGILLA",
+    "coordinate": {
+      "lat": -36.145,
+      "long": 147.013
+    }
+  },
+  "BONG": {
+    "code": "BONG",
+    "state": "QLD",
+    "location": "BONGAREE",
+    "coordinate": {
+      "lat": -27.083,
+      "long": 153.183
+    }
+  },
+  "BOON": {
+    "code": "BOON",
+    "state": "QLD",
+    "location": "BOONDALL ENTERTAINMENT CENTRE",
+    "coordinate": {
+      "lat": -27.342,
+      "long": 153.085
+    }
+  },
+  "BOAR": {
+    "code": "BOAR",
+    "state": "QLD",
+    "location": "BORUMBA RESV",
+    "coordinate": {
+      "lat": -26.508,
+      "long": 152.583
+    }
+  },
+  "BBH": {
+    "code": "BBH",
+    "state": "NSW",
+    "location": "BOTANY BAY HEADS",
+    "coordinate": {
+      "lat": -34.008,
+      "long": 151.242
+    }
+  },
+  "BOWEN": {
+    "code": "BOWEN",
+    "state": "QLD",
+    "location": "BOWEN",
+    "coordinate": {
+      "lat": -20.017,
+      "long": 148.242
+    }
+  },
+  "BOWB": {
+    "code": "BOWB",
+    "state": "TAS",
+    "location": "BOWEN BRIDGE",
+    "coordinate": {
+      "lat": -42.817,
+      "long": 147.3
+    }
+  },
+  "BWV": {
+    "code": "BWV",
+    "state": "QLD",
+    "location": "BOWENVILLE",
+    "coordinate": {
+      "lat": -27.305,
+      "long": 151.488
+    }
+  },
+  "BWMS": {
+    "code": "BWMS",
+    "state": "SA",
+    "location": "BOWMANS",
+    "coordinate": {
+      "lat": -34.15,
+      "long": 138.267
+    }
+  },
+  "BOW": {
+    "code": "BOW",
+    "state": "NSW",
+    "location": "BOWNA",
+    "coordinate": {
+      "lat": -35.95,
+      "long": 147.117
+    }
+  },
+  "BWL": {
+    "code": "BWL",
+    "state": "NSW",
+    "location": "BOWRAL",
+    "coordinate": {
+      "lat": -34.48,
+      "long": 150.418
+    }
+  },
+  "BOV": {
+    "code": "BOV",
+    "state": "NSW",
+    "location": "BOWRAVILLE",
+    "coordinate": {
+      "lat": -30.65,
+      "long": 152.85
+    }
+  },
+  "BPI": {
+    "code": "BPI",
+    "state": "QLD",
+    "location": "BRAMPTON ISLAND",
+    "coordinate": {
+      "lat": -20.805,
+      "long": 149.267
+    }
+  },
+  "BAXT": {
+    "code": "BAXT",
+    "state": "NSW",
+    "location": "BRANXTON",
+    "coordinate": {
+      "lat": -32.667,
+      "long": 151.35
+    }
+  },
+  "BZA": {
+    "code": "BZA",
+    "state": "NSW",
+    "location": "BREEZA",
+    "coordinate": {
+      "lat": -31.25,
+      "long": 150.467
+    }
+  },
+  "BBBG": {
+    "code": "BBBG",
+    "state": "QLD",
+    "location": "BRIBIE BRIDGE",
+    "coordinate": {
+      "lat": -27.073,
+      "long": 153.147
+    }
+  },
+  "BBI": {
+    "code": "BBI",
+    "state": "QLD",
+    "location": "BRIBIE ISLAND",
+    "coordinate": {
+      "lat": -27,
+      "long": 153.143
+    }
+  },
+  "BTO": {
+    "code": "BTO",
+    "state": "VIC",
+    "location": "BRIGHTON",
+    "coordinate": {
+      "lat": -37.912,
+      "long": 144.987
+    }
+  },
+  "BTJ": {
+    "code": "BTJ",
+    "state": "SA",
+    "location": "BRIGHTON JETTY",
+    "coordinate": {
+      "lat": -35.017,
+      "long": 138.517
+    }
+  },
+  "BRY": {
+    "code": "BRY",
+    "state": "NSW",
+    "location": "BRINGELLY",
+    "coordinate": {
+      "lat": -33.942,
+      "long": 150.728
+    }
+  },
+  "BRIN": {
+    "code": "BRIN",
+    "state": "QLD",
+    "location": "BRINSMEAD",
+    "coordinate": {
+      "lat": -16.908,
+      "long": 145.708
+    }
+  },
+  "BCTY": {
+    "code": "BCTY",
+    "state": "QLD",
+    "location": "BRISBANE CBD",
+    "coordinate": {
+      "lat": -27.467,
+      "long": 153.033
+    }
+  },
+  "OGABA": {
+    "code": "OGABA",
+    "state": "QLD",
+    "location": "BRISBANE CRICKET GROUND",
+    "coordinate": {
+      "lat": -27.48,
+      "long": 153.067
+    }
+  },
+  "BDF": {
+    "code": "BDF",
+    "state": "VIC",
+    "location": "BROADFORD",
+    "coordinate": {
+      "lat": -37.208,
+      "long": 145.042
+    }
+  },
+  "BYN": {
+    "code": "BYN",
+    "state": "VIC",
+    "location": "BROOKLYN",
+    "coordinate": {
+      "lat": -37.828,
+      "long": 144.858
+    }
+  },
+  "BBG": {
+    "code": "BBG",
+    "state": "NSW",
+    "location": "BROOKLYN BRIDGE",
+    "coordinate": {
+      "lat": -33.542,
+      "long": 151.197
+    }
+  },
+  "BTON": {
+    "code": "BTON",
+    "state": "WA",
+    "location": "BROOKTON",
+    "coordinate": {
+      "lat": -32.367,
+      "long": 117.017
+    }
+  },
+  "BRI": {
+    "code": "BRI",
+    "state": "NSW",
+    "location": "BROUGHTON ISLAND",
+    "coordinate": {
+      "lat": -32.608,
+      "long": 152.308
+    }
+  },
+  "OBSTM": {
+    "code": "OBSTM",
+    "state": "ACT",
+    "location": "BRUCE STADIUM",
+    "coordinate": {
+      "lat": -35.25,
+      "long": 149.1
+    }
+  },
+  "BRH": {
+    "code": "BRH",
+    "state": "NSW",
+    "location": "BRUNSWICK HEADS",
+    "coordinate": {
+      "lat": -28.542,
+      "long": 153.55
+    }
+  },
+  "BUCP": {
+    "code": "BUCP",
+    "state": "QLD",
+    "location": "BUCHAN PT",
+    "coordinate": {
+      "lat": -16.737,
+      "long": 145.668
+    }
+  },
+  "BUCN": {
+    "code": "BUCN",
+    "state": "NT",
+    "location": "BUCHANAN HILLS",
+    "coordinate": {
+      "lat": -18.9,
+      "long": 131.083
+    }
+  },
+  "BKD": {
+    "code": "BKD",
+    "state": "TAS",
+    "location": "BUCKLAND",
+    "coordinate": {
+      "lat": -42.612,
+      "long": 147.717
+    }
+  },
+  "BPK": {
+    "code": "BPK",
+    "state": "SA",
+    "location": "BUCKLAND PARK WEATHER RADAR",
+    "coordinate": {
+      "lat": -34.617,
+      "long": 138.468
+    }
+  },
+  "BDH": {
+    "code": "BDH",
+    "state": "NSW",
+    "location": "BUNDAGEN HEAD",
+    "coordinate": {
+      "lat": -30.433,
+      "long": 153.075
+    }
+  },
+  "BEN": {
+    "code": "BEN",
+    "state": "NSW",
+    "location": "BUNGENDORE",
+    "coordinate": {
+      "lat": -35.258,
+      "long": 149.447
+    }
+  },
+  "BUG": {
+    "code": "BUG",
+    "state": "VIC",
+    "location": "BUNGIL BRIDGE",
+    "coordinate": {
+      "lat": -36.05,
+      "long": 147.35
+    }
+  },
+  "URG": {
+    "code": "URG",
+    "state": "NSW",
+    "location": "BURBONG",
+    "coordinate": {
+      "lat": -35.34,
+      "long": 149.31
+    }
+  },
+  "BLGH": {
+    "code": "BLGH",
+    "state": "QLD",
+    "location": "BURLEIGH HEADS",
+    "coordinate": {
+      "lat": -28.092,
+      "long": 153.458
+    }
+  },
+  "BUB": {
+    "code": "BUB",
+    "state": "WA",
+    "location": "BURNS BEACH",
+    "coordinate": {
+      "lat": -31.728,
+      "long": 115.717
+    }
+  },
+  "BURR": {
+    "code": "BURR",
+    "state": "SA",
+    "location": "BURRA",
+    "coordinate": {
+      "lat": -33.683,
+      "long": 138.933
+    }
+  },
+  "BUGA": {
+    "code": "BUGA",
+    "state": "NSW",
+    "location": "BURRAGA",
+    "coordinate": {
+      "lat": -33.883,
+      "long": 149.567
+    }
+  },
+  "BJK": {
+    "code": "BJK",
+    "state": "NSW",
+    "location": "BURRINJUCK",
+    "coordinate": {
+      "lat": -35.005,
+      "long": 148.583
+    }
+  },
+  "BMK": {
+    "code": "BMK",
+    "state": "NSW",
+    "location": "BURRUMBUTTOCK",
+    "coordinate": {
+      "lat": -35.833,
+      "long": 146.8
+    }
+  },
+  "BYFD": {
+    "code": "BYFD",
+    "state": "WA",
+    "location": "BYFORD",
+    "coordinate": {
+      "lat": -32.217,
+      "long": 116.033
+    }
+  },
+  "BYNO": {
+    "code": "BYNO",
+    "state": "NT",
+    "location": "BYNOE HARBOUR",
+    "coordinate": {
+      "lat": -12.75,
+      "long": 130.683
+    }
+  },
+  "BYRK": {
+    "code": "BYRK",
+    "state": "NSW",
+    "location": "BYROCK",
+    "coordinate": {
+      "lat": -30.483,
+      "long": 146.4
+    }
+  },
+  "BBAY": {
+    "code": "BBAY",
+    "state": "NSW",
+    "location": "BYRON BAY",
+    "coordinate": {
+      "lat": -28.65,
+      "long": 153.617
+    }
+  },
+  "CBLT": {
+    "code": "CBLT",
+    "state": "QLD",
+    "location": "CABLEWAY TERMINAL",
+    "coordinate": {
+      "lat": -16.848,
+      "long": 145.692
+    }
+  },
+  "CABO": {
+    "code": "CABO",
+    "state": "QLD",
+    "location": "CABOOLTURE",
+    "coordinate": {
+      "lat": -27.088,
+      "long": 152.95
+    }
+  },
+  "CALEN": {
+    "code": "CALEN",
+    "state": "QLD",
+    "location": "CALEN",
+    "coordinate": {
+      "lat": -20.9,
+      "long": 148.77
+    }
+  },
+  "CRDZ": {
+    "code": "CRDZ",
+    "state": "QLD",
+    "location": "CALOUNDRA DROPZONE",
+    "coordinate": {
+      "lat": -26.8,
+      "long": 153.11
+    }
+  },
+  "CBRA": {
+    "code": "CBRA",
+    "state": "SA",
+    "location": "CAMBRAI",
+    "coordinate": {
+      "lat": -34.658,
+      "long": 139.28
+    }
+  },
+  "CPA": {
+    "code": "CPA",
+    "state": "TAS",
+    "location": "CAMPANIA",
+    "coordinate": {
+      "lat": -42.667,
+      "long": 147.422
+    }
+  },
+  "CLLN": {
+    "code": "CLLN",
+    "state": "TAS",
+    "location": "CAMPBELLTOWN",
+    "coordinate": {
+      "lat": -41.933,
+      "long": 147.492
+    }
+  },
+  "CAMB": {
+    "code": "CAMB",
+    "state": "NSW",
+    "location": "CAMPBELLTOWN UNIVERSITY",
+    "coordinate": {
+      "lat": -34.072,
+      "long": 150.783
+    }
+  },
+  "RCSE": {
+    "code": "RCSE",
+    "state": "ACT",
+    "location": "CANBERRA RACECOURSE",
+    "coordinate": {
+      "lat": -35.238,
+      "long": 149.137
+    }
+  },
+  "CNB": {
+    "code": "CNB",
+    "state": "WA",
+    "location": "CANNING BRIDGE",
+    "coordinate": {
+      "lat": -32.01,
+      "long": 115.85
+    }
+  },
+  "CDM": {
+    "code": "CDM",
+    "state": "WA",
+    "location": "CANNING DAM",
+    "coordinate": {
+      "lat": -32.155,
+      "long": 116.125
+    }
+  },
+  "CAV": {
+    "code": "CAV",
+    "state": "QLD",
+    "location": "CANNONVALE",
+    "coordinate": {
+      "lat": -20.278,
+      "long": 148.692
+    }
+  },
+  "CBY": {
+    "code": "CBY",
+    "state": "NSW",
+    "location": "CANTERBURY RACECOURSE",
+    "coordinate": {
+      "lat": -33.908,
+      "long": 151.112
+    }
+  },
+  "CAPS": {
+    "code": "CAPS",
+    "state": "NSW",
+    "location": "CAPE BANKS",
+    "coordinate": {
+      "lat": -33.998,
+      "long": 151.245
+    }
+  },
+  "CCL": {
+    "code": "CCL",
+    "state": "QLD",
+    "location": "CAPE CLEVELAND",
+    "coordinate": {
+      "lat": -19.183,
+      "long": 147.013
+    }
+  },
+  "CPY": {
+    "code": "CPY",
+    "state": "QLD",
+    "location": "CAPE CONWAY",
+    "coordinate": {
+      "lat": -20.537,
+      "long": 148.928
+    }
+  },
+  "CGR": {
+    "code": "CGR",
+    "state": "NT",
+    "location": "CAPE GAMBIER",
+    "coordinate": {
+      "lat": -11.938,
+      "long": 130.967
+    }
+  },
+  "CGF": {
+    "code": "CGF",
+    "state": "QLD",
+    "location": "CAPE GRAFTON",
+    "coordinate": {
+      "lat": -16.863,
+      "long": 145.917
+    }
+  },
+  "CPH": {
+    "code": "CPH",
+    "state": "QLD",
+    "location": "CAPE HILLSBOROUGH",
+    "coordinate": {
+      "lat": -20.905,
+      "long": 149.045
+    }
+  },
+  "CAJE": {
+    "code": "CAJE",
+    "state": "SA",
+    "location": "CAPE JERVIS",
+    "coordinate": {
+      "lat": -35.607,
+      "long": 138.092
+    }
+  },
+  "CAKE": {
+    "code": "CAKE",
+    "state": "NT",
+    "location": "CAPE KEITH",
+    "coordinate": {
+      "lat": -11.617,
+      "long": 131.467
+    }
+  },
+  "CMB": {
+    "code": "CMB",
+    "state": "WA",
+    "location": "CAPE LAMBERT",
+    "coordinate": {
+      "lat": -20.593,
+      "long": 117.183
+    }
+  },
+  "CPMN": {
+    "code": "CPMN",
+    "state": "QLD",
+    "location": "CAPE MORETON",
+    "coordinate": {
+      "lat": -27.033,
+      "long": 153.467
+    }
+  },
+  "CPLD": {
+    "code": "CPLD",
+    "state": "TAS",
+    "location": "CAPE PORTLAND",
+    "coordinate": {
+      "lat": -40.75,
+      "long": 147.95
+    }
+  },
+  "CPHE": {
+    "code": "CPHE",
+    "state": "WA",
+    "location": "CAPE RICHE",
+    "coordinate": {
+      "lat": -34.6,
+      "long": 118.767
+    }
+  },
+  "CAPT": {
+    "code": "CAPT",
+    "state": "NSW",
+    "location": "CAPTAINS FLAT",
+    "coordinate": {
+      "lat": -35.592,
+      "long": 149.445
+    }
+  },
+  "CAU": {
+    "code": "CAU",
+    "state": "VIC",
+    "location": "CARAMUT",
+    "coordinate": {
+      "lat": -37.967,
+      "long": 142.517
+    }
+  },
+  "CARE": {
+    "code": "CARE",
+    "state": "VIC",
+    "location": "CARDINIA RESV",
+    "coordinate": {
+      "lat": -37.958,
+      "long": 145.417
+    }
+  },
+  "CDNA": {
+    "code": "CDNA",
+    "state": "QLD",
+    "location": "CARDONA",
+    "coordinate": {
+      "lat": -23.333,
+      "long": 149
+    }
+  },
+  "CARIN": {
+    "code": "CARIN",
+    "state": "QLD",
+    "location": "CARINDALE SHOPPING CENTRE",
+    "coordinate": {
+      "lat": -27.5,
+      "long": 153.102
+    }
+  },
+  "CIK": {
+    "code": "CIK",
+    "state": "TAS",
+    "location": "CARRICK",
+    "coordinate": {
+      "lat": -41.533,
+      "long": 147
+    }
+  },
+  "CARR": {
+    "code": "CARR",
+    "state": "VIC",
+    "location": "CARRUM",
+    "coordinate": {
+      "lat": -38.075,
+      "long": 145.12
+    }
+  },
+  "CLJ": {
+    "code": "CLJ",
+    "state": "TAS",
+    "location": "CASTLE JUNCTION",
+    "coordinate": {
+      "lat": -41.505,
+      "long": 147.483
+    }
+  },
+  "CTT": {
+    "code": "CTT",
+    "state": "NT",
+    "location": "CASTLE PT",
+    "coordinate": {
+      "lat": -12.35,
+      "long": 131.275
+    }
+  },
+  "CRPT": {
+    "code": "CRPT",
+    "state": "QLD",
+    "location": "CASTLEREAGH POINT",
+    "coordinate": {
+      "lat": -27.192,
+      "long": 153.112
+    }
+  },
+  "CCP": {
+    "code": "CCP",
+    "state": "QLD",
+    "location": "CECIL PLAINS",
+    "coordinate": {
+      "lat": -27.533,
+      "long": 151.183
+    }
+  },
+  "CAO": {
+    "code": "CAO",
+    "state": "SA",
+    "location": "CEDUNA OBSERVATORY",
+    "coordinate": {
+      "lat": -31.867,
+      "long": 133.8
+    }
+  },
+  "CBRG": {
+    "code": "CBRG",
+    "state": "QLD",
+    "location": "CENTENARY BRIDGE",
+    "coordinate": {
+      "lat": -27.528,
+      "long": 152.947
+    }
+  },
+  "CERB": {
+    "code": "CERB",
+    "state": "VIC",
+    "location": "CERBERUS",
+    "coordinate": {
+      "lat": -37.967,
+      "long": 145
+    }
+  },
+  "CYM": {
+    "code": "CYM",
+    "state": "NSW",
+    "location": "CHAFFEY DAM",
+    "coordinate": {
+      "lat": -31.342,
+      "long": 151.133
+    }
+  },
+  "CHI": {
+    "code": "CHI",
+    "state": "NT",
+    "location": "CHANNEL ISLAND",
+    "coordinate": {
+      "lat": -12.55,
+      "long": 130.867
+    }
+  },
+  "CHAP": {
+    "code": "CHAP",
+    "state": "NT",
+    "location": "CHARLES PT",
+    "coordinate": {
+      "lat": -12.383,
+      "long": 130.618
+    }
+  },
+  "CHAT": {
+    "code": "CHAT",
+    "state": "NSW",
+    "location": "CHATSWOOD CBD",
+    "coordinate": {
+      "lat": -33.797,
+      "long": 151.185
+    }
+  },
+  "CHN": {
+    "code": "CHN",
+    "state": "VIC",
+    "location": "CHILTERN",
+    "coordinate": {
+      "lat": -36.147,
+      "long": 146.607
+    }
+  },
+  "CIB": {
+    "code": "CIB",
+    "state": "NSW",
+    "location": "CHIPBOARD FACTORY",
+    "coordinate": {
+      "lat": -35.072,
+      "long": 147.405
+    }
+  },
+  "COY": {
+    "code": "COY",
+    "state": "TAS",
+    "location": "CHOCOLATE FACTORY",
+    "coordinate": {
+      "lat": -42.8,
+      "long": 147.267
+    }
+  },
+  "CNTH": {
+    "code": "CNTH",
+    "state": "NSW",
+    "location": "CHOPPERS NORTH",
+    "coordinate": {
+      "lat": -33.882,
+      "long": 151.025
+    }
+  },
+  "CSTH": {
+    "code": "CSTH",
+    "state": "NSW",
+    "location": "CHOPPERS SOUTH",
+    "coordinate": {
+      "lat": -33.955,
+      "long": 150.965
+    }
+  },
+  "CWST": {
+    "code": "CWST",
+    "state": "NSW",
+    "location": "CHOPPERS WEST",
+    "coordinate": {
+      "lat": -33.873,
+      "long": 151.003
+    }
+  },
+  "CIH": {
+    "code": "CIH",
+    "state": "QLD",
+    "location": "CID HARBOUR",
+    "coordinate": {
+      "lat": -20.25,
+      "long": 148.933
+    }
+  },
+  "CYB": {
+    "code": "CYB",
+    "state": "WA",
+    "location": "CITY BEACH",
+    "coordinate": {
+      "lat": -31.942,
+      "long": 115.75
+    }
+  },
+  "CEN": {
+    "code": "CEN",
+    "state": "QLD",
+    "location": "CLEVEDON",
+    "coordinate": {
+      "lat": -19.397,
+      "long": 147.022
+    }
+  },
+  "CVD": {
+    "code": "CVD",
+    "state": "QLD",
+    "location": "CLEVELAND",
+    "coordinate": {
+      "lat": -27.52,
+      "long": 153.283
+    }
+  },
+  "CFI": {
+    "code": "CFI",
+    "state": "VIC",
+    "location": "CLIFFY ISLAND",
+    "coordinate": {
+      "lat": -38.952,
+      "long": 146.702
+    }
+  },
+  "CLS": {
+    "code": "CLS",
+    "state": "VIC",
+    "location": "CLIFTON SPRINGS",
+    "coordinate": {
+      "lat": -38.15,
+      "long": 144.567
+    }
+  },
+  "CGH": {
+    "code": "CGH",
+    "state": "QLD",
+    "location": "CLONAGH STN",
+    "coordinate": {
+      "lat": -20.133,
+      "long": 140.683
+    }
+  },
+  "CLOY": {
+    "code": "CLOY",
+    "state": "QLD",
+    "location": "CLONEYS CREEK",
+    "coordinate": {
+      "lat": -20.217,
+      "long": 142.6
+    }
+  },
+  "COBA": {
+    "code": "COBA",
+    "state": "NSW",
+    "location": "COBAKI",
+    "coordinate": {
+      "lat": -28.183,
+      "long": 153.488
+    }
+  },
+  "CKT": {
+    "code": "CKT",
+    "state": "VIC",
+    "location": "COCKATOO",
+    "coordinate": {
+      "lat": -37.938,
+      "long": 145.495
+    }
+  },
+  "CBI": {
+    "code": "CBI",
+    "state": "VIC",
+    "location": "COLBINABBIN",
+    "coordinate": {
+      "lat": -36.583,
+      "long": 144.8
+    }
+  },
+  "CGE": {
+    "code": "CGE",
+    "state": "NSW",
+    "location": "COLLINGULLIE",
+    "coordinate": {
+      "lat": -35.088,
+      "long": 147.122
+    }
+  },
+  "CONG": {
+    "code": "CONG",
+    "state": "NSW",
+    "location": "COMERONG ISLAND",
+    "coordinate": {
+      "lat": -34.883,
+      "long": 150.733
+    }
+  },
+  "CJN": {
+    "code": "CJN",
+    "state": "TAS",
+    "location": "CONARA JUNCTION",
+    "coordinate": {
+      "lat": -41.833,
+      "long": 147.433
+    }
+  },
+  "CGM": {
+    "code": "CGM",
+    "state": "NSW",
+    "location": "CONDONG MILL",
+    "coordinate": {
+      "lat": -28.317,
+      "long": 153.433
+    }
+  },
+  "CBYC": {
+    "code": "CBYC",
+    "state": "QLD",
+    "location": "COOBY CREEK RESV",
+    "coordinate": {
+      "lat": -27.387,
+      "long": 151.938
+    }
+  },
+  "CIS": {
+    "code": "CIS",
+    "state": "NSW",
+    "location": "COOK ISLAND",
+    "coordinate": {
+      "lat": -28.197,
+      "long": 153.578
+    }
+  },
+  "CLMN": {
+    "code": "CLMN",
+    "state": "NSW",
+    "location": "COOLAMON",
+    "coordinate": {
+      "lat": -34.817,
+      "long": 147.2
+    }
+  },
+  "CMDR": {
+    "code": "CMDR",
+    "state": "QLD",
+    "location": "COOLMUNDA RESV",
+    "coordinate": {
+      "lat": -28.45,
+      "long": 151.233
+    }
+  },
+  "COOL": {
+    "code": "COOL",
+    "state": "QLD",
+    "location": "COOLUM HI-RISE",
+    "coordinate": {
+      "lat": -26.528,
+      "long": 153.087
+    }
+  },
+  "CORO": {
+    "code": "CORO",
+    "state": "QLD",
+    "location": "COOROY",
+    "coordinate": {
+      "lat": -26.417,
+      "long": 152.908
+    }
+  },
+  "CPL": {
+    "code": "CPL",
+    "state": "QLD",
+    "location": "COPPERLODE DAM",
+    "coordinate": {
+      "lat": -16.987,
+      "long": 145.672
+    }
+  },
+  "CPNG": {
+    "code": "CPNG",
+    "state": "ACT",
+    "location": "COPPINS CROSSING",
+    "coordinate": {
+      "lat": -35.288,
+      "long": 149.043
+    }
+  },
+  "CVR": {
+    "code": "CVR",
+    "state": "ACT",
+    "location": "CORIN RESV",
+    "coordinate": {
+      "lat": -35.542,
+      "long": 148.833
+    }
+  },
+  "COSS": {
+    "code": "COSS",
+    "state": "WA",
+    "location": "COSSACK",
+    "coordinate": {
+      "lat": -20.677,
+      "long": 117.19
+    }
+  },
+  "CTE": {
+    "code": "CTE",
+    "state": "WA",
+    "location": "COTTESLOE",
+    "coordinate": {
+      "lat": -31.992,
+      "long": 115.75
+    }
+  },
+  "COWI": {
+    "code": "COWI",
+    "state": "QLD",
+    "location": "COW ISLAND",
+    "coordinate": {
+      "lat": -20.423,
+      "long": 148.845
+    }
+  },
+  "COWR": {
+    "code": "COWR",
+    "state": "VIC",
+    "location": "COWWARR",
+    "coordinate": {
+      "lat": -38.015,
+      "long": 146.693
+    }
+  },
+  "CML": {
+    "code": "CML",
+    "state": "TAS",
+    "location": "CRADLE MOUNTAIN LODGE",
+    "coordinate": {
+      "lat": -41.595,
+      "long": 145.928
+    }
+  },
+  "CBV": {
+    "code": "CBV",
+    "state": "TAS",
+    "location": "CRAIGBOURNE RESV",
+    "coordinate": {
+      "lat": -42.55,
+      "long": 147.417
+    }
+  },
+  "CGB": {
+    "code": "CGB",
+    "state": "VIC",
+    "location": "CRAIGIEBURN OVERPASS",
+    "coordinate": {
+      "lat": -37.603,
+      "long": 144.938
+    }
+  },
+  "CRAY": {
+    "code": "CRAY",
+    "state": "SA",
+    "location": "CRAYFISH",
+    "coordinate": {
+      "lat": -38.583,
+      "long": 139.75
+    }
+  },
+  "CREM": {
+    "code": "CREM",
+    "state": "TAS",
+    "location": "CREMORNE",
+    "coordinate": {
+      "lat": -42.958,
+      "long": 147.533
+    }
+  },
+  "CES": {
+    "code": "CES",
+    "state": "TAS",
+    "location": "CRESSY",
+    "coordinate": {
+      "lat": -41.692,
+      "long": 147.083
+    }
+  },
+  "CWK": {
+    "code": "CWK",
+    "state": "VIC",
+    "location": "CRESWICK",
+    "coordinate": {
+      "lat": -37.433,
+      "long": 143.9
+    }
+  },
+  "CUL": {
+    "code": "CUL",
+    "state": "NSW",
+    "location": "CRONULLA",
+    "coordinate": {
+      "lat": -34.062,
+      "long": 151.153
+    }
+  },
+  "CRPC": {
+    "code": "CRPC",
+    "state": "NSW",
+    "location": "CROPPA CREEK",
+    "coordinate": {
+      "lat": -29.133,
+      "long": 150.3
+    }
+  },
+  "CNT": {
+    "code": "CNT",
+    "state": "QLD",
+    "location": "CROWS NEST",
+    "coordinate": {
+      "lat": -27.27,
+      "long": 152.055
+    }
+  },
+  "CGD": {
+    "code": "CGD",
+    "state": "NSW",
+    "location": "CUDGEN HEADLAND",
+    "coordinate": {
+      "lat": -28.265,
+      "long": 153.585
+    }
+  },
+  "CCN": {
+    "code": "CCN",
+    "state": "NSW",
+    "location": "CULCAIRN",
+    "coordinate": {
+      "lat": -35.667,
+      "long": 147.038
+    }
+  },
+  "DAIN": {
+    "code": "DAIN",
+    "state": "QLD",
+    "location": "DAINTREE",
+    "coordinate": {
+      "lat": -16.25,
+      "long": 145.317
+    }
+  },
+  "DLMO": {
+    "code": "DLMO",
+    "state": "NT",
+    "location": "DALMORE DOWNS",
+    "coordinate": {
+      "lat": -19.775,
+      "long": 136.002
+    }
+  },
+  "DRY": {
+    "code": "DRY",
+    "state": "QLD",
+    "location": "DALRYE",
+    "coordinate": {
+      "lat": -20.167,
+      "long": 149.067
+    }
+  },
+  "DMW": {
+    "code": "DMW",
+    "state": "SA",
+    "location": "DAM WALL",
+    "coordinate": {
+      "lat": -34.758,
+      "long": 138.722
+    }
+  },
+  "DARL": {
+    "code": "DARL",
+    "state": "VIC",
+    "location": "DARLIMURA",
+    "coordinate": {
+      "lat": -38.353,
+      "long": 146.215
+    }
+  },
+  "DHH": {
+    "code": "DHH",
+    "state": "NSW",
+    "location": "DARLING HARBOUR",
+    "coordinate": {
+      "lat": -33.858,
+      "long": 151.2
+    }
+  },
+  "DND": {
+    "code": "DND",
+    "state": "NT",
+    "location": "DARWIN RIVER DAM",
+    "coordinate": {
+      "lat": -12.825,
+      "long": 130.967
+    }
+  },
+  "DBO": {
+    "code": "DBO",
+    "state": "QLD",
+    "location": "DAYBORO",
+    "coordinate": {
+      "lat": -27.2,
+      "long": 152.822
+    }
+  },
+  "DFD": {
+    "code": "DFD",
+    "state": "VIC",
+    "location": "DAYLESFORD",
+    "coordinate": {
+      "lat": -37.35,
+      "long": 144.15
+    }
+  },
+  "DGY": {
+    "code": "DGY",
+    "state": "WA",
+    "location": "DE GREY HS",
+    "coordinate": {
+      "lat": -20.175,
+      "long": 119.17
+    }
+  },
+  "DSS": {
+    "code": "DSS",
+    "state": "VIC",
+    "location": "DEDERANG SUBSTATION",
+    "coordinate": {
+      "lat": -36.453,
+      "long": 146.99
+    }
+  },
+  "DPW": {
+    "code": "DPW",
+    "state": "NT",
+    "location": "DEEP WELL",
+    "coordinate": {
+      "lat": -24.358,
+      "long": 134.05
+    }
+  },
+  "DEL": {
+    "code": "DEL",
+    "state": "TAS",
+    "location": "DELORAINE",
+    "coordinate": {
+      "lat": -41.533,
+      "long": 146.667
+    }
+  },
+  "DNP": {
+    "code": "DNP",
+    "state": "QLD",
+    "location": "DENHAM PASSAGE",
+    "coordinate": {
+      "lat": -11.333,
+      "long": 143.333
+    }
+  },
+  "DWB": {
+    "code": "DWB",
+    "state": "TAS",
+    "location": "DERWENT BRIDGE",
+    "coordinate": {
+      "lat": -42.133,
+      "long": 146.233
+    }
+  },
+  "DVM": {
+    "code": "DVM",
+    "state": "NT",
+    "location": "DEVILS MARBLES",
+    "coordinate": {
+      "lat": -20.533,
+      "long": 134.25
+    }
+  },
+  "DIBE": {
+    "code": "DIBE",
+    "state": "QLD",
+    "location": "DICKY BEACH",
+    "coordinate": {
+      "lat": -26.782,
+      "long": 153.138
+    }
+  },
+  "DODI": {
+    "code": "DODI",
+    "state": "NSW",
+    "location": "DODDS ISLAND",
+    "coordinate": {
+      "lat": -28.248,
+      "long": 153.533
+    }
+  },
+  "DLPT": {
+    "code": "DLPT",
+    "state": "NSW",
+    "location": "DOLLS POINT",
+    "coordinate": {
+      "lat": -33.995,
+      "long": 151.148
+    }
+  },
+  "DSN": {
+    "code": "DSN",
+    "state": "VIC",
+    "location": "DONCASTER SHOPPINGTOWN",
+    "coordinate": {
+      "lat": -37.783,
+      "long": 145.125
+    }
+  },
+  "DOP": {
+    "code": "DOP",
+    "state": "QLD",
+    "location": "DONNINGTON AIRPARK",
+    "coordinate": {
+      "lat": -19.602,
+      "long": 146.842
+    }
+  },
+  "DRO": {
+    "code": "DRO",
+    "state": "NSW",
+    "location": "DORRIGO",
+    "coordinate": {
+      "lat": -30.342,
+      "long": 152.713
+    }
+  },
+  "DCIS": {
+    "code": "DCIS",
+    "state": "QLD",
+    "location": "DOUBLE CONE ISLAND",
+    "coordinate": {
+      "lat": -20.1,
+      "long": 148.717
+    }
+  },
+  "DOU": {
+    "code": "DOU",
+    "state": "QLD",
+    "location": "DOUBLE ISLAND",
+    "coordinate": {
+      "lat": -16.725,
+      "long": 145.683
+    }
+  },
+  "DLP": {
+    "code": "DLP",
+    "state": "QLD",
+    "location": "DOUBLE ISLAND PT",
+    "coordinate": {
+      "lat": -25.917,
+      "long": 153.183
+    }
+  },
+  "DBPT": {
+    "code": "DBPT",
+    "state": "QLD",
+    "location": "DOUBLE PT",
+    "coordinate": {
+      "lat": -11.867,
+      "long": 142.9
+    }
+  },
+  "DRLD": {
+    "code": "DRLD",
+    "state": "QLD",
+    "location": "DREAMWORLD",
+    "coordinate": {
+      "lat": -27.865,
+      "long": 153.317
+    }
+  },
+  "DRM": {
+    "code": "DRM",
+    "state": "VIC",
+    "location": "DROMANA",
+    "coordinate": {
+      "lat": -38.333,
+      "long": 144.967
+    }
+  },
+  "DRP": {
+    "code": "DRP",
+    "state": "TAS",
+    "location": "DROUGHTY PT",
+    "coordinate": {
+      "lat": -42.933,
+      "long": 147.417
+    }
+  },
+  "DRN": {
+    "code": "DRN",
+    "state": "VIC",
+    "location": "DROUIN",
+    "coordinate": {
+      "lat": -38.133,
+      "long": 145.85
+    }
+  },
+  "DCRK": {
+    "code": "DCRK",
+    "state": "SA",
+    "location": "DRY CREEK",
+    "coordinate": {
+      "lat": -34.833,
+      "long": 138.583
+    }
+  },
+  "DAG": {
+    "code": "DAG",
+    "state": "QLD",
+    "location": "DUARINGA",
+    "coordinate": {
+      "lat": -23.72,
+      "long": 149.668
+    }
+  },
+  "DUB": {
+    "code": "DUB",
+    "state": "SA",
+    "location": "DUBLIN",
+    "coordinate": {
+      "lat": -34.455,
+      "long": 138.35
+    }
+  },
+  "DLY": {
+    "code": "DLY",
+    "state": "TAS",
+    "location": "DUNALLEY",
+    "coordinate": {
+      "lat": -42.892,
+      "long": 147.805
+    }
+  },
+  "DGN": {
+    "code": "DGN",
+    "state": "NSW",
+    "location": "DUNGOWAN",
+    "coordinate": {
+      "lat": -31.217,
+      "long": 151.117
+    }
+  },
+  "DUWN": {
+    "code": "DUWN",
+    "state": "NSW",
+    "location": "DUNGOWAN DAM",
+    "coordinate": {
+      "lat": -31.4,
+      "long": 151.35
+    }
+  },
+  "DUA": {
+    "code": "DUA",
+    "state": "NSW",
+    "location": "DURI GAP",
+    "coordinate": {
+      "lat": -31.2,
+      "long": 150.7
+    }
+  },
+  "DMT": {
+    "code": "DMT",
+    "state": "NSW",
+    "location": "DURI MT",
+    "coordinate": {
+      "lat": -31.205,
+      "long": 150.73
+    }
+  },
+  "DONG": {
+    "code": "DONG",
+    "state": "QLD",
+    "location": "DURONG",
+    "coordinate": {
+      "lat": -26.4,
+      "long": 151.25
+    }
+  },
+  "DTON": {
+    "code": "DTON",
+    "state": "SA",
+    "location": "DUTTON",
+    "coordinate": {
+      "lat": -34.367,
+      "long": 139.133
+    }
+  },
+  "EAN": {
+    "code": "EAN",
+    "state": "TAS",
+    "location": "EAGLE HAWK NECK",
+    "coordinate": {
+      "lat": -43.017,
+      "long": 147.9
+    }
+  },
+  "EARH": {
+    "code": "EARH",
+    "state": "QLD",
+    "location": "EARL HILL",
+    "coordinate": {
+      "lat": -16.8,
+      "long": 145.7
+    }
+  },
+  "EARV": {
+    "code": "EARV",
+    "state": "QLD",
+    "location": "EARLVILLE",
+    "coordinate": {
+      "lat": -16.955,
+      "long": 145.738
+    }
+  },
+  "EAM": {
+    "code": "EAM",
+    "state": "NT",
+    "location": "EAST ARM",
+    "coordinate": {
+      "lat": -12.517,
+      "long": 130.933
+    }
+  },
+  "EGT": {
+    "code": "EGT",
+    "state": "NSW",
+    "location": "EAST GRETA",
+    "coordinate": {
+      "lat": -32.738,
+      "long": 151.538
+    }
+  },
+  "ETP": {
+    "code": "ETP",
+    "state": "NT",
+    "location": "EAST PT",
+    "coordinate": {
+      "lat": -12.408,
+      "long": 130.817
+    }
+  },
+  "EDP": {
+    "code": "EDP",
+    "state": "TAS",
+    "location": "EDDYSTONE PT",
+    "coordinate": {
+      "lat": -40.998,
+      "long": 148.348
+    }
+  },
+  "EDT": {
+    "code": "EDT",
+    "state": "QLD",
+    "location": "EDMONTON",
+    "coordinate": {
+      "lat": -17.025,
+      "long": 145.73
+    }
+  },
+  "ELDO": {
+    "code": "ELDO",
+    "state": "VIC",
+    "location": "ELDORADO",
+    "coordinate": {
+      "lat": -36.312,
+      "long": 146.522
+    }
+  },
+  "ERB": {
+    "code": "ERB",
+    "state": "NT",
+    "location": "ELIZABETH RIVER BRIDGE",
+    "coordinate": {
+      "lat": -12.543,
+      "long": 130.975
+    }
+  },
+  "EMY": {
+    "code": "EMY",
+    "state": "NT",
+    "location": "EMILY GAP",
+    "coordinate": {
+      "lat": -23.74,
+      "long": 133.942
+    }
+  },
+  "EDOR": {
+    "code": "EDOR",
+    "state": "QLD",
+    "location": "ENDEAVOUR REEF",
+    "coordinate": {
+      "lat": -15.783,
+      "long": 145.567
+    }
+  },
+  "EPPG": {
+    "code": "EPPG",
+    "state": "VIC",
+    "location": "EPPING",
+    "coordinate": {
+      "lat": -37.643,
+      "long": 145.025
+    }
+  },
+  "ERSK": {
+    "code": "ERSK",
+    "state": "NSW",
+    "location": "ERSKINEVILLE OVAL",
+    "coordinate": {
+      "lat": -33.902,
+      "long": 151.19
+    }
+  },
+  "ETON": {
+    "code": "ETON",
+    "state": "QLD",
+    "location": "ETON",
+    "coordinate": {
+      "lat": -21.267,
+      "long": 148.972
+    }
+  },
+  "EMI": {
+    "code": "EMI",
+    "state": "QLD",
+    "location": "EUMUNDI",
+    "coordinate": {
+      "lat": -26.48,
+      "long": 152.953
+    }
+  },
+  "EWI": {
+    "code": "EWI",
+    "state": "NT",
+    "location": "EWANINGA",
+    "coordinate": {
+      "lat": -23.983,
+      "long": 133.933
+    }
+  },
+  "EMD": {
+    "code": "EMD",
+    "state": "QLD",
+    "location": "EWEN MADDOCK DAM",
+    "coordinate": {
+      "lat": -26.778,
+      "long": 153.008
+    }
+  },
+  "FCP": {
+    "code": "FCP",
+    "state": "QLD",
+    "location": "FALSE CAPE",
+    "coordinate": {
+      "lat": -16.875,
+      "long": 145.85
+    }
+  },
+  "FHS": {
+    "code": "FHS",
+    "state": "NSW",
+    "location": "FARRER HIGH SCHOOL",
+    "coordinate": {
+      "lat": -31.142,
+      "long": 150.983
+    }
+  },
+  "FDP": {
+    "code": "FDP",
+    "state": "TAS",
+    "location": "FEDERATION PEAK",
+    "coordinate": {
+      "lat": -43.267,
+      "long": 146.45
+    }
+  },
+  "FNVL": {
+    "code": "FNVL",
+    "state": "QLD",
+    "location": "FERNVALE",
+    "coordinate": {
+      "lat": -27.455,
+      "long": 152.653
+    }
+  },
+  "FLDI": {
+    "code": "FLDI",
+    "state": "NT",
+    "location": "FIELD ISLAND",
+    "coordinate": {
+      "lat": -12.1,
+      "long": 132.383
+    }
+  },
+  "FISH": {
+    "code": "FISH",
+    "state": "QLD",
+    "location": "FISHERMANS ISLAND",
+    "coordinate": {
+      "lat": -27.387,
+      "long": 153.177
+    }
+  },
+  "FIT": {
+    "code": "FIT",
+    "state": "NSW",
+    "location": "FITNESS CAMP",
+    "coordinate": {
+      "lat": -35.167,
+      "long": 147.622
+    }
+  },
+  "FID": {
+    "code": "FID",
+    "state": "QLD",
+    "location": "FITZROY ISLAND",
+    "coordinate": {
+      "lat": -16.933,
+      "long": 145.992
+    }
+  },
+  "FGN": {
+    "code": "FGN",
+    "state": "VIC",
+    "location": "FLEMINGTON",
+    "coordinate": {
+      "lat": -37.793,
+      "long": 144.912
+    }
+  },
+  "FPK": {
+    "code": "FPK",
+    "state": "QLD",
+    "location": "FLINDERS PEAK",
+    "coordinate": {
+      "lat": -27.817,
+      "long": 152.808
+    }
+  },
+  "FYN": {
+    "code": "FYN",
+    "state": "VIC",
+    "location": "FLYNN",
+    "coordinate": {
+      "lat": -38.193,
+      "long": 146.673
+    }
+  },
+  "FOOT": {
+    "code": "FOOT",
+    "state": "SA",
+    "location": "FOOTBALL PARK",
+    "coordinate": {
+      "lat": -34.882,
+      "long": 138.495
+    }
+  },
+  "FMN": {
+    "code": "FMN",
+    "state": "QLD",
+    "location": "FORMARTIN",
+    "coordinate": {
+      "lat": -27.397,
+      "long": 151.408
+    }
+  },
+  "FDL": {
+    "code": "FDL",
+    "state": "WA",
+    "location": "FORRESTDALE LAKE",
+    "coordinate": {
+      "lat": -32.16,
+      "long": 115.93
+    }
+  },
+  "FFLD": {
+    "code": "FFLD",
+    "state": "WA",
+    "location": "FORRESTFIELD",
+    "coordinate": {
+      "lat": -31.988,
+      "long": 116.018
+    }
+  },
+  "FOWB": {
+    "code": "FOWB",
+    "state": "SA",
+    "location": "FOWLERS BAY",
+    "coordinate": {
+      "lat": -31.983,
+      "long": 132.433
+    }
+  },
+  "FRLG": {
+    "code": "FRLG",
+    "state": "SA",
+    "location": "FREELING",
+    "coordinate": {
+      "lat": -34.457,
+      "long": 138.808
+    }
+  },
+  "FWO": {
+    "code": "FWO",
+    "state": "VIC",
+    "location": "FREEWAY OVERPASS",
+    "coordinate": {
+      "lat": -37.795,
+      "long": 144.993
+    }
+  },
+  "FRE": {
+    "code": "FRE",
+    "state": "WA",
+    "location": "FREMANTLE",
+    "coordinate": {
+      "lat": -32.058,
+      "long": 115.742
+    }
+  },
+  "FREM": {
+    "code": "FREM",
+    "state": "WA",
+    "location": "FREMANTLE GOLF COURSE",
+    "coordinate": {
+      "lat": -32.055,
+      "long": 115.773
+    }
+  },
+  "FRWV": {
+    "code": "FRWV",
+    "state": "QLD",
+    "location": "FRESHWATER VALLEY",
+    "coordinate": {
+      "lat": -16.95,
+      "long": 145.688
+    }
+  },
+  "GALGA": {
+    "code": "GALGA",
+    "state": "SA",
+    "location": "GALGA",
+    "coordinate": {
+      "lat": -34.717,
+      "long": 139.967
+    }
+  },
+  "GGN": {
+    "code": "GGN",
+    "state": "QLD",
+    "location": "GALLANGOWAN",
+    "coordinate": {
+      "lat": -26.433,
+      "long": 152.328
+    }
+  },
+  "GAE": {
+    "code": "GAE",
+    "state": "QLD",
+    "location": "GALLILEE",
+    "coordinate": {
+      "lat": -22.383,
+      "long": 145.983
+    }
+  },
+  "GWTR": {
+    "code": "GWTR",
+    "state": "NT",
+    "location": "GAOL WATER TOWER",
+    "coordinate": {
+      "lat": -23.858,
+      "long": 133.8
+    }
+  },
+  "GST": {
+    "code": "GST",
+    "state": "NSW",
+    "location": "GATE SOUTH",
+    "coordinate": {
+      "lat": -31.29,
+      "long": 150.685
+    }
+  },
+  "GWT": {
+    "code": "GWT",
+    "state": "NSW",
+    "location": "GATE WEST",
+    "coordinate": {
+      "lat": -31.022,
+      "long": 150.572
+    }
+  },
+  "GWB": {
+    "code": "GWB",
+    "state": "QLD",
+    "location": "GATEWAY BRIDGE",
+    "coordinate": {
+      "lat": -27.447,
+      "long": 153.1
+    }
+  },
+  "GEK": {
+    "code": "GEK",
+    "state": "VIC",
+    "location": "GEMBROOK",
+    "coordinate": {
+      "lat": -37.95,
+      "long": 145.55
+    }
+  },
+  "GRB": {
+    "code": "GRB",
+    "state": "NSW",
+    "location": "GEORGES RIVER BRIDGE",
+    "coordinate": {
+      "lat": -34.003,
+      "long": 151.11
+    }
+  },
+  "GEP": {
+    "code": "GEP",
+    "state": "SA",
+    "location": "GEPPS CROSS",
+    "coordinate": {
+      "lat": -34.85,
+      "long": 138.6
+    }
+  },
+  "GOY": {
+    "code": "GOY",
+    "state": "NSW",
+    "location": "GEROGERY",
+    "coordinate": {
+      "lat": -35.838,
+      "long": 146.992
+    }
+  },
+  "GNR": {
+    "code": "GNR",
+    "state": "QLD",
+    "location": "GIBSON REEF",
+    "coordinate": {
+      "lat": -17.317,
+      "long": 146.35
+    }
+  },
+  "GIM": {
+    "code": "GIM",
+    "state": "QLD",
+    "location": "GILBERLAND MINE",
+    "coordinate": {
+      "lat": -19.3,
+      "long": 143.6
+    }
+  },
+  "GIRU": {
+    "code": "GIRU",
+    "state": "QLD",
+    "location": "GIRU",
+    "coordinate": {
+      "lat": -19.513,
+      "long": 147.105
+    }
+  },
+  "GVB": {
+    "code": "GVB",
+    "state": "NSW",
+    "location": "GLADESVILLE BRIDGE",
+    "coordinate": {
+      "lat": -33.842,
+      "long": 151.147
+    }
+  },
+  "GBRY": {
+    "code": "GBRY",
+    "state": "NSW",
+    "location": "GLEN BRAY",
+    "coordinate": {
+      "lat": -35.925,
+      "long": 147.008
+    }
+  },
+  "GBR": {
+    "code": "GBR",
+    "state": "VIC",
+    "location": "GLENBURN",
+    "coordinate": {
+      "lat": -37.425,
+      "long": 145.422
+    }
+  },
+  "GLEN": {
+    "code": "GLEN",
+    "state": "NSW",
+    "location": "GLENLOCH INTERCHANGE",
+    "coordinate": {
+      "lat": -35.285,
+      "long": 149.085
+    }
+  },
+  "GMN": {
+    "code": "GMN",
+    "state": "QLD",
+    "location": "GLENMORGAN",
+    "coordinate": {
+      "lat": -27.25,
+      "long": 149.683
+    }
+  },
+  "GLC": {
+    "code": "GLC",
+    "state": "SA",
+    "location": "GLENORCHY",
+    "coordinate": {
+      "lat": -31.917,
+      "long": 139.783
+    }
+  },
+  "GRE": {
+    "code": "GRE",
+    "state": "NSW",
+    "location": "GLENREAGH",
+    "coordinate": {
+      "lat": -30.055,
+      "long": 152.978
+    }
+  },
+  "GRK": {
+    "code": "GRK",
+    "state": "QLD",
+    "location": "GLENROCK HS",
+    "coordinate": {
+      "lat": -15.117,
+      "long": 145.083
+    }
+  },
+  "GCR": {
+    "code": "GCR",
+    "state": "NSW",
+    "location": "GLOUCESTER",
+    "coordinate": {
+      "lat": -32.005,
+      "long": 151.967
+    }
+  },
+  "GMH": {
+    "code": "GMH",
+    "state": "VIC",
+    "location": "GMH",
+    "coordinate": {
+      "lat": -38.008,
+      "long": 145.238
+    }
+  },
+  "GOI": {
+    "code": "GOI",
+    "state": "QLD",
+    "location": "GOLDSMITH ISLAND",
+    "coordinate": {
+      "lat": -20.683,
+      "long": 149.15
+    }
+  },
+  "GON": {
+    "code": "GON",
+    "state": "QLD",
+    "location": "GOODNA",
+    "coordinate": {
+      "lat": -27.617,
+      "long": 152.888
+    }
+  },
+  "GGV": {
+    "code": "GGV",
+    "state": "NSW",
+    "location": "GOOGONG RESV",
+    "coordinate": {
+      "lat": -35.422,
+      "long": 149.262
+    }
+  },
+  "GMBG": {
+    "code": "GMBG",
+    "state": "QLD",
+    "location": "GOOMBUNGEE",
+    "coordinate": {
+      "lat": -27.308,
+      "long": 151.85
+    }
+  },
+  "GNN": {
+    "code": "GNN",
+    "state": "QLD",
+    "location": "GOONANEMAN",
+    "coordinate": {
+      "lat": -25.433,
+      "long": 152.133
+    }
+  },
+  "GGO": {
+    "code": "GGO",
+    "state": "NSW",
+    "location": "GOONOO GOONOO HS",
+    "coordinate": {
+      "lat": -31.31,
+      "long": 150.905
+    }
+  },
+  "GOV": {
+    "code": "GOV",
+    "state": "QLD",
+    "location": "GORDONVALE",
+    "coordinate": {
+      "lat": -17.088,
+      "long": 145.783
+    }
+  },
+  "GOW": {
+    "code": "GOW",
+    "state": "QLD",
+    "location": "GOWRIE JUNCTION",
+    "coordinate": {
+      "lat": -27.5,
+      "long": 151.887
+    }
+  },
+  "GRAA": {
+    "code": "GRAA",
+    "state": "VIC",
+    "location": "GRANYA",
+    "coordinate": {
+      "lat": -36.112,
+      "long": 147.317
+    }
+  },
+  "GVH": {
+    "code": "GVH",
+    "state": "TAS",
+    "location": "GRAVELLY BEACH",
+    "coordinate": {
+      "lat": -41.288,
+      "long": 146.972
+    }
+  },
+  "GRHL": {
+    "code": "GRHL",
+    "state": "WA",
+    "location": "GREEN HILLS",
+    "coordinate": {
+      "lat": -31.925,
+      "long": 116.958
+    }
+  },
+  "GNIS": {
+    "code": "GNIS",
+    "state": "QLD",
+    "location": "GREEN ISLAND (CAIRNS)",
+    "coordinate": {
+      "lat": -16.758,
+      "long": 145.975
+    }
+  },
+  "GRL": {
+    "code": "GRL",
+    "state": "QLD",
+    "location": "GREEN ISLAND (MACKAY)",
+    "coordinate": {
+      "lat": -20.983,
+      "long": 149.15
+    }
+  },
+  "GRNH": {
+    "code": "GRNH",
+    "state": "QLD",
+    "location": "GREENHILL",
+    "coordinate": {
+      "lat": -17.04,
+      "long": 145.805
+    }
+  },
+  "GNM": {
+    "code": "GNM",
+    "state": "QLD",
+    "location": "GREENMOUNT",
+    "coordinate": {
+      "lat": -27.783,
+      "long": 151.95
+    }
+  },
+  "GRRV": {
+    "code": "GRRV",
+    "state": "NSW",
+    "location": "GROSE RIVER",
+    "coordinate": {
+      "lat": -33.615,
+      "long": 150.67
+    }
+  },
+  "GDG": {
+    "code": "GDG",
+    "state": "NSW",
+    "location": "GUNDAGAI",
+    "coordinate": {
+      "lat": -35.062,
+      "long": 148.103
+    }
+  },
+  "GUP": {
+    "code": "GUP",
+    "state": "NT",
+    "location": "GUNN PT",
+    "coordinate": {
+      "lat": -12.183,
+      "long": 130.992
+    }
+  },
+  "GUNN": {
+    "code": "GUNN",
+    "state": "NSW",
+    "location": "GUNNING",
+    "coordinate": {
+      "lat": -34.782,
+      "long": 149.267
+    }
+  },
+  "GUNG": {
+    "code": "GUNG",
+    "state": "QLD",
+    "location": "GUTHALUNGRA",
+    "coordinate": {
+      "lat": -19.933,
+      "long": 147.833
+    }
+  },
+  "HADEN": {
+    "code": "HADEN",
+    "state": "QLD",
+    "location": "HADEN",
+    "coordinate": {
+      "lat": -27.22,
+      "long": 151.888
+    }
+  },
+  "HSP": {
+    "code": "HSP",
+    "state": "TAS",
+    "location": "HADSPEN",
+    "coordinate": {
+      "lat": -41.508,
+      "long": 147.058
+    }
+  },
+  "HALL": {
+    "code": "HALL",
+    "state": "ACT",
+    "location": "HALL",
+    "coordinate": {
+      "lat": -35.168,
+      "long": 149.068
+    }
+  },
+  "HMM": {
+    "code": "HMM",
+    "state": "QLD",
+    "location": "HAMMOND ISLAND",
+    "coordinate": {
+      "lat": -10.533,
+      "long": 142.217
+    }
+  },
+  "HMN": {
+    "code": "HMN",
+    "state": "QLD",
+    "location": "HAMPTON",
+    "coordinate": {
+      "lat": -27.358,
+      "long": 152.067
+    }
+  },
+  "HAVY": {
+    "code": "HAVY",
+    "state": "QLD",
+    "location": "HAPPY VALLEY",
+    "coordinate": {
+      "lat": -26.808,
+      "long": 153.133
+    }
+  },
+  "HBB": {
+    "code": "HBB",
+    "state": "NSW",
+    "location": "HARBOUR BRIDGE",
+    "coordinate": {
+      "lat": -33.853,
+      "long": 151.208
+    }
+  },
+  "HAF": {
+    "code": "HAF",
+    "state": "NSW",
+    "location": "HAREFIELD",
+    "coordinate": {
+      "lat": -34.963,
+      "long": 147.517
+    }
+  },
+  "HGTE": {
+    "code": "HGTE",
+    "state": "SA",
+    "location": "HARROGATE",
+    "coordinate": {
+      "lat": -34.953,
+      "long": 139.018
+    }
+  },
+  "HARV": {
+    "code": "HARV",
+    "state": "WA",
+    "location": "HARVEY",
+    "coordinate": {
+      "lat": -33.083,
+      "long": 115.9
+    }
+  },
+  "HSTI": {
+    "code": "HSTI",
+    "state": "QLD",
+    "location": "HASTINGS",
+    "coordinate": {
+      "lat": -28.3,
+      "long": 145.183
+    }
+  },
+  "HASS": {
+    "code": "HASS",
+    "state": "NSW",
+    "location": "HASTINGS PT",
+    "coordinate": {
+      "lat": -28.358,
+      "long": 153.58
+    }
+  },
+  "HATF": {
+    "code": "HATF",
+    "state": "NSW",
+    "location": "HATFIELD",
+    "coordinate": {
+      "lat": -33.7,
+      "long": 143.65
+    }
+  },
+  "HVI": {
+    "code": "HVI",
+    "state": "QLD",
+    "location": "HAVANNAH ISLAND",
+    "coordinate": {
+      "lat": -18.845,
+      "long": 146.538
+    }
+  },
+  "HPT": {
+    "code": "HPT",
+    "state": "QLD",
+    "location": "HAY PT",
+    "coordinate": {
+      "lat": -21.278,
+      "long": 149.292
+    }
+  },
+  "HAZ": {
+    "code": "HAZ",
+    "state": "QLD",
+    "location": "HAZELWOOD ISLAND",
+    "coordinate": {
+      "lat": -20.283,
+      "long": 149.083
+    }
+  },
+  "HEAT": {
+    "code": "HEAT",
+    "state": "VIC",
+    "location": "HEATHCOTE TOWNSHIP",
+    "coordinate": {
+      "lat": -36.917,
+      "long": 144.7
+    }
+  },
+  "HRR": {
+    "code": "HRR",
+    "state": "WA",
+    "location": "HELENA RIVER RESV",
+    "coordinate": {
+      "lat": -32.002,
+      "long": 116.227
+    }
+  },
+  "HNB": {
+    "code": "HNB",
+    "state": "NSW",
+    "location": "HELENSBURGH",
+    "coordinate": {
+      "lat": -34.192,
+      "long": 150.975
+    }
+  },
+  "HED": {
+    "code": "HED",
+    "state": "QLD",
+    "location": "HELIDON",
+    "coordinate": {
+      "lat": -27.55,
+      "long": 152.133
+    }
+  },
+  "HENTY": {
+    "code": "HENTY",
+    "state": "NSW",
+    "location": "HENTY",
+    "coordinate": {
+      "lat": -35.525,
+      "long": 147.033
+    }
+  },
+  "HKE": {
+    "code": "HKE",
+    "state": "WA",
+    "location": "HERDSMAN LAKE",
+    "coordinate": {
+      "lat": -31.92,
+      "long": 115.813
+    }
+  },
+  "HXB": {
+    "code": "HXB",
+    "state": "NSW",
+    "location": "HEXHAM BRIDGE",
+    "coordinate": {
+      "lat": -32.83,
+      "long": 151.69
+    }
+  },
+  "HIPA": {
+    "code": "HIPA",
+    "state": "QLD",
+    "location": "HIGH PERFORMANCE AREA 3",
+    "coordinate": {
+      "lat": -27.15,
+      "long": 153.847
+    }
+  },
+  "HVTG": {
+    "code": "HVTG",
+    "state": "QLD",
+    "location": "HIGH VOLTAGE",
+    "coordinate": {
+      "lat": -17.015,
+      "long": 145.763
+    }
+  },
+  "HIM": {
+    "code": "HIM",
+    "state": "QLD",
+    "location": "HILTON MINE",
+    "coordinate": {
+      "lat": -20.567,
+      "long": 139.483
+    }
+  },
+  "HNCH": {
+    "code": "HNCH",
+    "state": "QLD",
+    "location": "HINCHINBROOK ISLAND",
+    "coordinate": {
+      "lat": -18.367,
+      "long": 146.25
+    }
+  },
+  "HDWL": {
+    "code": "HDWL",
+    "state": "QLD",
+    "location": "HINZE DAM WALL",
+    "coordinate": {
+      "lat": -28.05,
+      "long": 153.287
+    }
+  },
+  "HCTY": {
+    "code": "HCTY",
+    "state": "TAS",
+    "location": "HOBART CBD",
+    "coordinate": {
+      "lat": -42.883,
+      "long": 147.333
+    }
+  },
+  "HBKT": {
+    "code": "HBKT",
+    "state": "NSW",
+    "location": "HOLBROOK TOWNSHIP",
+    "coordinate": {
+      "lat": -35.73,
+      "long": 147.325
+    }
+  },
+  "HOLM": {
+    "code": "HOLM",
+    "state": "QLD",
+    "location": "HOLMES REEF",
+    "coordinate": {
+      "lat": -16.5,
+      "long": 148
+    }
+  },
+  "HBU": {
+    "code": "HBU",
+    "state": "QLD",
+    "location": "HOMEBUSH",
+    "coordinate": {
+      "lat": -21.28,
+      "long": 149.05
+    }
+  },
+  "HDP": {
+    "code": "HDP",
+    "state": "WA",
+    "location": "HOOD PT",
+    "coordinate": {
+      "lat": -34.383,
+      "long": 119.567
+    }
+  },
+  "HPI": {
+    "code": "HPI",
+    "state": "NT",
+    "location": "HOPE INLET",
+    "coordinate": {
+      "lat": -12.328,
+      "long": 131.017
+    }
+  },
+  "HVR": {
+    "code": "HVR",
+    "state": "SA",
+    "location": "HOPE VALLEY RESV",
+    "coordinate": {
+      "lat": -34.85,
+      "long": 138.683
+    }
+  },
+  "HORD": {
+    "code": "HORD",
+    "state": "NT",
+    "location": "HORDERN HILLS",
+    "coordinate": {
+      "lat": -20.65,
+      "long": 130.317
+    }
+  },
+  "HZWF": {
+    "code": "HZWF",
+    "state": "WA",
+    "location": "HORIZONTAL WATERFALLS",
+    "coordinate": {
+      "lat": -16.383,
+      "long": 123.967
+    }
+  },
+  "HBVT": {
+    "code": "HBVT",
+    "state": "QLD",
+    "location": "HORNIBROOK VIADUCT",
+    "coordinate": {
+      "lat": -27.273,
+      "long": 153.072
+    }
+  },
+  "HSY": {
+    "code": "HSY",
+    "state": "NSW",
+    "location": "HORNSBY",
+    "coordinate": {
+      "lat": -33.692,
+      "long": 151.107
+    }
+  },
+  "HST": {
+    "code": "HST",
+    "state": "NSW",
+    "location": "HOSKINSTOWN",
+    "coordinate": {
+      "lat": -35.422,
+      "long": 149.45
+    }
+  },
+  "HWG": {
+    "code": "HWG",
+    "state": "NSW",
+    "location": "HOWLONG",
+    "coordinate": {
+      "lat": -35.977,
+      "long": 146.625
+    }
+  },
+  "HGR": {
+    "code": "HGR",
+    "state": "NT",
+    "location": "HUGH RIVER",
+    "coordinate": {
+      "lat": -24.35,
+      "long": 133.433
+    }
+  },
+  "HWW": {
+    "code": "HWW",
+    "state": "VIC",
+    "location": "HUME WEIR WALL",
+    "coordinate": {
+      "lat": -36.112,
+      "long": 147.025
+    }
+  },
+  "HYH": {
+    "code": "HYH",
+    "state": "TAS",
+    "location": "HUMMOCKY HILLS",
+    "coordinate": {
+      "lat": -41.733,
+      "long": 147.25
+    }
+  },
+  "HRD": {
+    "code": "HRD",
+    "state": "NSW",
+    "location": "HUNGERFORD",
+    "coordinate": {
+      "lat": -29,
+      "long": 144.4
+    }
+  },
+  "HYDEN": {
+    "code": "HYDEN",
+    "state": "WA",
+    "location": "HYDEN",
+    "coordinate": {
+      "lat": -32.45,
+      "long": 118.867
+    }
+  },
+  "IND": {
+    "code": "IND",
+    "state": "WA",
+    "location": "INDEE HS",
+    "coordinate": {
+      "lat": -20.787,
+      "long": 118.592
+    }
+  },
+  "IDNA": {
+    "code": "IDNA",
+    "state": "NT",
+    "location": "INDIANA",
+    "coordinate": {
+      "lat": -23.333,
+      "long": 135.433
+    }
+  },
+  "IDK": {
+    "code": "IDK",
+    "state": "SA",
+    "location": "INDULKANA TOWNSHIP",
+    "coordinate": {
+      "lat": -26.967,
+      "long": 133.325
+    }
+  },
+  "INGL": {
+    "code": "INGL",
+    "state": "NSW",
+    "location": "INGLEBURN",
+    "coordinate": {
+      "lat": -33.972,
+      "long": 150.858
+    }
+  },
+  "IPHL": {
+    "code": "IPHL",
+    "state": "NT",
+    "location": "IPPIA HILL",
+    "coordinate": {
+      "lat": -25.117,
+      "long": 133.05
+    }
+  },
+  "ISB": {
+    "code": "ISB",
+    "state": "WA",
+    "location": "ISRAELITE BAY",
+    "coordinate": {
+      "lat": -33.617,
+      "long": 123.883
+    }
+  },
+  "JSK": {
+    "code": "JSK",
+    "state": "VIC",
+    "location": "JACK SMITH LAKE",
+    "coordinate": {
+      "lat": -38.5,
+      "long": 147
+    }
+  },
+  "JAC": {
+    "code": "JAC",
+    "state": "NT",
+    "location": "JACKO'S JUNCTION",
+    "coordinate": {
+      "lat": -12.263,
+      "long": 131.037
+    }
+  },
+  "JNR": {
+    "code": "JNR",
+    "state": "QLD",
+    "location": "JACKSON RIVER",
+    "coordinate": {
+      "lat": -11.583,
+      "long": 142
+    }
+  },
+  "JSL": {
+    "code": "JSL",
+    "state": "TAS",
+    "location": "JACOB'S SUGARLOAF",
+    "coordinate": {
+      "lat": -41.942,
+      "long": 147.3
+    }
+  },
+  "JACW": {
+    "code": "JACW",
+    "state": "WA",
+    "location": "JACOB'S WELL",
+    "coordinate": {
+      "lat": -32.033,
+      "long": 117.2
+    }
+  },
+  "JMPP": {
+    "code": "JMPP",
+    "state": "WA",
+    "location": "JAMES PRICE POINT",
+    "coordinate": {
+      "lat": -17.485,
+      "long": 122.143
+    }
+  },
+  "JADL": {
+    "code": "JADL",
+    "state": "WA",
+    "location": "JARRAHDALE",
+    "coordinate": {
+      "lat": -32.34,
+      "long": 116.075
+    }
+  },
+  "JCK": {
+    "code": "JCK",
+    "state": "NT",
+    "location": "JAY CREEK",
+    "coordinate": {
+      "lat": -23.787,
+      "long": 133.5
+    }
+  },
+  "JEA": {
+    "code": "JEA",
+    "state": "QLD",
+    "location": "JEANNIE RIVER",
+    "coordinate": {
+      "lat": -14.733,
+      "long": 144.867
+    }
+  },
+  "JES": {
+    "code": "JES",
+    "state": "NT",
+    "location": "JESSIE GAP",
+    "coordinate": {
+      "lat": -23.748,
+      "long": 134.018
+    }
+  },
+  "JIBN": {
+    "code": "JIBN",
+    "state": "NSW",
+    "location": "JIBBON PT",
+    "coordinate": {
+      "lat": -34.085,
+      "long": 151.17
+    }
+  },
+  "JIA": {
+    "code": "JIA",
+    "state": "NSW",
+    "location": "JINDERA",
+    "coordinate": {
+      "lat": -35.958,
+      "long": 146.888
+    }
+  },
+  "JDN": {
+    "code": "JDN",
+    "state": "QLD",
+    "location": "JONDARYAN",
+    "coordinate": {
+      "lat": -27.367,
+      "long": 151.588
+    }
+  },
+  "JGK": {
+    "code": "JGK",
+    "state": "QLD",
+    "location": "JUG CREEK",
+    "coordinate": {
+      "lat": -22,
+      "long": 144.7
+    }
+  },
+  "JPP": {
+    "code": "JPP",
+    "state": "QLD",
+    "location": "JUMPINPIN",
+    "coordinate": {
+      "lat": -27.733,
+      "long": 153.45
+    }
+  },
+  "JUNEE": {
+    "code": "JUNEE",
+    "state": "NSW",
+    "location": "JUNEE",
+    "coordinate": {
+      "lat": -34.867,
+      "long": 147.583
+    }
+  },
+  "JUP": {
+    "code": "JUP",
+    "state": "QLD",
+    "location": "JUPITERS CASINO",
+    "coordinate": {
+      "lat": -28.032,
+      "long": 153.43
+    }
+  },
+  "KKN": {
+    "code": "KKN",
+    "state": "QLD",
+    "location": "KAIMKILLENBUN",
+    "coordinate": {
+      "lat": -27.067,
+      "long": 151.433
+    }
+  },
+  "KAO": {
+    "code": "KAO",
+    "state": "VIC",
+    "location": "KALKALLO",
+    "coordinate": {
+      "lat": -37.537,
+      "long": 144.945
+    }
+  },
+  "KTS": {
+    "code": "KTS",
+    "state": "QLD",
+    "location": "KEATS ISLAND",
+    "coordinate": {
+      "lat": -9.683,
+      "long": 143.45
+    }
+  },
+  "KEP": {
+    "code": "KEP",
+    "state": "NSW",
+    "location": "KEEPIT DAM",
+    "coordinate": {
+      "lat": -30.88,
+      "long": 150.498
+    }
+  },
+  "KWE": {
+    "code": "KWE",
+    "state": "QLD",
+    "location": "KEERWEE",
+    "coordinate": {
+      "lat": -25.217,
+      "long": 151.35
+    }
+  },
+  "KALL": {
+    "code": "KALL",
+    "state": "QLD",
+    "location": "KENDALL",
+    "coordinate": {
+      "lat": -14.2,
+      "long": 141.6
+    }
+  },
+  "KSI": {
+    "code": "KSI",
+    "state": "QLD",
+    "location": "KESWICK ISLAND",
+    "coordinate": {
+      "lat": -20.917,
+      "long": 149.417
+    }
+  },
+  "KMA": {
+    "code": "KMA",
+    "state": "NSW",
+    "location": "KIAMA",
+    "coordinate": {
+      "lat": -34.667,
+      "long": 150.85
+    }
+  },
+  "KIAN": {
+    "code": "KIAN",
+    "state": "NSW",
+    "location": "KIANDRA",
+    "coordinate": {
+      "lat": -35.867,
+      "long": 148.5
+    }
+  },
+  "KDBF": {
+    "code": "KDBF",
+    "state": "WA",
+    "location": "KIDSON BLUFF",
+    "coordinate": {
+      "lat": -22.25,
+      "long": 125.033
+    }
+  },
+  "KIEWA": {
+    "code": "KIEWA",
+    "state": "VIC",
+    "location": "KIEWA",
+    "coordinate": {
+      "lat": -36.258,
+      "long": 147.008
+    }
+  },
+  "KLCY": {
+    "code": "KLCY",
+    "state": "QLD",
+    "location": "KILCOY TOWNSHIP",
+    "coordinate": {
+      "lat": -26.942,
+      "long": 152.563
+    }
+  },
+  "KKV": {
+    "code": "KKV",
+    "state": "QLD",
+    "location": "KILKIVAN",
+    "coordinate": {
+      "lat": -26.083,
+      "long": 152.247
+    }
+  },
+  "KIM": {
+    "code": "KIM",
+    "state": "VIC",
+    "location": "KILMORE",
+    "coordinate": {
+      "lat": -37.3,
+      "long": 144.955
+    }
+  },
+  "KMG": {
+    "code": "KMG",
+    "state": "VIC",
+    "location": "KILMORE GAP",
+    "coordinate": {
+      "lat": -37.3,
+      "long": 144.983
+    }
+  },
+  "KLTO": {
+    "code": "KLTO",
+    "state": "WA",
+    "location": "KILTO",
+    "coordinate": {
+      "lat": -17.692,
+      "long": 122.713
+    }
+  },
+  "KCAS": {
+    "code": "KCAS",
+    "state": "WA",
+    "location": "KING CASCADES",
+    "coordinate": {
+      "lat": -15.625,
+      "long": 125.3
+    }
+  },
+  "KRT": {
+    "code": "KRT",
+    "state": "QLD",
+    "location": "KING RANCH TULLY",
+    "coordinate": {
+      "lat": -18.083,
+      "long": 145.833
+    }
+  },
+  "KGLE": {
+    "code": "KGLE",
+    "state": "VIC",
+    "location": "KINGLAKE",
+    "coordinate": {
+      "lat": -37.522,
+      "long": 145.35
+    }
+  },
+  "KBCH": {
+    "code": "KBCH",
+    "state": "QLD",
+    "location": "KINGS BEACH",
+    "coordinate": {
+      "lat": -26.805,
+      "long": 153.14
+    }
+  },
+  "KCFF": {
+    "code": "KCFF",
+    "state": "NSW",
+    "location": "KINGSCLIFF",
+    "coordinate": {
+      "lat": -28.25,
+      "long": 153.572
+    }
+  },
+  "KGT": {
+    "code": "KGT",
+    "state": "QLD",
+    "location": "KINGSTHORPE",
+    "coordinate": {
+      "lat": -27.478,
+      "long": 151.813
+    }
+  },
+  "KINN": {
+    "code": "KINN",
+    "state": "VIC",
+    "location": "KINGSTON CENTRE",
+    "coordinate": {
+      "lat": -37.957,
+      "long": 145.077
+    }
+  },
+  "KIRA": {
+    "code": "KIRA",
+    "state": "NSW",
+    "location": "KIRRA",
+    "coordinate": {
+      "lat": -28.167,
+      "long": 153.523
+    }
+  },
+  "KSPT": {
+    "code": "KSPT",
+    "state": "QLD",
+    "location": "KISSING POINT",
+    "coordinate": {
+      "lat": -19.242,
+      "long": 146.805
+    }
+  },
+  "KNW": {
+    "code": "KNW",
+    "state": "VIC",
+    "location": "KONGWAK",
+    "coordinate": {
+      "lat": -38.517,
+      "long": 145.717
+    }
+  },
+  "KTG": {
+    "code": "KTG",
+    "state": "NT",
+    "location": "KOOLATONG RIVER",
+    "coordinate": {
+      "lat": -13.083,
+      "long": 135.65
+    }
+  },
+  "KBD": {
+    "code": "KBD",
+    "state": "QLD",
+    "location": "KOOMBOOLOOMBA DAM",
+    "coordinate": {
+      "lat": -17.833,
+      "long": 145.6
+    }
+  },
+  "KOOM": {
+    "code": "KOOM",
+    "state": "SA",
+    "location": "KOOMOOLOOBOOKA CAVE",
+    "coordinate": {
+      "lat": -31.483,
+      "long": 129.583
+    }
+  },
+  "KANC": {
+    "code": "KANC",
+    "state": "QLD",
+    "location": "KOORAN CROCODILE FARM",
+    "coordinate": {
+      "lat": -23.3,
+      "long": 150.733
+    }
+  },
+  "KOT": {
+    "code": "KOT",
+    "state": "NSW",
+    "location": "KOOTINGAL",
+    "coordinate": {
+      "lat": -31.05,
+      "long": 151.05
+    }
+  },
+  "KOPP": {
+    "code": "KOPP",
+    "state": "QLD",
+    "location": "KOPPEN PARK",
+    "coordinate": {
+      "lat": -16.932,
+      "long": 145.733
+    }
+  },
+  "KREE": {
+    "code": "KREE",
+    "state": "SA",
+    "location": "KOREELAH",
+    "coordinate": {
+      "lat": -35.917,
+      "long": 136.917
+    }
+  },
+  "KUN": {
+    "code": "KUN",
+    "state": "QLD",
+    "location": "KUNWARARA",
+    "coordinate": {
+      "lat": -22.917,
+      "long": 150.133
+    }
+  },
+  "KRN": {
+    "code": "KRN",
+    "state": "QLD",
+    "location": "KURANDA",
+    "coordinate": {
+      "lat": -16.817,
+      "long": 145.638
+    }
+  },
+  "KRMD": {
+    "code": "KRMD",
+    "state": "NSW",
+    "location": "KURMOND",
+    "coordinate": {
+      "lat": -33.55,
+      "long": 150.687
+    }
+  },
+  "KYP": {
+    "code": "KYP",
+    "state": "NSW",
+    "location": "KYEAMBA PARK",
+    "coordinate": {
+      "lat": -35.447,
+      "long": 147.617
+    }
+  },
+  "KYE": {
+    "code": "KYE",
+    "state": "NSW",
+    "location": "KYEAMBA TOWER",
+    "coordinate": {
+      "lat": -35.525,
+      "long": 147.592
+    }
+  },
+  "KTN": {
+    "code": "KTN",
+    "state": "VIC",
+    "location": "KYNETON",
+    "coordinate": {
+      "lat": -37.247,
+      "long": 144.458
+    }
+  },
+  "LDH": {
+    "code": "LDH",
+    "state": "NSW",
+    "location": "LADYSMITH",
+    "coordinate": {
+      "lat": -35.212,
+      "long": 147.517
+    }
+  },
+  "LDLY": {
+    "code": "LDLY",
+    "state": "QLD",
+    "location": "LAIDLEY",
+    "coordinate": {
+      "lat": -27.633,
+      "long": 152.383
+    }
+  },
+  "LKT": {
+    "code": "LKT",
+    "state": "NSW",
+    "location": "LAKE ALBERT",
+    "coordinate": {
+      "lat": -35.178,
+      "long": 147.363
+    }
+  },
+  "LKAD": {
+    "code": "LKAD",
+    "state": "NT",
+    "location": "LAKE AMADEUS",
+    "coordinate": {
+      "lat": -24.58,
+      "long": 130.462
+    }
+  },
+  "LBT": {
+    "code": "LBT",
+    "state": "NSW",
+    "location": "LAKE BATHURST",
+    "coordinate": {
+      "lat": -35.05,
+      "long": 149.683
+    }
+  },
+  "LKON": {
+    "code": "LKON",
+    "state": "QLD",
+    "location": "LAKE CLARENDON",
+    "coordinate": {
+      "lat": -27.492,
+      "long": 152.35
+    }
+  },
+  "LCR": {
+    "code": "LCR",
+    "state": "VIC",
+    "location": "LAKE CORANGAMITE",
+    "coordinate": {
+      "lat": -38.1,
+      "long": 143.517
+    }
+  },
+  "LCDI": {
+    "code": "LCDI",
+    "state": "QLD",
+    "location": "LAKE CURRIMUNDI",
+    "coordinate": {
+      "lat": -26.765,
+      "long": 153.137
+    }
+  },
+  "LAD": {
+    "code": "LAD",
+    "state": "NT",
+    "location": "LAKE DEAN",
+    "coordinate": {
+      "lat": -12.733,
+      "long": 131.017
+    }
+  },
+  "LDAP": {
+    "code": "LDAP",
+    "state": "WA",
+    "location": "LAKE DISAPPOINTMENT",
+    "coordinate": {
+      "lat": -23.5,
+      "long": 122.667
+    }
+  },
+  "LKEC": {
+    "code": "LKEC",
+    "state": "TAS",
+    "location": "LAKE ECHO",
+    "coordinate": {
+      "lat": -42.167,
+      "long": 146.633
+    }
+  },
+  "LEM": {
+    "code": "LEM",
+    "state": "QLD",
+    "location": "LAKE EPSOM",
+    "coordinate": {
+      "lat": -21.488,
+      "long": 148.833
+    }
+  },
+  "LEYN": {
+    "code": "LEYN",
+    "state": "SA",
+    "location": "LAKE EYRE NORTH",
+    "coordinate": {
+      "lat": -28.417,
+      "long": 137.3
+    }
+  },
+  "LFS": {
+    "code": "LFS",
+    "state": "NT",
+    "location": "LAKE FINNISS",
+    "coordinate": {
+      "lat": -12.38,
+      "long": 131.475
+    }
+  },
+  "LFRO": {
+    "code": "LFRO",
+    "state": "SA",
+    "location": "LAKE FROME",
+    "coordinate": {
+      "lat": -30.633,
+      "long": 139.867
+    }
+  },
+  "LGGN": {
+    "code": "LGGN",
+    "state": "NSW",
+    "location": "LAKE GEORGE NORTH",
+    "coordinate": {
+      "lat": -34.988,
+      "long": 149.392
+    }
+  },
+  "LGGS": {
+    "code": "LGGS",
+    "state": "NSW",
+    "location": "LAKE GEORGE SOUTH",
+    "coordinate": {
+      "lat": -35.203,
+      "long": 149.408
+    }
+  },
+  "LGEN": {
+    "code": "LGEN",
+    "state": "WA",
+    "location": "LAKE GILLEN",
+    "coordinate": {
+      "lat": -26.217,
+      "long": 124.6
+    }
+  },
+  "LGDA": {
+    "code": "LGDA",
+    "state": "ACT",
+    "location": "LAKE GININDERRA",
+    "coordinate": {
+      "lat": -35.233,
+      "long": 149.068
+    }
+  },
+  "LKH": {
+    "code": "LKH",
+    "state": "VIC",
+    "location": "LAKE HINDMARSH",
+    "coordinate": {
+      "lat": -36.117,
+      "long": 141.867
+    }
+  },
+  "LKIM": {
+    "code": "LKIM",
+    "state": "WA",
+    "location": "LAKE ILMA",
+    "coordinate": {
+      "lat": -29.25,
+      "long": 127.767
+    }
+  },
+  "LKG": {
+    "code": "LKG",
+    "state": "WA",
+    "location": "LAKE KING",
+    "coordinate": {
+      "lat": -33.083,
+      "long": 119.667
+    }
+  },
+  "LMC": {
+    "code": "LMC",
+    "state": "QLD",
+    "location": "LAKE MANCHESTER",
+    "coordinate": {
+      "lat": -27.483,
+      "long": 152.767
+    }
+  },
+  "LME": {
+    "code": "LME",
+    "state": "SA",
+    "location": "LAKE MAURICE",
+    "coordinate": {
+      "lat": -29.4,
+      "long": 130.95
+    }
+  },
+  "LMWL": {
+    "code": "LMWL",
+    "state": "WA",
+    "location": "LAKE MINIGWAL",
+    "coordinate": {
+      "lat": -29.583,
+      "long": 123.167
+    }
+  },
+  "LOOH": {
+    "code": "LOOH",
+    "state": "QLD",
+    "location": "LAKE MOOGERAH",
+    "coordinate": {
+      "lat": -28.033,
+      "long": 152.55
+    }
+  },
+  "LKNL": {
+    "code": "LKNL",
+    "state": "NT",
+    "location": "LAKE NEALE",
+    "coordinate": {
+      "lat": -24.247,
+      "long": 129.967
+    }
+  },
+  "LRID": {
+    "code": "LRID",
+    "state": "WA",
+    "location": "LAKE RAESIDE",
+    "coordinate": {
+      "lat": -29.55,
+      "long": 122.3
+    }
+  },
+  "LRAN": {
+    "code": "LRAN",
+    "state": "WA",
+    "location": "LAKE RASON",
+    "coordinate": {
+      "lat": -28.667,
+      "long": 124.283
+    }
+  },
+  "LSPR": {
+    "code": "LSPR",
+    "state": "NT",
+    "location": "LAKE SURPRISE",
+    "coordinate": {
+      "lat": -20.233,
+      "long": 131.8
+    }
+  },
+  "LTOM": {
+    "code": "LTOM",
+    "state": "WA",
+    "location": "LAKE THOMSON",
+    "coordinate": {
+      "lat": -32.152,
+      "long": 115.835
+    }
+  },
+  "LTL": {
+    "code": "LTL",
+    "state": "WA",
+    "location": "LAKE THROSSELL",
+    "coordinate": {
+      "lat": -27.633,
+      "long": 124.083
+    }
+  },
+  "LTRR": {
+    "code": "LTRR",
+    "state": "SA",
+    "location": "LAKE TORRENS",
+    "coordinate": {
+      "lat": -31.422,
+      "long": 138.087
+    }
+  },
+  "WITE": {
+    "code": "WITE",
+    "state": "NT",
+    "location": "LAKE WHITE",
+    "coordinate": {
+      "lat": -21.1,
+      "long": 129.05
+    }
+  },
+  "LYEO": {
+    "code": "LYEO",
+    "state": "WA",
+    "location": "LAKE YEO",
+    "coordinate": {
+      "lat": -28.052,
+      "long": 124.552
+    }
+  },
+  "LKEE": {
+    "code": "LKEE",
+    "state": "VIC",
+    "location": "LAKES ENTRANCE",
+    "coordinate": {
+      "lat": -37.867,
+      "long": 148
+    }
+  },
+  "LCD": {
+    "code": "LCD",
+    "state": "VIC",
+    "location": "LANCEFIELD",
+    "coordinate": {
+      "lat": -37.278,
+      "long": 144.728
+    }
+  },
+  "LANC": {
+    "code": "LANC",
+    "state": "WA",
+    "location": "LANCELIN TOWNSHIP",
+    "coordinate": {
+      "lat": -31.018,
+      "long": 115.328
+    }
+  },
+  "LGH": {
+    "code": "LGH",
+    "state": "QLD",
+    "location": "LANGHAM",
+    "coordinate": {
+      "lat": -22.2,
+      "long": 150.1
+    }
+  },
+  "LHCK": {
+    "code": "LHCK",
+    "state": "SA",
+    "location": "LANGHORNE CREEK",
+    "coordinate": {
+      "lat": -35.297,
+      "long": 139.045
+    }
+  },
+  "LSDW": {
+    "code": "LSDW",
+    "state": "WA",
+    "location": "LANSDOWNE",
+    "coordinate": {
+      "lat": -17.615,
+      "long": 126.743
+    }
+  },
+  "LUY": {
+    "code": "LUY",
+    "state": "VIC",
+    "location": "LATROBE UNIVERSITY",
+    "coordinate": {
+      "lat": -37.717,
+      "long": 145.05
+    }
+  },
+  "LAUD": {
+    "code": "LAUD",
+    "state": "TAS",
+    "location": "LAUDERDALE",
+    "coordinate": {
+      "lat": -42.9,
+      "long": 147.5
+    }
+  },
+  "LVAB": {
+    "code": "LVAB",
+    "state": "VIC",
+    "location": "LAVERTON",
+    "coordinate": {
+      "lat": -37.863,
+      "long": 144.745
+    }
+  },
+  "TON": {
+    "code": "TON",
+    "state": "VIC",
+    "location": "LAVERTON BOM TOWER",
+    "coordinate": {
+      "lat": -37.855,
+      "long": 144.755
+    }
+  },
+  "LWG": {
+    "code": "LWG",
+    "state": "NT",
+    "location": "LAWRENCE GORGE",
+    "coordinate": {
+      "lat": -24.017,
+      "long": 133.408
+    }
+  },
+  "LAOS": {
+    "code": "LAOS",
+    "state": "QLD",
+    "location": "LAYOAK ISLAND",
+    "coordinate": {
+      "lat": -9.85,
+      "long": 143.317
+    }
+  },
+  "LPT": {
+    "code": "LPT",
+    "state": "NT",
+    "location": "LEE PT",
+    "coordinate": {
+      "lat": -12.333,
+      "long": 130.9
+    }
+  },
+  "LPD": {
+    "code": "LPD",
+    "state": "VIC",
+    "location": "LEOPOLD",
+    "coordinate": {
+      "lat": -38.192,
+      "long": 144.467
+    }
+  },
+  "LIHR": {
+    "code": "LIHR",
+    "state": "NSW",
+    "location": "LIGHTHORSE INTERCHANGE M7\/M4",
+    "coordinate": {
+      "lat": -33.798,
+      "long": 150.853
+    }
+  },
+  "LIY": {
+    "code": "LIY",
+    "state": "TAS",
+    "location": "LILYDALE",
+    "coordinate": {
+      "lat": -41.25,
+      "long": 147.217
+    }
+  },
+  "LOWS": {
+    "code": "LOWS",
+    "state": "VIC",
+    "location": "LINDENOW SOUTH",
+    "coordinate": {
+      "lat": -37.828,
+      "long": 147.433
+    }
+  },
+  "LVE": {
+    "code": "LVE",
+    "state": "QLD",
+    "location": "LINVILLE",
+    "coordinate": {
+      "lat": -26.85,
+      "long": 152.267
+    }
+  },
+  "LMGE": {
+    "code": "LMGE",
+    "state": "QLD",
+    "location": "LITTLE MULGRAVE",
+    "coordinate": {
+      "lat": -17.138,
+      "long": 145.725
+    }
+  },
+  "LRM": {
+    "code": "LRM",
+    "state": "VIC",
+    "location": "LITTLE RIVER MOUTH",
+    "coordinate": {
+      "lat": -38.007,
+      "long": 144.583
+    }
+  },
+  "LBET": {
+    "code": "LBET",
+    "state": "SA",
+    "location": "LOBETHAL",
+    "coordinate": {
+      "lat": -34.9,
+      "long": 138.867
+    }
+  },
+  "LSR": {
+    "code": "LSR",
+    "state": "VIC",
+    "location": "LOCH SPORT",
+    "coordinate": {
+      "lat": -38.05,
+      "long": 147.583
+    }
+  },
+  "LOGI": {
+    "code": "LOGI",
+    "state": "VIC",
+    "location": "LOGIC CENTRE",
+    "coordinate": {
+      "lat": -36.077,
+      "long": 146.718
+    }
+  },
+  "LRF": {
+    "code": "LRF",
+    "state": "NSW",
+    "location": "LONG REEF",
+    "coordinate": {
+      "lat": -33.742,
+      "long": 151.322
+    }
+  },
+  "LFC": {
+    "code": "LFC",
+    "state": "QLD",
+    "location": "LONGFORD CREEK",
+    "coordinate": {
+      "lat": -20.208,
+      "long": 148.367
+    }
+  },
+  "LORN": {
+    "code": "LORN",
+    "state": "VIC",
+    "location": "LORNE TOWNSHIP",
+    "coordinate": {
+      "lat": -38.543,
+      "long": 143.97
+    }
+  },
+  "LHD": {
+    "code": "LHD",
+    "state": "TAS",
+    "location": "LOW HEAD",
+    "coordinate": {
+      "lat": -41.067,
+      "long": 146.8
+    }
+  },
+  "LWI": {
+    "code": "LWI",
+    "state": "QLD",
+    "location": "LOW ISLETS",
+    "coordinate": {
+      "lat": -16.383,
+      "long": 145.567
+    }
+  },
+  "LRP": {
+    "code": "LRP",
+    "state": "TAS",
+    "location": "LOW ROCKY PT",
+    "coordinate": {
+      "lat": -43,
+      "long": 145.5
+    }
+  },
+  "LWD": {
+    "code": "LWD",
+    "state": "QLD",
+    "location": "LOWOOD",
+    "coordinate": {
+      "lat": -27.467,
+      "long": 152.583
+    }
+  },
+  "LNDA": {
+    "code": "LNDA",
+    "state": "QLD",
+    "location": "LUCINDA",
+    "coordinate": {
+      "lat": -18.533,
+      "long": 146.333
+    }
+  },
+  "LYNR": {
+    "code": "LYNR",
+    "state": "QLD",
+    "location": "LYND RIVER",
+    "coordinate": {
+      "lat": -17.4,
+      "long": 143.75
+    }
+  },
+  "MACB": {
+    "code": "MACB",
+    "state": "QLD",
+    "location": "MACHANS BEACH",
+    "coordinate": {
+      "lat": -16.85,
+      "long": 145.75
+    }
+  },
+  "MZR": {
+    "code": "MZR",
+    "state": "QLD",
+    "location": "MACKENZIE RIVER",
+    "coordinate": {
+      "lat": -23.167,
+      "long": 149.5
+    }
+  },
+  "MKV": {
+    "code": "MKV",
+    "state": "NSW",
+    "location": "MACKSVILLE",
+    "coordinate": {
+      "lat": -30.708,
+      "long": 152.915
+    }
+  },
+  "MGEW": {
+    "code": "MGEW",
+    "state": "SA",
+    "location": "MAGILL ESTATE WINERY",
+    "coordinate": {
+      "lat": -34.92,
+      "long": 138.68
+    }
+  },
+  "MAS": {
+    "code": "MAS",
+    "state": "QLD",
+    "location": "MAGNESITE MINE",
+    "coordinate": {
+      "lat": -22.888,
+      "long": 150.183
+    }
+  },
+  "MADO": {
+    "code": "MADO",
+    "state": "NT",
+    "location": "MANDORAH",
+    "coordinate": {
+      "lat": -12.442,
+      "long": 130.762
+    }
+  },
+  "MDU": {
+    "code": "MDU",
+    "state": "WA",
+    "location": "MANDURAH",
+    "coordinate": {
+      "lat": -32.53,
+      "long": 115.722
+    }
+  },
+  "MGL": {
+    "code": "MGL",
+    "state": "TAS",
+    "location": "MANGALORE",
+    "coordinate": {
+      "lat": -42.658,
+      "long": 147.242
+    }
+  },
+  "MOP": {
+    "code": "MOP",
+    "state": "NSW",
+    "location": "MANGOPLAH",
+    "coordinate": {
+      "lat": -35.392,
+      "long": 147.242
+    }
+  },
+  "MAL": {
+    "code": "MAL",
+    "state": "NSW",
+    "location": "MANILLA",
+    "coordinate": {
+      "lat": -30.75,
+      "long": 150.723
+    }
+  },
+  "MANLY": {
+    "code": "MANLY",
+    "state": "NSW",
+    "location": "MANLY",
+    "coordinate": {
+      "lat": -33.798,
+      "long": 151.288
+    }
+  },
+  "MTD": {
+    "code": "MTD",
+    "state": "NT",
+    "location": "MANTON DAM",
+    "coordinate": {
+      "lat": -12.85,
+      "long": 131.125
+    }
+  },
+  "MBA": {
+    "code": "MBA",
+    "state": "QLD",
+    "location": "MAREEBA",
+    "coordinate": {
+      "lat": -17.068,
+      "long": 145.418
+    }
+  },
+  "MRL": {
+    "code": "MRL",
+    "state": "TAS",
+    "location": "MARIA ISLAND",
+    "coordinate": {
+      "lat": -42.633,
+      "long": 148.083
+    }
+  },
+  "MLIT": {
+    "code": "MLIT",
+    "state": "SA",
+    "location": "MARINO LIGHT HOUSE",
+    "coordinate": {
+      "lat": -35.055,
+      "long": 138.513
+    }
+  },
+  "MARQ": {
+    "code": "MARQ",
+    "state": "QLD",
+    "location": "MARINO'S QUARRY",
+    "coordinate": {
+      "lat": -16.92,
+      "long": 145.727
+    }
+  },
+  "MRBR": {
+    "code": "MRBR",
+    "state": "NSW",
+    "location": "MAROUBRA BEACH",
+    "coordinate": {
+      "lat": -33.95,
+      "long": 151.257
+    }
+  },
+  "MAR": {
+    "code": "MAR",
+    "state": "NSW",
+    "location": "MARRAR",
+    "coordinate": {
+      "lat": -34.825,
+      "long": 147.35
+    }
+  },
+  "MARR": {
+    "code": "MARR",
+    "state": "TAS",
+    "location": "MARRAWAH",
+    "coordinate": {
+      "lat": -40.91,
+      "long": 144.708
+    }
+  },
+  "MHT": {
+    "code": "MHT",
+    "state": "VIC",
+    "location": "MARTHA PT",
+    "coordinate": {
+      "lat": -38.317,
+      "long": 144.983
+    }
+  },
+  "MKN": {
+    "code": "MKN",
+    "state": "QLD",
+    "location": "MARY KATHLEEN",
+    "coordinate": {
+      "lat": -20.783,
+      "long": 139.983
+    }
+  },
+  "MVL": {
+    "code": "MVL",
+    "state": "VIC",
+    "location": "MARYSVILLE",
+    "coordinate": {
+      "lat": -37.517,
+      "long": 145.75
+    }
+  },
+  "MHD": {
+    "code": "MHD",
+    "state": "QLD",
+    "location": "MASTHEAD ISLAND",
+    "coordinate": {
+      "lat": -23.533,
+      "long": 151.733
+    }
+  },
+  "MRH": {
+    "code": "MRH",
+    "state": "QLD",
+    "location": "MAURICE HILL",
+    "coordinate": {
+      "lat": -23.933,
+      "long": 151.25
+    }
+  },
+  "MAYD": {
+    "code": "MAYD",
+    "state": "TAS",
+    "location": "MAYDENA",
+    "coordinate": {
+      "lat": -42.763,
+      "long": 146.597
+    }
+  },
+  "MYF": {
+    "code": "MYF",
+    "state": "NSW",
+    "location": "MAYFIELD",
+    "coordinate": {
+      "lat": -33.963,
+      "long": 150.625
+    }
+  },
+  "MAYL": {
+    "code": "MAYL",
+    "state": "WA",
+    "location": "MAYLANDS POLICE ACADEMY",
+    "coordinate": {
+      "lat": -31.947,
+      "long": 115.903
+    }
+  },
+  "MVAL": {
+    "code": "MVAL",
+    "state": "SA",
+    "location": "MCLAREN VALE",
+    "coordinate": {
+      "lat": -35.225,
+      "long": 138.547
+    }
+  },
+  "MCTY": {
+    "code": "MCTY",
+    "state": "VIC",
+    "location": "MELBOURNE CBD",
+    "coordinate": {
+      "lat": -37.808,
+      "long": 144.958
+    }
+  },
+  "MCG": {
+    "code": "MCG",
+    "state": "VIC",
+    "location": "MELBOURNE CRICKET GROUND",
+    "coordinate": {
+      "lat": -37.82,
+      "long": 144.983
+    }
+  },
+  "MELS": {
+    "code": "MELS",
+    "state": "VIC",
+    "location": "MELTON SOUTH",
+    "coordinate": {
+      "lat": -37.683,
+      "long": 144.567
+    }
+  },
+  "MEG": {
+    "code": "MEG",
+    "state": "NSW",
+    "location": "MENANGLE",
+    "coordinate": {
+      "lat": -34.125,
+      "long": 150.742
+    }
+  },
+  "MRI": {
+    "code": "MRI",
+    "state": "QLD",
+    "location": "MERION",
+    "coordinate": {
+      "lat": -22.867,
+      "long": 149.033
+    }
+  },
+  "MRJ": {
+    "code": "MRJ",
+    "state": "VIC",
+    "location": "MERRIJIG",
+    "coordinate": {
+      "lat": -37.117,
+      "long": 146.25
+    }
+  },
+  "MIAR": {
+    "code": "MIAR",
+    "state": "WA",
+    "location": "MIAREE POOL BRIDGE",
+    "coordinate": {
+      "lat": -20.85,
+      "long": 116.61
+    }
+  },
+  "MHGO": {
+    "code": "MHGO",
+    "state": "NSW",
+    "location": "MICHELAGO",
+    "coordinate": {
+      "lat": -35.717,
+      "long": 149.167
+    }
+  },
+  "MII": {
+    "code": "MII",
+    "state": "QLD",
+    "location": "MIDGE ISLAND",
+    "coordinate": {
+      "lat": -20.692,
+      "long": 148.762
+    }
+  },
+  "MCRO": {
+    "code": "MCRO",
+    "state": "NSW",
+    "location": "MILLS CROSS",
+    "coordinate": {
+      "lat": -35.372,
+      "long": 149.425
+    }
+  },
+  "MSTM": {
+    "code": "MSTM",
+    "state": "WA",
+    "location": "MILLSTREAM STN",
+    "coordinate": {
+      "lat": -21.617,
+      "long": 117.067
+    }
+  },
+  "MPO": {
+    "code": "MPO",
+    "state": "QLD",
+    "location": "MILPEROO",
+    "coordinate": {
+      "lat": -23.183,
+      "long": 141.25
+    }
+  },
+  "MIJ": {
+    "code": "MIJ",
+    "state": "NT",
+    "location": "MINJILANG",
+    "coordinate": {
+      "lat": -11.148,
+      "long": 132.58
+    }
+  },
+  "MISB": {
+    "code": "MISB",
+    "state": "QLD",
+    "location": "MISSION BEACH",
+    "coordinate": {
+      "lat": -17.87,
+      "long": 146.107
+    }
+  },
+  "MSC": {
+    "code": "MSC",
+    "state": "QLD",
+    "location": "MISSION BEACH",
+    "coordinate": {
+      "lat": -17.883,
+      "long": 146.1
+    }
+  },
+  "MITI": {
+    "code": "MITI",
+    "state": "VIC",
+    "location": "MITIAMO",
+    "coordinate": {
+      "lat": -36.212,
+      "long": 144.23
+    }
+  },
+  "MFBH": {
+    "code": "MFBH",
+    "state": "QLD",
+    "location": "MOFFAT BEACH",
+    "coordinate": {
+      "lat": -26.788,
+      "long": 153.142
+    }
+  },
+  "MFH": {
+    "code": "MFH",
+    "state": "QLD",
+    "location": "MOFFAT HEAD",
+    "coordinate": {
+      "lat": -26.79,
+      "long": 153.14
+    }
+  },
+  "MBH": {
+    "code": "MBH",
+    "state": "QLD",
+    "location": "MOOLOOLABA",
+    "coordinate": {
+      "lat": -26.7,
+      "long": 153.133
+    }
+  },
+  "MVC": {
+    "code": "MVC",
+    "state": "VIC",
+    "location": "MOONEE VALLEY RACECOURSE",
+    "coordinate": {
+      "lat": -37.767,
+      "long": 144.933
+    }
+  },
+  "MIE": {
+    "code": "MIE",
+    "state": "QLD",
+    "location": "MOONIE",
+    "coordinate": {
+      "lat": -27.717,
+      "long": 150.367
+    }
+  },
+  "MPSC": {
+    "code": "MPSC",
+    "state": "NSW",
+    "location": "MOORE PARK SUPA CENTRE",
+    "coordinate": {
+      "lat": -33.903,
+      "long": 151.215
+    }
+  },
+  "MORN": {
+    "code": "MORN",
+    "state": "TAS",
+    "location": "MORNINGTON",
+    "coordinate": {
+      "lat": -42.857,
+      "long": 147.412
+    }
+  },
+  "MSV": {
+    "code": "MSV",
+    "state": "NSW",
+    "location": "MOSS VALE",
+    "coordinate": {
+      "lat": -34.525,
+      "long": 150.422
+    }
+  },
+  "MMA": {
+    "code": "MMA",
+    "state": "QLD",
+    "location": "MOSSMAN",
+    "coordinate": {
+      "lat": -16.458,
+      "long": 145.372
+    }
+  },
+  "BAK": {
+    "code": "BAK",
+    "state": "SA",
+    "location": "MOUNT BARKER",
+    "coordinate": {
+      "lat": -35.078,
+      "long": 138.867
+    }
+  },
+  "MBST": {
+    "code": "MBST",
+    "state": "NT",
+    "location": "MOUNT BENSTEAD",
+    "coordinate": {
+      "lat": -23.567,
+      "long": 134.275
+    }
+  },
+  "MBC": {
+    "code": "MBC",
+    "state": "QLD",
+    "location": "MOUNT BLACK",
+    "coordinate": {
+      "lat": -19.283,
+      "long": 146.558
+    }
+  },
+  "MBK": {
+    "code": "MBK",
+    "state": "QLD",
+    "location": "MOUNT BLACKWOOD",
+    "coordinate": {
+      "lat": -21.033,
+      "long": 148.942
+    }
+  },
+  "MTBL": {
+    "code": "MTBL",
+    "state": "QLD",
+    "location": "MOUNT BOHLE",
+    "coordinate": {
+      "lat": -19.267,
+      "long": 146.688
+    }
+  },
+  "MBR": {
+    "code": "MBR",
+    "state": "SA",
+    "location": "MOUNT BOLD RESV",
+    "coordinate": {
+      "lat": -35.122,
+      "long": 138.7
+    }
+  },
+  "MTB": {
+    "code": "MTB",
+    "state": "NSW",
+    "location": "MOUNT BOYCE",
+    "coordinate": {
+      "lat": -33.618,
+      "long": 150.273
+    }
+  },
+  "MCAR": {
+    "code": "MCAR",
+    "state": "QLD",
+    "location": "MOUNT CARNARVON",
+    "coordinate": {
+      "lat": -24.917,
+      "long": 148.383
+    }
+  },
+  "MCHR": {
+    "code": "MCHR",
+    "state": "SA",
+    "location": "MOUNT CHRISTIE",
+    "coordinate": {
+      "lat": -30.55,
+      "long": 133.217
+    }
+  },
+  "MCOM": {
+    "code": "MCOM",
+    "state": "SA",
+    "location": "MOUNT COMPASS",
+    "coordinate": {
+      "lat": -35.35,
+      "long": 138.617
+    }
+  },
+  "MTK": {
+    "code": "MTK",
+    "state": "WA",
+    "location": "MOUNT COOKE",
+    "coordinate": {
+      "lat": -32.417,
+      "long": 116.307
+    }
+  },
+  "MTC": {
+    "code": "MTC",
+    "state": "QLD",
+    "location": "MOUNT COOLUM",
+    "coordinate": {
+      "lat": -26.562,
+      "long": 153.083
+    }
+  },
+  "MTBA": {
+    "code": "MTBA",
+    "state": "NSW",
+    "location": "MOUNT CORAMBA",
+    "coordinate": {
+      "lat": -30.222,
+      "long": 153.05
+    }
+  },
+  "TCR": {
+    "code": "TCR",
+    "state": "ACT",
+    "location": "MOUNT COREE",
+    "coordinate": {
+      "lat": -35.308,
+      "long": 148.81
+    }
+  },
+  "MCOO": {
+    "code": "MCOO",
+    "state": "QLD",
+    "location": "MOUNT COTTON",
+    "coordinate": {
+      "lat": -27.622,
+      "long": 153.217
+    }
+  },
+  "MCOT": {
+    "code": "MCOT",
+    "state": "VIC",
+    "location": "MOUNT COTTRELL",
+    "coordinate": {
+      "lat": -37.763,
+      "long": 144.62
+    }
+  },
+  "MUE": {
+    "code": "MUE",
+    "state": "WA",
+    "location": "MOUNT DALE",
+    "coordinate": {
+      "lat": -32.127,
+      "long": 116.297
+    }
+  },
+  "MDY": {
+    "code": "MDY",
+    "state": "WA",
+    "location": "MOUNT DAY",
+    "coordinate": {
+      "lat": -32.133,
+      "long": 120.5
+    }
+  },
+  "MELE": {
+    "code": "MELE",
+    "state": "QLD",
+    "location": "MOUNT ELEPHANT",
+    "coordinate": {
+      "lat": -16.45,
+      "long": 144.933
+    }
+  },
+  "MEV": {
+    "code": "MEV",
+    "state": "WA",
+    "location": "MOUNT EVERARD",
+    "coordinate": {
+      "lat": -25.183,
+      "long": 125.067
+    }
+  },
+  "MFN": {
+    "code": "MFN",
+    "state": "QLD",
+    "location": "MOUNT FUNNEL",
+    "coordinate": {
+      "lat": -21.625,
+      "long": 149.387
+    }
+  },
+  "MGLO": {
+    "code": "MGLO",
+    "state": "QLD",
+    "location": "MOUNT GLORIOUS",
+    "coordinate": {
+      "lat": -27.333,
+      "long": 152.767
+    }
+  },
+  "MVT": {
+    "code": "MVT",
+    "state": "QLD",
+    "location": "MOUNT GRAVATT",
+    "coordinate": {
+      "lat": -27.55,
+      "long": 153.075
+    }
+  },
+  "MJK": {
+    "code": "MJK",
+    "state": "WA",
+    "location": "MOUNT JACKSON HS",
+    "coordinate": {
+      "lat": -30.2,
+      "long": 119.1
+    }
+  },
+  "MTKI": {
+    "code": "MTKI",
+    "state": "NT",
+    "location": "MOUNT KINGSTON",
+    "coordinate": {
+      "lat": -25.433,
+      "long": 133.633
+    }
+  },
+  "MLI": {
+    "code": "MLI",
+    "state": "QLD",
+    "location": "MOUNT LION",
+    "coordinate": {
+      "lat": -23.392,
+      "long": 150.322
+    }
+  },
+  "MLUY": {
+    "code": "MLUY",
+    "state": "NT",
+    "location": "MOUNT LUCY",
+    "coordinate": {
+      "lat": -22.6,
+      "long": 133.533
+    }
+  },
+  "MCD": {
+    "code": "MCD",
+    "state": "VIC",
+    "location": "MOUNT MACEDON",
+    "coordinate": {
+      "lat": -37.375,
+      "long": 144.577
+    }
+  },
+  "MTMA": {
+    "code": "MTMA",
+    "state": "QLD",
+    "location": "MOUNT MARIA",
+    "coordinate": {
+      "lat": -27.467,
+      "long": 151.483
+    }
+  },
+  "MMY": {
+    "code": "MMY",
+    "state": "QLD",
+    "location": "MOUNT MOLLOY",
+    "coordinate": {
+      "lat": -16.678,
+      "long": 145.33
+    }
+  },
+  "MOB": {
+    "code": "MOB",
+    "state": "NSW",
+    "location": "MOUNT MOOMBIL",
+    "coordinate": {
+      "lat": -30.315,
+      "long": 152.852
+    }
+  },
+  "MGN": {
+    "code": "MGN",
+    "state": "QLD",
+    "location": "MOUNT MORGAN",
+    "coordinate": {
+      "lat": -23.645,
+      "long": 150.392
+    }
+  },
+  "MTM": {
+    "code": "MTM",
+    "state": "ACT",
+    "location": "MOUNT MUGGA",
+    "coordinate": {
+      "lat": -35.355,
+      "long": 149.13
+    }
+  },
+  "MIY": {
+    "code": "MIY",
+    "state": "QLD",
+    "location": "MOUNT NINDERRY",
+    "coordinate": {
+      "lat": -26.555,
+      "long": 152.992
+    }
+  },
+  "OOR": {
+    "code": "OOR",
+    "state": "NT",
+    "location": "MOUNT OORAMINNA",
+    "coordinate": {
+      "lat": -24.092,
+      "long": 134.003
+    }
+  },
+  "MPG": {
+    "code": "MPG",
+    "state": "NSW",
+    "location": "MOUNT PALERANG",
+    "coordinate": {
+      "lat": -35.433,
+      "long": 149.6
+    }
+  },
+  "PIPR": {
+    "code": "PIPR",
+    "state": "VIC",
+    "location": "MOUNT PIPER",
+    "coordinate": {
+      "lat": -37.205,
+      "long": 145.003
+    }
+  },
+  "MPT": {
+    "code": "MPT",
+    "state": "SA",
+    "location": "MOUNT PLEASANT",
+    "coordinate": {
+      "lat": -34.775,
+      "long": 139.05
+    }
+  },
+  "SOV": {
+    "code": "SOV",
+    "state": "NSW",
+    "location": "MOUNT SOMERVILLE RADAR",
+    "coordinate": {
+      "lat": -28.215,
+      "long": 153.427
+    }
+  },
+  "MTEW": {
+    "code": "MTEW",
+    "state": "QLD",
+    "location": "MOUNT STEWAN",
+    "coordinate": {
+      "lat": -20.367,
+      "long": 144.05
+    }
+  },
+  "MUM": {
+    "code": "MUM",
+    "state": "ACT",
+    "location": "MOUNT STROMLO",
+    "coordinate": {
+      "lat": -35.317,
+      "long": 149.008
+    }
+  },
+  "MUSD": {
+    "code": "MUSD",
+    "state": "WA",
+    "location": "MOUNT SYDNEY",
+    "coordinate": {
+      "lat": -21.4,
+      "long": 121.2
+    }
+  },
+  "MTLR": {
+    "code": "MTLR",
+    "state": "ACT",
+    "location": "MOUNT TAYLOR",
+    "coordinate": {
+      "lat": -35.373,
+      "long": 149.077
+    }
+  },
+  "MTY": {
+    "code": "MTY",
+    "state": "QLD",
+    "location": "MOUNT TYSON",
+    "coordinate": {
+      "lat": -27.583,
+      "long": 151.567
+    }
+  },
+  "MUO": {
+    "code": "MUO",
+    "state": "NT",
+    "location": "MOUNT UNDOOLYA",
+    "coordinate": {
+      "lat": -23.738,
+      "long": 134.103
+    }
+  },
+  "MVO": {
+    "code": "MVO",
+    "state": "WA",
+    "location": "MOUNT VERNON HS",
+    "coordinate": {
+      "lat": -24.233,
+      "long": 118.233
+    }
+  },
+  "MVI": {
+    "code": "MVI",
+    "state": "NSW",
+    "location": "MOUNT VICTORIA",
+    "coordinate": {
+      "lat": -33.583,
+      "long": 150.25
+    }
+  },
+  "MTWK": {
+    "code": "MTWK",
+    "state": "QLD",
+    "location": "MOUNT WALKER",
+    "coordinate": {
+      "lat": -27.788,
+      "long": 152.557
+    }
+  },
+  "MTWG": {
+    "code": "MTWG",
+    "state": "NSW",
+    "location": "MOUNT WARNING",
+    "coordinate": {
+      "lat": -28.4,
+      "long": 153.267
+    }
+  },
+  "MTWN": {
+    "code": "MTWN",
+    "state": "VIC",
+    "location": "MOUNT WELLINGTON",
+    "coordinate": {
+      "lat": -37.56,
+      "long": 146.81
+    }
+  },
+  "MWH": {
+    "code": "MWH",
+    "state": "QLD",
+    "location": "MOUNT WHEELER",
+    "coordinate": {
+      "lat": -23.227,
+      "long": 150.683
+    }
+  },
+  "MWK": {
+    "code": "MWK",
+    "state": "WA",
+    "location": "MOUNT WILKIE",
+    "coordinate": {
+      "lat": -20.952,
+      "long": 116.418
+    }
+  },
+  "MBKR": {
+    "code": "MBKR",
+    "state": "QLD",
+    "location": "MOUTH OF THE BLACK RIVER",
+    "coordinate": {
+      "lat": -19.18,
+      "long": 146.653
+    }
+  },
+  "MBHR": {
+    "code": "MBHR",
+    "state": "QLD",
+    "location": "MOUTH OF THE BOHLE RIVER",
+    "coordinate": {
+      "lat": -19.197,
+      "long": 146.702
+    }
+  },
+  "MMT": {
+    "code": "MMT",
+    "state": "QLD",
+    "location": "MT MARGARET",
+    "coordinate": {
+      "lat": -19.35,
+      "long": 146.602
+    }
+  },
+  "MUDI": {
+    "code": "MUDI",
+    "state": "QLD",
+    "location": "MUD ISLAND",
+    "coordinate": {
+      "lat": -27.333,
+      "long": 153.25
+    }
+  },
+  "MEER": {
+    "code": "MEER",
+    "state": "QLD",
+    "location": "MUDGEERABA",
+    "coordinate": {
+      "lat": -28.083,
+      "long": 153.367
+    }
+  },
+  "MUP": {
+    "code": "MUP",
+    "state": "WA",
+    "location": "MULLALOO PT",
+    "coordinate": {
+      "lat": -31.808,
+      "long": 115.725
+    }
+  },
+  "LLN": {
+    "code": "LLN",
+    "state": "QLD",
+    "location": "MULLEN",
+    "coordinate": {
+      "lat": -25.037,
+      "long": 153
+    }
+  },
+  "MBBY": {
+    "code": "MBBY",
+    "state": "NSW",
+    "location": "MULLUMBIMBY",
+    "coordinate": {
+      "lat": -28.55,
+      "long": 153.5
+    }
+  },
+  "MWR": {
+    "code": "MWR",
+    "state": "WA",
+    "location": "MUNDARING WEIR",
+    "coordinate": {
+      "lat": -31.955,
+      "long": 116.158
+    }
+  },
+  "MAA": {
+    "code": "MAA",
+    "state": "QLD",
+    "location": "MUNGALLALA",
+    "coordinate": {
+      "lat": -26.45,
+      "long": 147.55
+    }
+  },
+  "MUNM": {
+    "code": "MUNM",
+    "state": "QLD",
+    "location": "MUNIGANEEN MT",
+    "coordinate": {
+      "lat": -27.408,
+      "long": 151.875
+    }
+  },
+  "MHY": {
+    "code": "MHY",
+    "state": "QLD",
+    "location": "MURPHY'S CREEK",
+    "coordinate": {
+      "lat": -27.463,
+      "long": 152.055
+    }
+  },
+  "MBD": {
+    "code": "MBD",
+    "state": "SA",
+    "location": "MURRAY BRIDGE",
+    "coordinate": {
+      "lat": -35.15,
+      "long": 139.31
+    }
+  },
+  "MYW": {
+    "code": "MYW",
+    "state": "QLD",
+    "location": "MURRAY DOWNS",
+    "coordinate": {
+      "lat": -25.033,
+      "long": 139.2
+    }
+  },
+  "MMM": {
+    "code": "MMM",
+    "state": "NSW",
+    "location": "MURRUMBATEMAN",
+    "coordinate": {
+      "lat": -34.972,
+      "long": 149.025
+    }
+  },
+  "MUI": {
+    "code": "MUI",
+    "state": "NSW",
+    "location": "MURRURUNDI",
+    "coordinate": {
+      "lat": -31.767,
+      "long": 150.833
+    }
+  },
+  "MUR": {
+    "code": "MUR",
+    "state": "NSW",
+    "location": "MURWILLUMBAH",
+    "coordinate": {
+      "lat": -28.325,
+      "long": 153.397
+    }
+  },
+  "MUEE": {
+    "code": "MUEE",
+    "state": "QLD",
+    "location": "MUTARNEE",
+    "coordinate": {
+      "lat": -18.95,
+      "long": 146.3
+    }
+  },
+  "MRTL": {
+    "code": "MRTL",
+    "state": "QLD",
+    "location": "MYRTLE",
+    "coordinate": {
+      "lat": -19.7,
+      "long": 146.533
+    }
+  },
+  "NMB": {
+    "code": "NMB",
+    "state": "QLD",
+    "location": "NAMBOUR",
+    "coordinate": {
+      "lat": -26.628,
+      "long": 152.958
+    }
+  },
+  "NHS": {
+    "code": "NHS",
+    "state": "NSW",
+    "location": "NAMBUCCA HEADS",
+    "coordinate": {
+      "lat": -30.645,
+      "long": 153.008
+    }
+  },
+  "NAA": {
+    "code": "NAA",
+    "state": "QLD",
+    "location": "NARA INLET",
+    "coordinate": {
+      "lat": -20.15,
+      "long": 148.9
+    }
+  },
+  "NAMA": {
+    "code": "NAMA",
+    "state": "NSW",
+    "location": "NAROOMA",
+    "coordinate": {
+      "lat": -36.2,
+      "long": 150.133
+    }
+  },
+  "NRW": {
+    "code": "NRW",
+    "state": "VIC",
+    "location": "NARRE WARREN",
+    "coordinate": {
+      "lat": -38.017,
+      "long": 145.3
+    }
+  },
+  "NOOG": {
+    "code": "NOOG",
+    "state": "QLD",
+    "location": "NARROOGAL",
+    "coordinate": {
+      "lat": -10.25,
+      "long": 142.5
+    }
+  },
+  "NKBO": {
+    "code": "NKBO",
+    "state": "NSW",
+    "location": "NECKARBOO",
+    "coordinate": {
+      "lat": -32.067,
+      "long": 144.617
+    }
+  },
+  "NEM": {
+    "code": "NEM",
+    "state": "NSW",
+    "location": "NEMINGHA",
+    "coordinate": {
+      "lat": -31.125,
+      "long": 150.992
+    }
+  },
+  "NPBR": {
+    "code": "NPBR",
+    "state": "NSW",
+    "location": "NEPEAN BRIDGE",
+    "coordinate": {
+      "lat": -33.763,
+      "long": 150.66
+    }
+  },
+  "NEN": {
+    "code": "NEN",
+    "state": "QLD",
+    "location": "NERANG",
+    "coordinate": {
+      "lat": -27.988,
+      "long": 153.338
+    }
+  },
+  "NGI": {
+    "code": "NGI",
+    "state": "QLD",
+    "location": "NGULUPI",
+    "coordinate": {
+      "lat": -10.243,
+      "long": 142.41
+    }
+  },
+  "NTT": {
+    "code": "NTT",
+    "state": "NSW",
+    "location": "NIMBIN TV TOWERS",
+    "coordinate": {
+      "lat": -28.542,
+      "long": 153.292
+    }
+  },
+  "NIM": {
+    "code": "NIM",
+    "state": "QLD",
+    "location": "NIMROD PASSAGE",
+    "coordinate": {
+      "lat": -12.1,
+      "long": 143.783
+    }
+  },
+  "NDI": {
+    "code": "NDI",
+    "state": "QLD",
+    "location": "NINDIGULLY",
+    "coordinate": {
+      "lat": -28.35,
+      "long": 148.817
+    }
+  },
+  "NARL": {
+    "code": "NARL",
+    "state": "SA",
+    "location": "NOARLUNGA",
+    "coordinate": {
+      "lat": -35.142,
+      "long": 138.488
+    }
+  },
+  "NBB": {
+    "code": "NBB",
+    "state": "NSW",
+    "location": "NOBBYS HEAD",
+    "coordinate": {
+      "lat": -32.915,
+      "long": 151.79
+    }
+  },
+  "NDY": {
+    "code": "NDY",
+    "state": "QLD",
+    "location": "NODDY REEF",
+    "coordinate": {
+      "lat": -13.733,
+      "long": 143.75
+    }
+  },
+  "NOME": {
+    "code": "NOME",
+    "state": "QLD",
+    "location": "NOME",
+    "coordinate": {
+      "lat": -19.377,
+      "long": 146.92
+    }
+  },
+  "NNDO": {
+    "code": "NNDO",
+    "state": "QLD",
+    "location": "NOONDOO",
+    "coordinate": {
+      "lat": -28.617,
+      "long": 148.433
+    }
+  },
+  "NOSA": {
+    "code": "NOSA",
+    "state": "QLD",
+    "location": "NOOSA HEADS",
+    "coordinate": {
+      "lat": -26.375,
+      "long": 153.117
+    }
+  },
+  "NEQ": {
+    "code": "NEQ",
+    "state": "VIC",
+    "location": "NORTH EAST QUARRY",
+    "coordinate": {
+      "lat": -37.942,
+      "long": 144.583
+    }
+  },
+  "NOHD": {
+    "code": "NOHD",
+    "state": "NSW",
+    "location": "NORTH HEAD",
+    "coordinate": {
+      "lat": -33.822,
+      "long": 151.292
+    }
+  },
+  "NORT": {
+    "code": "NORT",
+    "state": "WA",
+    "location": "NORTH LAKE",
+    "coordinate": {
+      "lat": -32.077,
+      "long": 115.823
+    }
+  },
+  "NSTA": {
+    "code": "NSTA",
+    "state": "NSW",
+    "location": "NORTH STAR",
+    "coordinate": {
+      "lat": -28.917,
+      "long": 150.417
+    }
+  },
+  "NBRR": {
+    "code": "NBRR",
+    "state": "QLD",
+    "location": "NORTHERN TIP BERSERKERS",
+    "coordinate": {
+      "lat": -23.278,
+      "long": 150.588
+    }
+  },
+  "NRWN": {
+    "code": "NRWN",
+    "state": "QLD",
+    "location": "NORWIN",
+    "coordinate": {
+      "lat": -27.558,
+      "long": 151.38
+    }
+  },
+  "NUDG": {
+    "code": "NUDG",
+    "state": "QLD",
+    "location": "NUDGEE TIP",
+    "coordinate": {
+      "lat": -27.358,
+      "long": 153.092
+    }
+  },
+  "NUA": {
+    "code": "NUA",
+    "state": "TAS",
+    "location": "NUNAMARA",
+    "coordinate": {
+      "lat": -41.392,
+      "long": 147.3
+    }
+  },
+  "NUN": {
+    "code": "NUN",
+    "state": "NSW",
+    "location": "NUNDLE",
+    "coordinate": {
+      "lat": -31.467,
+      "long": 151.125
+    }
+  },
+  "NUPA": {
+    "code": "NUPA",
+    "state": "SA",
+    "location": "NURIOOTPA",
+    "coordinate": {
+      "lat": -34.483,
+      "long": 139
+    }
+  },
+  "NCHU": {
+    "code": "NCHU",
+    "state": "QLD",
+    "location": "NYCHUM",
+    "coordinate": {
+      "lat": -16.843,
+      "long": 144.462
+    }
+  },
+  "OAT": {
+    "code": "OAT",
+    "state": "TAS",
+    "location": "OATLANDS",
+    "coordinate": {
+      "lat": -42.3,
+      "long": 147.367
+    }
+  },
+  "OBC": {
+    "code": "OBC",
+    "state": "WA",
+    "location": "OBSERVATION CITY",
+    "coordinate": {
+      "lat": -31.895,
+      "long": 115.755
+    }
+  },
+  "OBSH": {
+    "code": "OBSH",
+    "state": "SA",
+    "location": "OBSERVATORY HILL",
+    "coordinate": {
+      "lat": -28.967,
+      "long": 132
+    }
+  },
+  "OBY": {
+    "code": "OBY",
+    "state": "QLD",
+    "location": "OLD BOMBANDY",
+    "coordinate": {
+      "lat": -22.433,
+      "long": 148.633
+    }
+  },
+  "OLCO": {
+    "code": "OLCO",
+    "state": "QLD",
+    "location": "OLD CORK",
+    "coordinate": {
+      "lat": -22.933,
+      "long": 141.867
+    }
+  },
+  "ONPK": {
+    "code": "ONPK",
+    "state": "NSW",
+    "location": "ORAN PARK",
+    "coordinate": {
+      "lat": -34.008,
+      "long": 150.742
+    }
+  },
+  "ORKS": {
+    "code": "ORKS",
+    "state": "QLD",
+    "location": "ORCHARD ROCKS",
+    "coordinate": {
+      "lat": -19.11,
+      "long": 146.882
+    }
+  },
+  "ORF": {
+    "code": "ORF",
+    "state": "QLD",
+    "location": "ORFORD NESS",
+    "coordinate": {
+      "lat": -11.3,
+      "long": 142.817
+    }
+  },
+  "OHB": {
+    "code": "OHB",
+    "state": "SA",
+    "location": "OUTER HARBOR",
+    "coordinate": {
+      "lat": -34.775,
+      "long": 138.483
+    }
+  },
+  "OVL": {
+    "code": "OVL",
+    "state": "WA",
+    "location": "OVERLANDER",
+    "coordinate": {
+      "lat": -26.4,
+      "long": 114.467
+    }
+  },
+  "OEN": {
+    "code": "OEN",
+    "state": "SA",
+    "location": "OWEN",
+    "coordinate": {
+      "lat": -34.27,
+      "long": 138.542
+    }
+  },
+  "OWS": {
+    "code": "OWS",
+    "state": "NT",
+    "location": "OWEN SPRINGS",
+    "coordinate": {
+      "lat": -23.875,
+      "long": 133.472
+    }
+  },
+  "OFD": {
+    "code": "OFD",
+    "state": "QLD",
+    "location": "OXENFORD",
+    "coordinate": {
+      "lat": -27.883,
+      "long": 153.317
+    }
+  },
+  "PCVE": {
+    "code": "PCVE",
+    "state": "QLD",
+    "location": "PALM COVE",
+    "coordinate": {
+      "lat": -16.75,
+      "long": 145.667
+    }
+  },
+  "PFRM": {
+    "code": "PFRM",
+    "state": "QLD",
+    "location": "PALM FARM",
+    "coordinate": {
+      "lat": -17.043,
+      "long": 145.762
+    }
+  },
+  "PLW": {
+    "code": "PLW",
+    "state": "QLD",
+    "location": "PALM MEADOWS",
+    "coordinate": {
+      "lat": -28.033,
+      "long": 152.408
+    }
+  },
+  "PLU": {
+    "code": "PLU",
+    "state": "QLD",
+    "location": "PALUMA DAM",
+    "coordinate": {
+      "lat": -18.955,
+      "long": 146.145
+    }
+  },
+  "SFG": {
+    "code": "SFG",
+    "state": "QLD",
+    "location": "PARADISE GARDENS",
+    "coordinate": {
+      "lat": -28.018,
+      "long": 153.375
+    }
+  },
+  "PKR": {
+    "code": "PKR",
+    "state": "QLD",
+    "location": "PARK RIDGE WATER TOWER",
+    "coordinate": {
+      "lat": -27.705,
+      "long": 153.038
+    }
+  },
+  "PRKH": {
+    "code": "PRKH",
+    "state": "QLD",
+    "location": "PARKHURST",
+    "coordinate": {
+      "lat": -23.303,
+      "long": 150.513
+    }
+  },
+  "PRT": {
+    "code": "PRT",
+    "state": "NSW",
+    "location": "PARRAMATTA",
+    "coordinate": {
+      "lat": -33.817,
+      "long": 151.005
+    }
+  },
+  "PAA": {
+    "code": "PAA",
+    "state": "NSW",
+    "location": "PATONGA",
+    "coordinate": {
+      "lat": -33.552,
+      "long": 151.263
+    }
+  },
+  "PECO": {
+    "code": "PECO",
+    "state": "QLD",
+    "location": "PEACOCK",
+    "coordinate": {
+      "lat": -18.683,
+      "long": 145.983
+    }
+  },
+  "PDNE": {
+    "code": "PDNE",
+    "state": "QLD",
+    "location": "PEAK DOWNS MINE",
+    "coordinate": {
+      "lat": -22.25,
+      "long": 148.183
+    }
+  },
+  "PEAR": {
+    "code": "PEAR",
+    "state": "SA",
+    "location": "PEARSON ISLES",
+    "coordinate": {
+      "lat": -33.95,
+      "long": 134.267
+    }
+  },
+  "PCCK": {
+    "code": "PCCK",
+    "state": "QLD",
+    "location": "PELICAN CREEK",
+    "coordinate": {
+      "lat": -25.233,
+      "long": 150.9
+    }
+  },
+  "PENH": {
+    "code": "PENH",
+    "state": "NSW",
+    "location": "PENNANT HILLS STROBE",
+    "coordinate": {
+      "lat": -33.74,
+      "long": 151.07
+    }
+  },
+  "PENT": {
+    "code": "PENT",
+    "state": "NSW",
+    "location": "PENRITH",
+    "coordinate": {
+      "lat": -33.758,
+      "long": 150.7
+    }
+  },
+  "PVS": {
+    "code": "PVS",
+    "state": "WA",
+    "location": "PERCIVAL LAKES",
+    "coordinate": {
+      "lat": -21.58,
+      "long": 124.16
+    }
+  },
+  "PEG": {
+    "code": "PEG",
+    "state": "QLD",
+    "location": "PEREGIAN",
+    "coordinate": {
+      "lat": -26.517,
+      "long": 153.1
+    }
+  },
+  "PCKD": {
+    "code": "PCKD",
+    "state": "QLD",
+    "location": "PERSEVERENCE CREEK DAM",
+    "coordinate": {
+      "lat": -27.305,
+      "long": 152.122
+    }
+  },
+  "PCTY": {
+    "code": "PCTY",
+    "state": "WA",
+    "location": "PERTH CITY",
+    "coordinate": {
+      "lat": -31.955,
+      "long": 115.857
+    }
+  },
+  "PTI": {
+    "code": "PTI",
+    "state": "QLD",
+    "location": "PETRIE",
+    "coordinate": {
+      "lat": -27.267,
+      "long": 152.975
+    }
+  },
+  "PIB": {
+    "code": "PIB",
+    "state": "WA",
+    "location": "PICKERING BROOK GOLF COURSE",
+    "coordinate": {
+      "lat": -32.038,
+      "long": 116.112
+    }
+  },
+  "PIL": {
+    "code": "PIL",
+    "state": "NSW",
+    "location": "PICKET HILL",
+    "coordinate": {
+      "lat": -30.572,
+      "long": 152.983
+    }
+  },
+  "PCA": {
+    "code": "PCA",
+    "state": "QLD",
+    "location": "PICNIC BAY",
+    "coordinate": {
+      "lat": -19.183,
+      "long": 146.85
+    }
+  },
+  "PNP": {
+    "code": "PNP",
+    "state": "NSW",
+    "location": "PICNIC PT",
+    "coordinate": {
+      "lat": -33.98,
+      "long": 151.002
+    }
+  },
+  "PIC": {
+    "code": "PIC",
+    "state": "NSW",
+    "location": "PICTON",
+    "coordinate": {
+      "lat": -34.175,
+      "long": 150.617
+    }
+  },
+  "PIG": {
+    "code": "PIG",
+    "state": "NSW",
+    "location": "PIGGERY",
+    "coordinate": {
+      "lat": -36.013,
+      "long": 146.792
+    }
+  },
+  "PIPT": {
+    "code": "PIPT",
+    "state": "SA",
+    "location": "PINE PT",
+    "coordinate": {
+      "lat": -34.567,
+      "long": 137.883
+    }
+  },
+  "PING": {
+    "code": "PING",
+    "state": "WA",
+    "location": "PINGARING",
+    "coordinate": {
+      "lat": -32.758,
+      "long": 118.625
+    }
+  },
+  "PII": {
+    "code": "PII",
+    "state": "QLD",
+    "location": "PIRATE PT",
+    "coordinate": {
+      "lat": -23.508,
+      "long": 150.642
+    }
+  },
+  "PWH": {
+    "code": "PWH",
+    "state": "QLD",
+    "location": "PITTSWORTH",
+    "coordinate": {
+      "lat": -27.722,
+      "long": 151.633
+    }
+  },
+  "PTOM": {
+    "code": "PTOM",
+    "state": "VIC",
+    "location": "POINT ORMOND",
+    "coordinate": {
+      "lat": -37.883,
+      "long": 144.983
+    }
+  },
+  "PSS": {
+    "code": "PSS",
+    "state": "NSW",
+    "location": "POINT STEPHENS LIGHTHOUSE",
+    "coordinate": {
+      "lat": -32.747,
+      "long": 152.208
+    }
+  },
+  "PRP": {
+    "code": "PRP",
+    "state": "QLD",
+    "location": "PORPOISE PT",
+    "coordinate": {
+      "lat": -27.937,
+      "long": 153.425
+    }
+  },
+  "PAL": {
+    "code": "PAL",
+    "state": "SA",
+    "location": "PORT ADELAIDE",
+    "coordinate": {
+      "lat": -34.85,
+      "long": 138.5
+    }
+  },
+  "PMA": {
+    "code": "PMA",
+    "state": "QLD",
+    "location": "PORT ALMA",
+    "coordinate": {
+      "lat": -23.583,
+      "long": 150.858
+    }
+  },
+  "POMP": {
+    "code": "POMP",
+    "state": "VIC",
+    "location": "PORT CAMPBELL",
+    "coordinate": {
+      "lat": -38.62,
+      "long": 142.995
+    }
+  },
+  "PDV": {
+    "code": "PDV",
+    "state": "TAS",
+    "location": "PORT DAVEY",
+    "coordinate": {
+      "lat": -43.333,
+      "long": 145.883
+    }
+  },
+  "PTD": {
+    "code": "PTD",
+    "state": "QLD",
+    "location": "PORT DOUGLAS",
+    "coordinate": {
+      "lat": -16.483,
+      "long": 145.463
+    }
+  },
+  "PJUL": {
+    "code": "PJUL",
+    "state": "SA",
+    "location": "PORT JULIA",
+    "coordinate": {
+      "lat": -34.667,
+      "long": 137.878
+    }
+  },
+  "PMG": {
+    "code": "PMG",
+    "state": "QLD",
+    "location": "PORT MUSGRAVE",
+    "coordinate": {
+      "lat": -12,
+      "long": 141.933
+    }
+  },
+  "PNE": {
+    "code": "PNE",
+    "state": "SA",
+    "location": "PORT NEILL",
+    "coordinate": {
+      "lat": -34.117,
+      "long": 136.35
+    }
+  },
+  "PNL": {
+    "code": "PNL",
+    "state": "SA",
+    "location": "PORT NOARLUNGA",
+    "coordinate": {
+      "lat": -35.15,
+      "long": 138.467
+    }
+  },
+  "PIPS": {
+    "code": "PIPS",
+    "state": "VIC",
+    "location": "PORT PHILLIP HEADS",
+    "coordinate": {
+      "lat": -38.293,
+      "long": 144.633
+    }
+  },
+  "PVCT": {
+    "code": "PVCT",
+    "state": "SA",
+    "location": "PORT VINCENT",
+    "coordinate": {
+      "lat": -34.782,
+      "long": 137.862
+    }
+  },
+  "POWR": {
+    "code": "POWR",
+    "state": "WA",
+    "location": "POWERHOUSE",
+    "coordinate": {
+      "lat": -32.095,
+      "long": 115.757
+    }
+  },
+  "PWLC": {
+    "code": "PWLC",
+    "state": "VIC",
+    "location": "POWERLINE CROSSING",
+    "coordinate": {
+      "lat": -37.613,
+      "long": 144.778
+    }
+  },
+  "PRES": {
+    "code": "PRES",
+    "state": "WA",
+    "location": "PRESCOTT LAKES",
+    "coordinate": {
+      "lat": -20.75,
+      "long": 125.167
+    }
+  },
+  "PRS": {
+    "code": "PRS",
+    "state": "TAS",
+    "location": "PRIMROSE SANDS",
+    "coordinate": {
+      "lat": -42.883,
+      "long": 147.667
+    }
+  },
+  "PCB": {
+    "code": "PCB",
+    "state": "QLD",
+    "location": "PRINCESS CHARLOTTE BAY",
+    "coordinate": {
+      "lat": -14.333,
+      "long": 144.117
+    }
+  },
+  "PSP": {
+    "code": "PSP",
+    "state": "NSW",
+    "location": "PROSPECT RESV",
+    "coordinate": {
+      "lat": -33.817,
+      "long": 150.917
+    }
+  },
+  "PSF": {
+    "code": "PSF",
+    "state": "TAS",
+    "location": "PROSSERS SUGARLOAF",
+    "coordinate": {
+      "lat": -42.675,
+      "long": 147.825
+    }
+  },
+  "PSTO": {
+    "code": "PSTO",
+    "state": "QLD",
+    "location": "PROSTON",
+    "coordinate": {
+      "lat": -26.167,
+      "long": 151.6
+    }
+  },
+  "DNGR": {
+    "code": "DNGR",
+    "state": "NSW",
+    "location": "PT DANGER",
+    "coordinate": {
+      "lat": -28.165,
+      "long": 153.552
+    }
+  },
+  "FAW": {
+    "code": "FAW",
+    "state": "NT",
+    "location": "PT FAWCETT",
+    "coordinate": {
+      "lat": -11.8,
+      "long": 130.017
+    }
+  },
+  "PMPH": {
+    "code": "PMPH",
+    "state": "WA",
+    "location": "PUMPHREY'S BRIDGE",
+    "coordinate": {
+      "lat": -32.667,
+      "long": 116.9
+    }
+  },
+  "PBF": {
+    "code": "PBF",
+    "state": "QLD",
+    "location": "PURLINGBROOKE FALLS",
+    "coordinate": {
+      "lat": -28.167,
+      "long": 153.267
+    }
+  },
+  "PWDA": {
+    "code": "PWDA",
+    "state": "QLD",
+    "location": "PURRAWUNDA",
+    "coordinate": {
+      "lat": -27.538,
+      "long": 151.625
+    }
+  },
+  "PUTY": {
+    "code": "PUTY",
+    "state": "NSW",
+    "location": "PUTTY",
+    "coordinate": {
+      "lat": -32.967,
+      "long": 150.75
+    }
+  },
+  "PYA": {
+    "code": "PYA",
+    "state": "VIC",
+    "location": "PYALONG",
+    "coordinate": {
+      "lat": -37.117,
+      "long": 144.855
+    }
+  },
+  "PYK": {
+    "code": "PYK",
+    "state": "VIC",
+    "location": "PYKES CREEK RESV",
+    "coordinate": {
+      "lat": -37.6,
+      "long": 144.295
+    }
+  },
+  "QE2": {
+    "code": "QE2",
+    "state": "QLD",
+    "location": "QE2 STADIUM",
+    "coordinate": {
+      "lat": -27.558,
+      "long": 153.063
+    }
+  },
+  "QAI": {
+    "code": "QAI",
+    "state": "QLD",
+    "location": "QUAIL ISLAND",
+    "coordinate": {
+      "lat": -22.133,
+      "long": 150
+    }
+  },
+  "QBN": {
+    "code": "QBN",
+    "state": "NSW",
+    "location": "QUEANBEYAN",
+    "coordinate": {
+      "lat": -35.36,
+      "long": 149.243
+    }
+  },
+  "Q1": {
+    "code": "Q1",
+    "state": "QLD",
+    "location": "QUEBEC ONE",
+    "coordinate": {
+      "lat": -28.007,
+      "long": 153.43
+    }
+  },
+  "QLW": {
+    "code": "QLW",
+    "state": "QLD",
+    "location": "QUINALOW",
+    "coordinate": {
+      "lat": -27.105,
+      "long": 151.622
+    }
+  },
+  "QNDI": {
+    "code": "QNDI",
+    "state": "NSW",
+    "location": "QUIRINDI",
+    "coordinate": {
+      "lat": -31.49,
+      "long": 150.513
+    }
+  },
+  "RIL": {
+    "code": "RIL",
+    "state": "QLD",
+    "location": "RABBIT ISLAND",
+    "coordinate": {
+      "lat": -20.833,
+      "long": 148.9
+    }
+  },
+  "RBY": {
+    "code": "RBY",
+    "state": "QLD",
+    "location": "RABY BAY",
+    "coordinate": {
+      "lat": -27.517,
+      "long": 153.275
+    }
+  },
+  "RDRS": {
+    "code": "RDRS",
+    "state": "QLD",
+    "location": "RADAR SITE",
+    "coordinate": {
+      "lat": -19.2,
+      "long": 146.767
+    }
+  },
+  "RADT": {
+    "code": "RADT",
+    "state": "TAS",
+    "location": "RADIO TELESCOPE",
+    "coordinate": {
+      "lat": -42.817,
+      "long": 147.45
+    }
+  },
+  "RAIS": {
+    "code": "RAIS",
+    "state": "QLD",
+    "location": "RAINE ISLAND",
+    "coordinate": {
+      "lat": -11.6,
+      "long": 144.033
+    }
+  },
+  "RNN": {
+    "code": "RNN",
+    "state": "QLD",
+    "location": "RANNES",
+    "coordinate": {
+      "lat": -24.1,
+      "long": 150.117
+    }
+  },
+  "RAPD": {
+    "code": "RAPD",
+    "state": "SA",
+    "location": "RAPID BAY",
+    "coordinate": {
+      "lat": -35.522,
+      "long": 138.183
+    }
+  },
+  "RTY": {
+    "code": "RTY",
+    "state": "QLD",
+    "location": "RATHDOWNEY",
+    "coordinate": {
+      "lat": -28.217,
+      "long": 152.867
+    }
+  },
+  "RKI": {
+    "code": "RKI",
+    "state": "QLD",
+    "location": "RATTLESNAKE ISLAND",
+    "coordinate": {
+      "lat": -19.033,
+      "long": 146.612
+    }
+  },
+  "RCS": {
+    "code": "RCS",
+    "state": "VIC",
+    "location": "RED CLIFFS",
+    "coordinate": {
+      "lat": -34.3,
+      "long": 142.217
+    }
+  },
+  "RDHI": {
+    "code": "RDHI",
+    "state": "QLD",
+    "location": "RED HILL",
+    "coordinate": {
+      "lat": -21.633,
+      "long": 148.05
+    }
+  },
+  "RER": {
+    "code": "RER",
+    "state": "NSW",
+    "location": "RED ROCK",
+    "coordinate": {
+      "lat": -29.987,
+      "long": 153.225
+    }
+  },
+  "REDC": {
+    "code": "REDC",
+    "state": "WA",
+    "location": "REDCLIFFE BRIDGE",
+    "coordinate": {
+      "lat": -31.93,
+      "long": 115.938
+    }
+  },
+  "RDV": {
+    "code": "RDV",
+    "state": "QLD",
+    "location": "REDCLIFFE VALE HS",
+    "coordinate": {
+      "lat": -21.117,
+      "long": 148.117
+    }
+  },
+  "REDF": {
+    "code": "REDF",
+    "state": "NSW",
+    "location": "REDFERN RAILWAY STATION",
+    "coordinate": {
+      "lat": -33.892,
+      "long": 151.198
+    }
+  },
+  "REDB": {
+    "code": "REDB",
+    "state": "QLD",
+    "location": "REDLAND BAY",
+    "coordinate": {
+      "lat": -27.6,
+      "long": 153.3
+    }
+  },
+  "REDL": {
+    "code": "REDL",
+    "state": "QLD",
+    "location": "REDLYNCH",
+    "coordinate": {
+      "lat": -16.883,
+      "long": 145.7
+    }
+  },
+  "RENR": {
+    "code": "RENR",
+    "state": "NT",
+    "location": "RENNER SPRINGS",
+    "coordinate": {
+      "lat": -18.317,
+      "long": 133.8
+    }
+  },
+  "RESC": {
+    "code": "RESC",
+    "state": "NT",
+    "location": "RESEARCH CENTRE",
+    "coordinate": {
+      "lat": -14.78,
+      "long": 131.937
+    }
+  },
+  "RCH": {
+    "code": "RCH",
+    "state": "TAS",
+    "location": "RICHMOND",
+    "coordinate": {
+      "lat": -42.733,
+      "long": 147.433
+    }
+  },
+  "RIT": {
+    "code": "RIT",
+    "state": "QLD",
+    "location": "RING TANK",
+    "coordinate": {
+      "lat": -26.75,
+      "long": 153.092
+    }
+  },
+  "RMH": {
+    "code": "RMH",
+    "state": "SA",
+    "location": "RIVER MOUTH",
+    "coordinate": {
+      "lat": -34.583,
+      "long": 138.358
+    }
+  },
+  "RIV": {
+    "code": "RIV",
+    "state": "NSW",
+    "location": "RIVERINA CAMPUS",
+    "coordinate": {
+      "lat": -35.055,
+      "long": 147.347
+    }
+  },
+  "RVTN": {
+    "code": "RVTN",
+    "state": "SA",
+    "location": "RIVERTON",
+    "coordinate": {
+      "lat": -34.165,
+      "long": 138.747
+    }
+  },
+  "ROTC": {
+    "code": "ROTC",
+    "state": "QLD",
+    "location": "ROBINA TOWN CENTRE",
+    "coordinate": {
+      "lat": -28.077,
+      "long": 153.385
+    }
+  },
+  "ROK": {
+    "code": "ROK",
+    "state": "VIC",
+    "location": "ROCKBANK",
+    "coordinate": {
+      "lat": -37.728,
+      "long": 144.653
+    }
+  },
+  "ROHM": {
+    "code": "ROHM",
+    "state": "WA",
+    "location": "ROCKINGHAM",
+    "coordinate": {
+      "lat": -32.292,
+      "long": 115.742
+    }
+  },
+  "RLY": {
+    "code": "RLY",
+    "state": "WA",
+    "location": "ROLEYSTONE",
+    "coordinate": {
+      "lat": -32.117,
+      "long": 116.075
+    }
+  },
+  "RGS": {
+    "code": "RGS",
+    "state": "QLD",
+    "location": "ROLLINGSTONE",
+    "coordinate": {
+      "lat": -19.047,
+      "long": 146.388
+    }
+  },
+  "RKWC": {
+    "code": "RKWC",
+    "state": "NSW",
+    "location": "ROOKWOOD CEMETERY",
+    "coordinate": {
+      "lat": -33.875,
+      "long": 151.055
+    }
+  },
+  "RSH": {
+    "code": "RSH",
+    "state": "NSW",
+    "location": "ROSEHILL RACECOURSE",
+    "coordinate": {
+      "lat": -33.825,
+      "long": 151.025
+    }
+  },
+  "RVB": {
+    "code": "RVB",
+    "state": "NSW",
+    "location": "ROSEVILLE BRIDGE",
+    "coordinate": {
+      "lat": -33.767,
+      "long": 151.2
+    }
+  },
+  "RSWD": {
+    "code": "RSWD",
+    "state": "QLD",
+    "location": "ROSEWOOD",
+    "coordinate": {
+      "lat": -27.637,
+      "long": 152.593
+    }
+  },
+  "RSEW": {
+    "code": "RSEW",
+    "state": "QLD",
+    "location": "ROSEWOOD ISLAND",
+    "coordinate": {
+      "lat": -22.4,
+      "long": 149.733
+    }
+  },
+  "RRDM": {
+    "code": "RRDM",
+    "state": "QLD",
+    "location": "ROSS RIVER DAM",
+    "coordinate": {
+      "lat": -19.412,
+      "long": 146.733
+    }
+  },
+  "RLR": {
+    "code": "RLR",
+    "state": "VIC",
+    "location": "ROSSLYNNE RESV",
+    "coordinate": {
+      "lat": -37.47,
+      "long": 144.563
+    }
+  },
+  "RMT": {
+    "code": "RMT",
+    "state": "QLD",
+    "location": "ROUND MT",
+    "coordinate": {
+      "lat": -19.462,
+      "long": 146.695
+    }
+  },
+  "RCB": {
+    "code": "RCB",
+    "state": "NSW",
+    "location": "RUSH CUTTERS BAY",
+    "coordinate": {
+      "lat": -33.873,
+      "long": 151.232
+    }
+  },
+  "RUIS": {
+    "code": "RUIS",
+    "state": "QLD",
+    "location": "RUSSELL ISLAND",
+    "coordinate": {
+      "lat": -27.667,
+      "long": 153.383
+    }
+  },
+  "RYB": {
+    "code": "RYB",
+    "state": "NSW",
+    "location": "RYDE BRIDGE",
+    "coordinate": {
+      "lat": -33.825,
+      "long": 151.092
+    }
+  },
+  "SADD": {
+    "code": "SADD",
+    "state": "QLD",
+    "location": "SADDLE MT",
+    "coordinate": {
+      "lat": -16.82,
+      "long": 145.65
+    }
+  },
+  "SSV": {
+    "code": "SSV",
+    "state": "QLD",
+    "location": "SAMSONVALE",
+    "coordinate": {
+      "lat": -27.278,
+      "long": 152.855
+    }
+  },
+  "SAU": {
+    "code": "SAU",
+    "state": "QLD",
+    "location": "SANCTUARY COVE",
+    "coordinate": {
+      "lat": -27.858,
+      "long": 153.375
+    }
+  },
+  "SALW": {
+    "code": "SALW",
+    "state": "SA",
+    "location": "SANDALWOOD",
+    "coordinate": {
+      "lat": -34.95,
+      "long": 140.133
+    }
+  },
+  "SSTO": {
+    "code": "SSTO",
+    "state": "SA",
+    "location": "SANDERSTON",
+    "coordinate": {
+      "lat": -34.743,
+      "long": 139.252
+    }
+  },
+  "SAND": {
+    "code": "SAND",
+    "state": "QLD",
+    "location": "SANDGATE PIER",
+    "coordinate": {
+      "lat": -27.328,
+      "long": 153.088
+    }
+  },
+  "SDP": {
+    "code": "SDP",
+    "state": "VIC",
+    "location": "SANDY PT",
+    "coordinate": {
+      "lat": -38.417,
+      "long": 145.233
+    }
+  },
+  "STT": {
+    "code": "STT",
+    "state": "NT",
+    "location": "SANTA TERESA",
+    "coordinate": {
+      "lat": -24.133,
+      "long": 134.373
+    }
+  },
+  "SJI": {
+    "code": "SJI",
+    "state": "QLD",
+    "location": "SARAJI",
+    "coordinate": {
+      "lat": -22.433,
+      "long": 148.283
+    }
+  },
+  "SRIN": {
+    "code": "SRIN",
+    "state": "QLD",
+    "location": "SARINA",
+    "coordinate": {
+      "lat": -21.425,
+      "long": 149.217
+    }
+  },
+  "SVR": {
+    "code": "SVR",
+    "state": "TAS",
+    "location": "SAVAGE RIVER",
+    "coordinate": {
+      "lat": -41.583,
+      "long": 145.133
+    }
+  },
+  "SWTE": {
+    "code": "SWTE",
+    "state": "NSW",
+    "location": "SAWTELL",
+    "coordinate": {
+      "lat": -30.367,
+      "long": 153.1
+    }
+  },
+  "SWY": {
+    "code": "SWY",
+    "state": "WA",
+    "location": "SAWYERS VALLEY",
+    "coordinate": {
+      "lat": -31.905,
+      "long": 116.205
+    }
+  },
+  "STC": {
+    "code": "STC",
+    "state": "NT",
+    "location": "SCOTT CREEK",
+    "coordinate": {
+      "lat": -14.833,
+      "long": 131.833
+    }
+  },
+  "STTE": {
+    "code": "STTE",
+    "state": "TAS",
+    "location": "SCOTTSDALE",
+    "coordinate": {
+      "lat": -41.167,
+      "long": 147.517
+    }
+  },
+  "SECF": {
+    "code": "SECF",
+    "state": "NSW",
+    "location": "SEA CLIFF BRIDGE",
+    "coordinate": {
+      "lat": -34.253,
+      "long": 150.975
+    }
+  },
+  "SVAL": {
+    "code": "SVAL",
+    "state": "SA",
+    "location": "SECOND VALLEY",
+    "coordinate": {
+      "lat": -35.517,
+      "long": 138.217
+    }
+  },
+  "SLB": {
+    "code": "SLB",
+    "state": "SA",
+    "location": "SELLICKS BEACH",
+    "coordinate": {
+      "lat": -35.342,
+      "long": 138.45
+    }
+  },
+  "SDS": {
+    "code": "SDS",
+    "state": "QLD",
+    "location": "SHAUNA DOWNS",
+    "coordinate": {
+      "lat": -24.617,
+      "long": 149.917
+    }
+  },
+  "SHCR": {
+    "code": "SHCR",
+    "state": "NT",
+    "location": "SHAW CREEK",
+    "coordinate": {
+      "lat": -25.217,
+      "long": 129.73
+    }
+  },
+  "SHI": {
+    "code": "SHI",
+    "state": "QLD",
+    "location": "SHAW ISLAND",
+    "coordinate": {
+      "lat": -20.513,
+      "long": 149.087
+    }
+  },
+  "SHL": {
+    "code": "SHL",
+    "state": "QLD",
+    "location": "SHELBURNE BAY",
+    "coordinate": {
+      "lat": -11.883,
+      "long": 143.017
+    }
+  },
+  "SEL": {
+    "code": "SEL",
+    "state": "WA",
+    "location": "SHELLEY BRIDGE",
+    "coordinate": {
+      "lat": -32.025,
+      "long": 115.9
+    }
+  },
+  "SHOAL": {
+    "code": "SHOAL",
+    "state": "VIC",
+    "location": "SHOAL",
+    "coordinate": {
+      "lat": -38.067,
+      "long": 145.033
+    }
+  },
+  "SSG": {
+    "code": "SSG",
+    "state": "NT",
+    "location": "SIMPSONS GAP",
+    "coordinate": {
+      "lat": -23.68,
+      "long": 133.717
+    }
+  },
+  "SIXS": {
+    "code": "SIXS",
+    "state": "WA",
+    "location": "SIX SOUTH",
+    "coordinate": {
+      "lat": -32.185,
+      "long": 115.933
+    }
+  },
+  "SKP": {
+    "code": "SKP",
+    "state": "VIC",
+    "location": "SKIPTON",
+    "coordinate": {
+      "lat": -37.683,
+      "long": 143.367
+    }
+  },
+  "SLPT": {
+    "code": "SLPT",
+    "state": "QLD",
+    "location": "SLADE POINT",
+    "coordinate": {
+      "lat": -21.065,
+      "long": 149.225
+    }
+  },
+  "SGK": {
+    "code": "SGK",
+    "state": "QLD",
+    "location": "SLOPING HUMMOCK",
+    "coordinate": {
+      "lat": -24.85,
+      "long": 152.433
+    }
+  },
+  "SLP": {
+    "code": "SLP",
+    "state": "TAS",
+    "location": "SLOPING ISLAND",
+    "coordinate": {
+      "lat": -42.948,
+      "long": 147.648
+    }
+  },
+  "SMIF": {
+    "code": "SMIF",
+    "state": "QLD",
+    "location": "SMITHFIELD",
+    "coordinate": {
+      "lat": -16.833,
+      "long": 145.683
+    }
+  },
+  "SYI": {
+    "code": "SYI",
+    "state": "NSW",
+    "location": "SNOWY INTERSECTION",
+    "coordinate": {
+      "lat": -35.183,
+      "long": 147.868
+    }
+  },
+  "SOFA": {
+    "code": "SOFA",
+    "state": "NSW",
+    "location": "SOFALA",
+    "coordinate": {
+      "lat": -33.017,
+      "long": 149.683
+    }
+  },
+  "SRP": {
+    "code": "SRP",
+    "state": "NSW",
+    "location": "SOLDIERS POINT",
+    "coordinate": {
+      "lat": -32.7,
+      "long": 152.063
+    }
+  },
+  "SMD": {
+    "code": "SMD",
+    "state": "QLD",
+    "location": "SOMERSET DAM",
+    "coordinate": {
+      "lat": -27.122,
+      "long": 152.55
+    }
+  },
+  "SMN": {
+    "code": "SMN",
+    "state": "NSW",
+    "location": "SOMERTON",
+    "coordinate": {
+      "lat": -30.942,
+      "long": 150.637
+    }
+  },
+  "SORL": {
+    "code": "SORL",
+    "state": "TAS",
+    "location": "SORELL",
+    "coordinate": {
+      "lat": -42.783,
+      "long": 147.583
+    }
+  },
+  "SEC": {
+    "code": "SEC",
+    "state": "TAS",
+    "location": "SOUTH EAST CAPE",
+    "coordinate": {
+      "lat": -43.65,
+      "long": 146.817
+    }
+  },
+  "SMIB": {
+    "code": "SMIB",
+    "state": "QLD",
+    "location": "SOUTH MISSION BEACH",
+    "coordinate": {
+      "lat": -17.948,
+      "long": 146.092
+    }
+  },
+  "SPR": {
+    "code": "SPR",
+    "state": "SA",
+    "location": "SOUTH PARA RESV",
+    "coordinate": {
+      "lat": -34.683,
+      "long": 138.867
+    }
+  },
+  "SPN": {
+    "code": "SPN",
+    "state": "QLD",
+    "location": "SOUTH PINNACLE",
+    "coordinate": {
+      "lat": -19.408,
+      "long": 146.633
+    }
+  },
+  "SDG": {
+    "code": "SDG",
+    "state": "QLD",
+    "location": "SOUTHEDGE",
+    "coordinate": {
+      "lat": -16.817,
+      "long": 145.217
+    }
+  },
+  "SBRR": {
+    "code": "SBRR",
+    "state": "QLD",
+    "location": "SOUTHERN TIP BERSERKERS",
+    "coordinate": {
+      "lat": -23.4,
+      "long": 150.625
+    }
+  },
+  "SPT": {
+    "code": "SPT",
+    "state": "QLD",
+    "location": "SOUTHPORT",
+    "coordinate": {
+      "lat": -27.917,
+      "long": 153.372
+    }
+  },
+  "STR": {
+    "code": "STR",
+    "state": "NT",
+    "location": "SOUTHPORT ROAD",
+    "coordinate": {
+      "lat": -12.65,
+      "long": 130.775
+    }
+  },
+  "SPIT": {
+    "code": "SPIT",
+    "state": "NSW",
+    "location": "SPIT BRIDGE",
+    "coordinate": {
+      "lat": -33.803,
+      "long": 151.247
+    }
+  },
+  "SRR": {
+    "code": "SRR",
+    "state": "NSW",
+    "location": "SPLIT ROCK RESV",
+    "coordinate": {
+      "lat": -30.575,
+      "long": 150.7
+    }
+  },
+  "SOI": {
+    "code": "SOI",
+    "state": "NSW",
+    "location": "SPLIT SOLITARY ISLAND",
+    "coordinate": {
+      "lat": -30.242,
+      "long": 153.18
+    }
+  },
+  "SPMT": {
+    "code": "SPMT",
+    "state": "QLD",
+    "location": "SPRING MOUNTAIN",
+    "coordinate": {
+      "lat": -27.713,
+      "long": 152.885
+    }
+  },
+  "SBK": {
+    "code": "SBK",
+    "state": "NSW",
+    "location": "SPRINGBROOK",
+    "coordinate": {
+      "lat": -28.232,
+      "long": 153.278
+    }
+  },
+  "SGM": {
+    "code": "SGM",
+    "state": "QLD",
+    "location": "ST GEORGES MINE",
+    "coordinate": {
+      "lat": -16.5,
+      "long": 144.4
+    }
+  },
+  "SHIS": {
+    "code": "SHIS",
+    "state": "QLD",
+    "location": "ST HELENA ISLAND",
+    "coordinate": {
+      "lat": -27.378,
+      "long": 153.233
+    }
+  },
+  "SIS": {
+    "code": "SIS",
+    "state": "NSW",
+    "location": "ST IVES SHOWGROUND",
+    "coordinate": {
+      "lat": -33.705,
+      "long": 151.183
+    }
+  },
+  "SKI": {
+    "code": "SKI",
+    "state": "SA",
+    "location": "ST KILDA",
+    "coordinate": {
+      "lat": -34.742,
+      "long": 138.53
+    }
+  },
+  "SRY": {
+    "code": "SRY",
+    "state": "SA",
+    "location": "STANSBURY",
+    "coordinate": {
+      "lat": -34.912,
+      "long": 137.788
+    }
+  },
+  "SLL": {
+    "code": "SLL",
+    "state": "NSW",
+    "location": "STANWELL PARK",
+    "coordinate": {
+      "lat": -34.228,
+      "long": 150.988
+    }
+  },
+  "SPS": {
+    "code": "SPS",
+    "state": "QLD",
+    "location": "STANWELL POWER STN",
+    "coordinate": {
+      "lat": -23.5,
+      "long": 150.333
+    }
+  },
+  "SNP": {
+    "code": "SNP",
+    "state": "VIC",
+    "location": "STATION PIER",
+    "coordinate": {
+      "lat": -37.848,
+      "long": 144.93
+    }
+  },
+  "STPK": {
+    "code": "STPK",
+    "state": "NT",
+    "location": "STEPHENSONS PEAK",
+    "coordinate": {
+      "lat": -25.5,
+      "long": 130.183
+    }
+  },
+  "SCRK": {
+    "code": "SCRK",
+    "state": "QLD",
+    "location": "STONEY CREEK",
+    "coordinate": {
+      "lat": -16.878,
+      "long": 145.655
+    }
+  },
+  "SBD": {
+    "code": "SBD",
+    "state": "QLD",
+    "location": "STORY BRIDGE",
+    "coordinate": {
+      "lat": -27.465,
+      "long": 153.038
+    }
+  },
+  "STOT": {
+    "code": "STOT",
+    "state": "NSW",
+    "location": "STOTTS ISLAND",
+    "coordinate": {
+      "lat": -28.268,
+      "long": 153.5
+    }
+  },
+  "SYN": {
+    "code": "SYN",
+    "state": "SA",
+    "location": "STRATHALBYN",
+    "coordinate": {
+      "lat": -35.258,
+      "long": 138.895
+    }
+  },
+  "SFE": {
+    "code": "SFE",
+    "state": "QLD",
+    "location": "STRATHFINELLA",
+    "coordinate": {
+      "lat": -23.35,
+      "long": 143.55
+    }
+  },
+  "STRA": {
+    "code": "STRA",
+    "state": "TAS",
+    "location": "STRATHGORDON",
+    "coordinate": {
+      "lat": -42.767,
+      "long": 146.037
+    }
+  },
+  "SLY": {
+    "code": "SLY",
+    "state": "WA",
+    "location": "STRELLEY HS",
+    "coordinate": {
+      "lat": -20.442,
+      "long": 118.983
+    }
+  },
+  "SRO": {
+    "code": "SRO",
+    "state": "NSW",
+    "location": "STROUD ROAD",
+    "coordinate": {
+      "lat": -32.347,
+      "long": 151.918
+    }
+  },
+  "SUA": {
+    "code": "SUA",
+    "state": "QLD",
+    "location": "STUART",
+    "coordinate": {
+      "lat": -19.35,
+      "long": 146.833
+    }
+  },
+  "STUM": {
+    "code": "STUM",
+    "state": "QLD",
+    "location": "STUMERS CREEK",
+    "coordinate": {
+      "lat": -26.52,
+      "long": 153.085
+    }
+  },
+  "SUI": {
+    "code": "SUI",
+    "state": "NSW",
+    "location": "STURT INTERSECTION",
+    "coordinate": {
+      "lat": -35.22,
+      "long": 147.793
+    }
+  },
+  "SUB": {
+    "code": "SUB",
+    "state": "SA",
+    "location": "SUBSTATION",
+    "coordinate": {
+      "lat": -34.737,
+      "long": 138.713
+    }
+  },
+  "SUTR": {
+    "code": "SUTR",
+    "state": "QLD",
+    "location": "SUGAR TERMINAL",
+    "coordinate": {
+      "lat": -16.942,
+      "long": 145.767
+    }
+  },
+  "SLMT": {
+    "code": "SLMT",
+    "state": "NSW",
+    "location": "SUGARLOAF MT",
+    "coordinate": {
+      "lat": -31.433,
+      "long": 150.875
+    }
+  },
+  "SUG": {
+    "code": "SUG",
+    "state": "NSW",
+    "location": "SUGARLOAF PT",
+    "coordinate": {
+      "lat": -32.445,
+      "long": 152.54
+    }
+  },
+  "SGSV": {
+    "code": "SGSV",
+    "state": "VIC",
+    "location": "SUGARLOAF RESERVOIR",
+    "coordinate": {
+      "lat": -37.675,
+      "long": 145.3
+    }
+  },
+  "SWLD": {
+    "code": "SWLD",
+    "state": "QLD",
+    "location": "SUGARWORLD",
+    "coordinate": {
+      "lat": -17.017,
+      "long": 145.732
+    }
+  },
+  "SUNZ": {
+    "code": "SUNZ",
+    "state": "QLD",
+    "location": "SUN ZINC REFINERY",
+    "coordinate": {
+      "lat": -19.333,
+      "long": 146.887
+    }
+  },
+  "SBU": {
+    "code": "SBU",
+    "state": "VIC",
+    "location": "SUNBURY",
+    "coordinate": {
+      "lat": -37.583,
+      "long": 144.725
+    }
+  },
+  "SWT": {
+    "code": "SWT",
+    "state": "VIC",
+    "location": "SUNBURY WATER TANK",
+    "coordinate": {
+      "lat": -37.548,
+      "long": 144.692
+    }
+  },
+  "SBIT": {
+    "code": "SBIT",
+    "state": "QLD",
+    "location": "SURBITON",
+    "coordinate": {
+      "lat": -23.15,
+      "long": 146.617
+    }
+  },
+  "SUPA": {
+    "code": "SUPA",
+    "state": "QLD",
+    "location": "SURFER'S PARADISE",
+    "coordinate": {
+      "lat": -28,
+      "long": 153.433
+    }
+  },
+  "SUD": {
+    "code": "SUD",
+    "state": "NSW",
+    "location": "SUTHERLAND",
+    "coordinate": {
+      "lat": -34.038,
+      "long": 151.055
+    }
+  },
+  "SHER": {
+    "code": "SHER",
+    "state": "SA",
+    "location": "SUTHERLANDS",
+    "coordinate": {
+      "lat": -34.15,
+      "long": 139.233
+    }
+  },
+  "SUE": {
+    "code": "SUE",
+    "state": "NSW",
+    "location": "SUTTON ROAD OVERPASS",
+    "coordinate": {
+      "lat": -35.183,
+      "long": 149.258
+    }
+  },
+  "SBCH": {
+    "code": "SBCH",
+    "state": "QLD",
+    "location": "SUTTONS BEACH",
+    "coordinate": {
+      "lat": -27.235,
+      "long": 153.115
+    }
+  },
+  "SCTY": {
+    "code": "SCTY",
+    "state": "NSW",
+    "location": "SYDNEY CBD",
+    "coordinate": {
+      "lat": -33.867,
+      "long": 151.2
+    }
+  },
+  "SCG": {
+    "code": "SCG",
+    "state": "NSW",
+    "location": "SYDNEY CRICKET GROUND",
+    "coordinate": {
+      "lat": -33.892,
+      "long": 151.223
+    }
+  },
+  "SYHD": {
+    "code": "SYHD",
+    "state": "NSW",
+    "location": "SYDNEY HEADS",
+    "coordinate": {
+      "lat": -33.833,
+      "long": 151.292
+    }
+  },
+  "SYP": {
+    "code": "SYP",
+    "state": "TAS",
+    "location": "SYMMONS PLAINS",
+    "coordinate": {
+      "lat": -41.655,
+      "long": 147.25
+    }
+  },
+  "TBL": {
+    "code": "TBL",
+    "state": "NSW",
+    "location": "TABULAM",
+    "coordinate": {
+      "lat": -28.887,
+      "long": 152.568
+    }
+  },
+  "TCH": {
+    "code": "TCH",
+    "state": "NT",
+    "location": "TALC HEAD",
+    "coordinate": {
+      "lat": -12.48,
+      "long": 130.767
+    }
+  },
+  "TLAG": {
+    "code": "TLAG",
+    "state": "VIC",
+    "location": "TALLANGATTA",
+    "coordinate": {
+      "lat": -36.217,
+      "long": 147.175
+    }
+  },
+  "TLY": {
+    "code": "TLY",
+    "state": "VIC",
+    "location": "TALLANGATTA CAUSEWAY",
+    "coordinate": {
+      "lat": -36.213,
+      "long": 147.247
+    }
+  },
+  "TRWL": {
+    "code": "TRWL",
+    "state": "SA",
+    "location": "TALLARINGA WELL",
+    "coordinate": {
+      "lat": -29.033,
+      "long": 133.283
+    }
+  },
+  "TLK": {
+    "code": "TLK",
+    "state": "VIC",
+    "location": "TALLAROOK",
+    "coordinate": {
+      "lat": -37.1,
+      "long": 145.1
+    }
+  },
+  "TID": {
+    "code": "TID",
+    "state": "TAS",
+    "location": "TAMAR ISLAND",
+    "coordinate": {
+      "lat": -41.383,
+      "long": 147.083
+    }
+  },
+  "TGN": {
+    "code": "TGN",
+    "state": "QLD",
+    "location": "TANGORIN",
+    "coordinate": {
+      "lat": -21.733,
+      "long": 144.2
+    }
+  },
+  "TUND": {
+    "code": "TUND",
+    "state": "SA",
+    "location": "TANUNDA",
+    "coordinate": {
+      "lat": -34.533,
+      "long": 138.967
+    }
+  },
+  "TAGO": {
+    "code": "TAGO",
+    "state": "NSW",
+    "location": "TARAGO",
+    "coordinate": {
+      "lat": -35.07,
+      "long": 149.655
+    }
+  },
+  "TOWI": {
+    "code": "TOWI",
+    "state": "SA",
+    "location": "TARCOWIE",
+    "coordinate": {
+      "lat": -32.95,
+      "long": 138.517
+    }
+  },
+  "TRT": {
+    "code": "TRT",
+    "state": "NSW",
+    "location": "TARCUTTA",
+    "coordinate": {
+      "lat": -35.28,
+      "long": 147.738
+    }
+  },
+  "TAP": {
+    "code": "TAP",
+    "state": "TAS",
+    "location": "TARGA GAP",
+    "coordinate": {
+      "lat": -41.312,
+      "long": 147.368
+    }
+  },
+  "TAR": {
+    "code": "TAR",
+    "state": "QLD",
+    "location": "TARGET",
+    "coordinate": {
+      "lat": -27.613,
+      "long": 153.127
+    }
+  },
+  "TLEE": {
+    "code": "TLEE",
+    "state": "SA",
+    "location": "TARLEE",
+    "coordinate": {
+      "lat": -34.275,
+      "long": 138.768
+    }
+  },
+  "TAS": {
+    "code": "TAS",
+    "state": "TAS",
+    "location": "TASMAN BRIDGE",
+    "coordinate": {
+      "lat": -42.867,
+      "long": 147.35
+    }
+  },
+  "CKO": {
+    "code": "CKO",
+    "state": "QLD",
+    "location": "TELEGRAPH OFFICE",
+    "coordinate": {
+      "lat": -19.233,
+      "long": 145.483
+    }
+  },
+  "TPL": {
+    "code": "TPL",
+    "state": "QLD",
+    "location": "TEMPLE BAY",
+    "coordinate": {
+      "lat": -12.267,
+      "long": 143.15
+    }
+  },
+  "TLC": {
+    "code": "TLC",
+    "state": "QLD",
+    "location": "TERRANORA LAKES COUNTRY CLUB",
+    "coordinate": {
+      "lat": -28.215,
+      "long": 153.473
+    }
+  },
+  "TWT": {
+    "code": "TWT",
+    "state": "QLD",
+    "location": "TEWANTIN",
+    "coordinate": {
+      "lat": -26.4,
+      "long": 153.033
+    }
+  },
+  "THW": {
+    "code": "THW",
+    "state": "ACT",
+    "location": "THARWA",
+    "coordinate": {
+      "lat": -35.513,
+      "long": 149.07
+    }
+  },
+  "TCNR": {
+    "code": "TCNR",
+    "state": "QLD",
+    "location": "THE CORNER",
+    "coordinate": {
+      "lat": -19.325,
+      "long": 146.728
+    }
+  },
+  "THUM": {
+    "code": "THUM",
+    "state": "SA",
+    "location": "THE GUMS",
+    "coordinate": {
+      "lat": -33.833,
+      "long": 139.333
+    }
+  },
+  "TGU": {
+    "code": "TGU",
+    "state": "SA",
+    "location": "THE GUMS HS",
+    "coordinate": {
+      "lat": -33.85,
+      "long": 139.35
+    }
+  },
+  "TLMI": {
+    "code": "TLMI",
+    "state": "WA",
+    "location": "THE LAKES MINE",
+    "coordinate": {
+      "lat": -31.865,
+      "long": 116.358
+    }
+  },
+  "THK": {
+    "code": "THK",
+    "state": "NSW",
+    "location": "THE OAKS",
+    "coordinate": {
+      "lat": -34.078,
+      "long": 150.578
+    }
+  },
+  "PIN": {
+    "code": "PIN",
+    "state": "QLD",
+    "location": "THE PINES",
+    "coordinate": {
+      "lat": -28.142,
+      "long": 153.467
+    }
+  },
+  "RCK": {
+    "code": "RCK",
+    "state": "NSW",
+    "location": "THE ROCK",
+    "coordinate": {
+      "lat": -35.275,
+      "long": 147.072
+    }
+  },
+  "APST": {
+    "code": "APST",
+    "state": "NSW",
+    "location": "THE STAMFORD (HOTEL)",
+    "coordinate": {
+      "lat": -33.932,
+      "long": 151.185
+    }
+  },
+  "WHF": {
+    "code": "WHF",
+    "state": "VIC",
+    "location": "THE WHARF",
+    "coordinate": {
+      "lat": -38.1,
+      "long": 144.533
+    }
+  },
+  "THB": {
+    "code": "THB",
+    "state": "QLD",
+    "location": "THEEBINE",
+    "coordinate": {
+      "lat": -25.95,
+      "long": 152.55
+    }
+  },
+  "THSM": {
+    "code": "THSM",
+    "state": "QLD",
+    "location": "THOMPSON 1",
+    "coordinate": {
+      "lat": -17.012,
+      "long": 145.752
+    }
+  },
+  "TORN": {
+    "code": "TORN",
+    "state": "QLD",
+    "location": "THORNTON",
+    "coordinate": {
+      "lat": -27.817,
+      "long": 152.383
+    }
+  },
+  "TNP": {
+    "code": "TNP",
+    "state": "QLD",
+    "location": "THORNTON GAP",
+    "coordinate": {
+      "lat": -19.358,
+      "long": 146.462
+    }
+  },
+  "TBRT": {
+    "code": "TBRT",
+    "state": "QLD",
+    "location": "TIMBERTOP",
+    "coordinate": {
+      "lat": -16.958,
+      "long": 145.805
+    }
+  },
+  "TING": {
+    "code": "TING",
+    "state": "QLD",
+    "location": "TINGALPA RESERVOIR",
+    "coordinate": {
+      "lat": -27.54,
+      "long": 153.167
+    }
+  },
+  "TMPT": {
+    "code": "TMPT",
+    "state": "WA",
+    "location": "TOM PRICE",
+    "coordinate": {
+      "lat": -22.695,
+      "long": 117.792
+    }
+  },
+  "TOO": {
+    "code": "TOO",
+    "state": "VIC",
+    "location": "TOOBORAC",
+    "coordinate": {
+      "lat": -37.05,
+      "long": 144.8
+    }
+  },
+  "TLN": {
+    "code": "TLN",
+    "state": "VIC",
+    "location": "TOOLLEEN",
+    "coordinate": {
+      "lat": -36.717,
+      "long": 144.683
+    }
+  },
+  "TOOU": {
+    "code": "TOOU",
+    "state": "QLD",
+    "location": "TOOMULLA",
+    "coordinate": {
+      "lat": -19.083,
+      "long": 146.467
+    }
+  },
+  "TOGA": {
+    "code": "TOGA",
+    "state": "VIC",
+    "location": "TOORONGA",
+    "coordinate": {
+      "lat": -37.848,
+      "long": 145.047
+    }
+  },
+  "TOWA": {
+    "code": "TOWA",
+    "state": "WA",
+    "location": "TOWRANA HS",
+    "coordinate": {
+      "lat": -25.433,
+      "long": 115.233
+    }
+  },
+  "TVM": {
+    "code": "TVM",
+    "state": "TAS",
+    "location": "TREVALLYN DAM",
+    "coordinate": {
+      "lat": -41.455,
+      "long": 147.088
+    }
+  },
+  "TRIN": {
+    "code": "TRIN",
+    "state": "QLD",
+    "location": "TRINITY BEACH",
+    "coordinate": {
+      "lat": -16.783,
+      "long": 145.7
+    }
+  },
+  "TRUO": {
+    "code": "TRUO",
+    "state": "SA",
+    "location": "TRURO",
+    "coordinate": {
+      "lat": -34.412,
+      "long": 139.12
+    }
+  },
+  "TKER": {
+    "code": "TKER",
+    "state": "QLD",
+    "location": "TUCKER",
+    "coordinate": {
+      "lat": -24.483,
+      "long": 149.2
+    }
+  },
+  "TUK": {
+    "code": "TUK",
+    "state": "NSW",
+    "location": "TUCKERS KNOB",
+    "coordinate": {
+      "lat": -30.343,
+      "long": 152.98
+    }
+  },
+  "TGC": {
+    "code": "TGC",
+    "state": "ACT",
+    "location": "TUGGERANONG TOWN CENTRE",
+    "coordinate": {
+      "lat": -35.417,
+      "long": 149.067
+    }
+  },
+  "TUMB": {
+    "code": "TUMB",
+    "state": "NSW",
+    "location": "TUMBULGUM",
+    "coordinate": {
+      "lat": -28.278,
+      "long": 153.467
+    }
+  },
+  "TTLE": {
+    "code": "TTLE",
+    "state": "NT",
+    "location": "TURTLE PT",
+    "coordinate": {
+      "lat": -14.85,
+      "long": 129.25
+    }
+  },
+  "TWRN": {
+    "code": "TWRN",
+    "state": "NSW",
+    "location": "TWO RN",
+    "coordinate": {
+      "lat": -33.937,
+      "long": 150.888
+    }
+  },
+  "TOS": {
+    "code": "TOS",
+    "state": "WA",
+    "location": "TWO ROCKS",
+    "coordinate": {
+      "lat": -31.492,
+      "long": 115.583
+    }
+  },
+  "UKER": {
+    "code": "UKER",
+    "state": "NSW",
+    "location": "UKEREBAGH ISLAND",
+    "coordinate": {
+      "lat": -28.18,
+      "long": 153.547
+    }
+  },
+  "UDA": {
+    "code": "UDA",
+    "state": "NSW",
+    "location": "ULLADULLA",
+    "coordinate": {
+      "lat": -35.35,
+      "long": 150.483
+    }
+  },
+  "UNDW": {
+    "code": "UNDW",
+    "state": "NT",
+    "location": "UNDEMOW WATERHOLE",
+    "coordinate": {
+      "lat": -17.583,
+      "long": 135.25
+    }
+  },
+  "UQLD": {
+    "code": "UQLD",
+    "state": "QLD",
+    "location": "UNI OF QLD ST LUCIA",
+    "coordinate": {
+      "lat": -27.498,
+      "long": 153.013
+    }
+  },
+  "USW": {
+    "code": "USW",
+    "state": "WA",
+    "location": "UPPER SWAN",
+    "coordinate": {
+      "lat": -31.772,
+      "long": 116.017
+    }
+  },
+  "URAN": {
+    "code": "URAN",
+    "state": "QLD",
+    "location": "URANGAN",
+    "coordinate": {
+      "lat": -25.283,
+      "long": 152.9
+    }
+  },
+  "URA": {
+    "code": "URA",
+    "state": "NSW",
+    "location": "URANQUINTY",
+    "coordinate": {
+      "lat": -35.192,
+      "long": 147.247
+    }
+  },
+  "URC": {
+    "code": "URC",
+    "state": "SA",
+    "location": "URRBRAE AGRICULTURAL HIGH SCHOOL",
+    "coordinate": {
+      "lat": -34.967,
+      "long": 138.625
+    }
+  },
+  "URU": {
+    "code": "URU",
+    "state": "NSW",
+    "location": "URUNGA",
+    "coordinate": {
+      "lat": -30.492,
+      "long": 153.017
+    }
+  },
+  "VTG": {
+    "code": "VTG",
+    "state": "VIC",
+    "location": "VEHICLE TESTING GROUND",
+    "coordinate": {
+      "lat": -37.883,
+      "long": 144.417
+    }
+  },
+  "VELO": {
+    "code": "VELO",
+    "state": "SA",
+    "location": "VELODROME",
+    "coordinate": {
+      "lat": -34.843,
+      "long": 138.612
+    }
+  },
+  "VICP": {
+    "code": "VICP",
+    "state": "SA",
+    "location": "VICTORIA PARK",
+    "coordinate": {
+      "lat": -34.933,
+      "long": 138.622
+    }
+  },
+  "VOKH": {
+    "code": "VOKH",
+    "state": "SA",
+    "location": "VOKES HILL",
+    "coordinate": {
+      "lat": -28.483,
+      "long": 130.583
+    }
+  },
+  "VPH": {
+    "code": "VPH",
+    "state": "WA",
+    "location": "VPH",
+    "coordinate": {
+      "lat": -31.945,
+      "long": 115.96
+    }
+  },
+  "WGL": {
+    "code": "WGL",
+    "state": "WA",
+    "location": "WAIGEN LAKES",
+    "coordinate": {
+      "lat": -27.617,
+      "long": 128.783
+    }
+  },
+  "WTC": {
+    "code": "WTC",
+    "state": "SA",
+    "location": "WAITE CAMPUS",
+    "coordinate": {
+      "lat": -34.97,
+      "long": 138.635
+    }
+  },
+  "WKT": {
+    "code": "WKT",
+    "state": "QLD",
+    "location": "WALKERSTON",
+    "coordinate": {
+      "lat": -21.163,
+      "long": 149.063
+    }
+  },
+  "WBH": {
+    "code": "WBH",
+    "state": "NSW",
+    "location": "WALLABADAH",
+    "coordinate": {
+      "lat": -31.538,
+      "long": 150.825
+    }
+  },
+  "WAN": {
+    "code": "WAN",
+    "state": "VIC",
+    "location": "WALLAN",
+    "coordinate": {
+      "lat": -37.408,
+      "long": 144.977
+    }
+  },
+  "WGR": {
+    "code": "WGR",
+    "state": "NSW",
+    "location": "WALLANGARRA",
+    "coordinate": {
+      "lat": -28.917,
+      "long": 151.933
+    }
+  },
+  "WRO": {
+    "code": "WRO",
+    "state": "SA",
+    "location": "WALLAROO",
+    "coordinate": {
+      "lat": -33.933,
+      "long": 137.633
+    }
+  },
+  "WMB": {
+    "code": "WMB",
+    "state": "QLD",
+    "location": "WALLUMBILLA",
+    "coordinate": {
+      "lat": -26.583,
+      "long": 149.183
+    }
+  },
+  "WPE": {
+    "code": "WPE",
+    "state": "WA",
+    "location": "WALPOLE",
+    "coordinate": {
+      "lat": -34.983,
+      "long": 116.733
+    }
+  },
+  "WTBG": {
+    "code": "WTBG",
+    "state": "QLD",
+    "location": "WALTER TAYLOR BRIDGE",
+    "coordinate": {
+      "lat": -27.505,
+      "long": 152.973
+    }
+  },
+  "WDN": {
+    "code": "WDN",
+    "state": "NSW",
+    "location": "WANDANDIAN",
+    "coordinate": {
+      "lat": -35.083,
+      "long": 150.517
+    }
+  },
+  "WAND": {
+    "code": "WAND",
+    "state": "WA",
+    "location": "WANDERING",
+    "coordinate": {
+      "lat": -32.675,
+      "long": 116.667
+    }
+  },
+  "WAT": {
+    "code": "WAT",
+    "state": "QLD",
+    "location": "WANGETTI",
+    "coordinate": {
+      "lat": -16.665,
+      "long": 145.567
+    }
+  },
+  "WAG": {
+    "code": "WAG",
+    "state": "NSW",
+    "location": "WANTABADGERY",
+    "coordinate": {
+      "lat": -35.058,
+      "long": 147.722
+    }
+  },
+  "WRNA": {
+    "code": "WRNA",
+    "state": "WA",
+    "location": "WAROONA",
+    "coordinate": {
+      "lat": -32.842,
+      "long": 115.917
+    }
+  },
+  "WAD": {
+    "code": "WAD",
+    "state": "NSW",
+    "location": "WARRAGAMBA DAM",
+    "coordinate": {
+      "lat": -33.885,
+      "long": 150.592
+    }
+  },
+  "WASL": {
+    "code": "WASL",
+    "state": "NSW",
+    "location": "WARRAL SILO",
+    "coordinate": {
+      "lat": -31.15,
+      "long": 150.858
+    }
+  },
+  "WRD": {
+    "code": "WRD",
+    "state": "VIC",
+    "location": "WARRANDYTE",
+    "coordinate": {
+      "lat": -37.75,
+      "long": 145.208
+    }
+  },
+  "WRR": {
+    "code": "WRR",
+    "state": "SA",
+    "location": "WARREN RESERVOIR",
+    "coordinate": {
+      "lat": -34.708,
+      "long": 138.933
+    }
+  },
+  "WFM": {
+    "code": "WFM",
+    "state": "NSW",
+    "location": "WARWICK FARM",
+    "coordinate": {
+      "lat": -33.912,
+      "long": 150.947
+    }
+  },
+  "WFL": {
+    "code": "WFL",
+    "state": "NSW",
+    "location": "WATERFALL",
+    "coordinate": {
+      "lat": -34.137,
+      "long": 150.992
+    }
+  },
+  "WAYS": {
+    "code": "WAYS",
+    "state": "NT",
+    "location": "WAYSIDE",
+    "coordinate": {
+      "lat": -15.575,
+      "long": 131.04
+    }
+  },
+  "WWN": {
+    "code": "WWN",
+    "state": "QLD",
+    "location": "WEALWANDANGIE",
+    "coordinate": {
+      "lat": -24.417,
+      "long": 148.05
+    }
+  },
+  "WCP": {
+    "code": "WCP",
+    "state": "QLD",
+    "location": "WELLCAMP DOWNS",
+    "coordinate": {
+      "lat": -27.55,
+      "long": 151.85
+    }
+  },
+  "WELL": {
+    "code": "WELL",
+    "state": "QLD",
+    "location": "WELLINGTON PT",
+    "coordinate": {
+      "lat": -27.468,
+      "long": 153.242
+    }
+  },
+  "WLS": {
+    "code": "WLS",
+    "state": "QLD",
+    "location": "WELLSHOT",
+    "coordinate": {
+      "lat": -23.9,
+      "long": 144.433
+    }
+  },
+  "WELS": {
+    "code": "WELS",
+    "state": "VIC",
+    "location": "WELSHPOOL",
+    "coordinate": {
+      "lat": -38.665,
+      "long": 146.438
+    }
+  },
+  "WBER": {
+    "code": "WBER",
+    "state": "VIC",
+    "location": "WERRIBEE RACECOURSE",
+    "coordinate": {
+      "lat": -37.9,
+      "long": 144.642
+    }
+  },
+  "WBES": {
+    "code": "WBES",
+    "state": "VIC",
+    "location": "WERRIBEE SOUTH",
+    "coordinate": {
+      "lat": -37.977,
+      "long": 144.688
+    }
+  },
+  "WEK": {
+    "code": "WEK",
+    "state": "NSW",
+    "location": "WERRIS CREEK",
+    "coordinate": {
+      "lat": -31.358,
+      "long": 150.65
+    }
+  },
+  "WSM": {
+    "code": "WSM",
+    "state": "NT",
+    "location": "WEST ARM",
+    "coordinate": {
+      "lat": -12.55,
+      "long": 130.788
+    }
+  },
+  "WEBS": {
+    "code": "WEBS",
+    "state": "VIC",
+    "location": "WEST BASS",
+    "coordinate": {
+      "lat": -39.5,
+      "long": 141
+    }
+  },
+  "WTG": {
+    "code": "WTG",
+    "state": "TAS",
+    "location": "WEST GAP",
+    "coordinate": {
+      "lat": -41.345,
+      "long": 146.775
+    }
+  },
+  "WSN": {
+    "code": "WSN",
+    "state": "TAS",
+    "location": "WEST LAGOON",
+    "coordinate": {
+      "lat": -41.603,
+      "long": 147.028
+    }
+  },
+  "WEP": {
+    "code": "WEP",
+    "state": "QLD",
+    "location": "WEST PT",
+    "coordinate": {
+      "lat": -19.128,
+      "long": 146.778
+    }
+  },
+  "WNFE": {
+    "code": "WNFE",
+    "state": "QLD",
+    "location": "WESTERN FREEWAY",
+    "coordinate": {
+      "lat": -27.575,
+      "long": 152.945
+    }
+  },
+  "WES": {
+    "code": "WES",
+    "state": "VIC",
+    "location": "WESTGATE BRIDGE",
+    "coordinate": {
+      "lat": -37.83,
+      "long": 144.897
+    }
+  },
+  "WMR": {
+    "code": "WMR",
+    "state": "QLD",
+    "location": "WESTMAR",
+    "coordinate": {
+      "lat": -27.917,
+      "long": 149.717
+    }
+  },
+  "WST": {
+    "code": "WST",
+    "state": "NSW",
+    "location": "WESTMEAD",
+    "coordinate": {
+      "lat": -33.803,
+      "long": 150.987
+    }
+  },
+  "WTB": {
+    "code": "WTB",
+    "state": "QLD",
+    "location": "WETHERBY",
+    "coordinate": {
+      "lat": -21.5,
+      "long": 142.833
+    }
+  },
+  "WHM": {
+    "code": "WHM",
+    "state": "WA",
+    "location": "WHIM CREEK",
+    "coordinate": {
+      "lat": -20.833,
+      "long": 117.833
+    }
+  },
+  "WTRK": {
+    "code": "WTRK",
+    "state": "QLD",
+    "location": "WHITE ROCK",
+    "coordinate": {
+      "lat": -18.778,
+      "long": 146.718
+    }
+  },
+  "WHW": {
+    "code": "WHW",
+    "state": "QLD",
+    "location": "WHITEWOOD",
+    "coordinate": {
+      "lat": -21.483,
+      "long": 143.6
+    }
+  },
+  "WTS": {
+    "code": "WTS",
+    "state": "VIC",
+    "location": "WHITTLESEA",
+    "coordinate": {
+      "lat": -37.517,
+      "long": 145.117
+    }
+  },
+  "WIKP": {
+    "code": "WIKP",
+    "state": "NT",
+    "location": "WICKHAM PT",
+    "coordinate": {
+      "lat": -12.505,
+      "long": 130.86
+    }
+  },
+  "WHPL": {
+    "code": "WHPL",
+    "state": "SA",
+    "location": "WILD HORSE PLAINS",
+    "coordinate": {
+      "lat": -34.36,
+      "long": 138.288
+    }
+  },
+  "WILE": {
+    "code": "WILE",
+    "state": "NT",
+    "location": "WILLEROO",
+    "coordinate": {
+      "lat": -15.283,
+      "long": 131.565
+    }
+  },
+  "WMS": {
+    "code": "WMS",
+    "state": "VIC",
+    "location": "WILLIAMSTOWN",
+    "coordinate": {
+      "lat": -37.87,
+      "long": 144.912
+    }
+  },
+  "WICK": {
+    "code": "WICK",
+    "state": "WA",
+    "location": "WILLIES CREEK",
+    "coordinate": {
+      "lat": -17.75,
+      "long": 122.208
+    }
+  },
+  "WIE": {
+    "code": "WIE",
+    "state": "NSW",
+    "location": "WIMMERA",
+    "coordinate": {
+      "lat": -31.158,
+      "long": 150.817
+    }
+  },
+  "WDU": {
+    "code": "WDU",
+    "state": "NSW",
+    "location": "WIRRADGURIE",
+    "coordinate": {
+      "lat": -31.9,
+      "long": 152.067
+    }
+  },
+  "WSFR": {
+    "code": "WSFR",
+    "state": "NSW",
+    "location": "WISEMANS FERRY",
+    "coordinate": {
+      "lat": -33.38,
+      "long": 150.988
+    }
+  },
+  "WTHB": {
+    "code": "WTHB",
+    "state": "WA",
+    "location": "WITHNELL BAY",
+    "coordinate": {
+      "lat": -20.58,
+      "long": 116.787
+    }
+  },
+  "WHDW": {
+    "code": "WHDW",
+    "state": "QLD",
+    "location": "WIVENHOE DAM WALL",
+    "coordinate": {
+      "lat": -27.395,
+      "long": 152.608
+    }
+  },
+  "WBK": {
+    "code": "WBK",
+    "state": "WA",
+    "location": "WOODBROOK",
+    "coordinate": {
+      "lat": -20.912,
+      "long": 117.117
+    }
+  },
+  "WOT": {
+    "code": "WOT",
+    "state": "QLD",
+    "location": "WOODGATE",
+    "coordinate": {
+      "lat": -25.117,
+      "long": 152.567
+    }
+  },
+  "WOOS": {
+    "code": "WOOS",
+    "state": "VIC",
+    "location": "WOODLANDS GOLF COURSE",
+    "coordinate": {
+      "lat": -37.997,
+      "long": 145.1
+    }
+  },
+  "WMP": {
+    "code": "WMP",
+    "state": "WA",
+    "location": "WOODMAN PT",
+    "coordinate": {
+      "lat": -32.142,
+      "long": 115.733
+    }
+  },
+  "WYPT": {
+    "code": "WYPT",
+    "state": "QLD",
+    "location": "WOODY PT",
+    "coordinate": {
+      "lat": -27.265,
+      "long": 153.103
+    }
+  },
+  "WGG": {
+    "code": "WGG",
+    "state": "NSW",
+    "location": "WOOLGOOLGA",
+    "coordinate": {
+      "lat": -30.113,
+      "long": 153.2
+    }
+  },
+  "WOI": {
+    "code": "WOI",
+    "state": "NSW",
+    "location": "WOOLLAMIA",
+    "coordinate": {
+      "lat": -35.02,
+      "long": 150.66
+    }
+  },
+  "WNK": {
+    "code": "WNK",
+    "state": "QLD",
+    "location": "WOOMANOOKA",
+    "coordinate": {
+      "lat": -13.733,
+      "long": 141.583
+    }
+  },
+  "WAM": {
+    "code": "WAM",
+    "state": "NSW",
+    "location": "WOOMARGAMA",
+    "coordinate": {
+      "lat": -35.833,
+      "long": 147.248
+    }
+  },
+  "WRM": {
+    "code": "WRM",
+    "state": "QLD",
+    "location": "WOORIM",
+    "coordinate": {
+      "lat": -27.078,
+      "long": 153.203
+    }
+  },
+  "WUN": {
+    "code": "WUN",
+    "state": "WA",
+    "location": "WUNDOWIE",
+    "coordinate": {
+      "lat": -31.767,
+      "long": 116.377
+    }
+  },
+  "WUTUL": {
+    "code": "WUTUL",
+    "state": "QLD",
+    "location": "WUTUL",
+    "coordinate": {
+      "lat": -27.03,
+      "long": 151.808
+    }
+  },
+  "WMF": {
+    "code": "WMF",
+    "state": "NSW",
+    "location": "WYMAH FERRY",
+    "coordinate": {
+      "lat": -36.042,
+      "long": 147.263
+    }
+  },
+  "WYR": {
+    "code": "WYR",
+    "state": "QLD",
+    "location": "WYREEMA",
+    "coordinate": {
+      "lat": -27.65,
+      "long": 151.858
+    }
+  },
+  "YMA": {
+    "code": "YMA",
+    "state": "QLD",
+    "location": "YAAMBA",
+    "coordinate": {
+      "lat": -23.133,
+      "long": 150.367
+    }
+  },
+  "YBU": {
+    "code": "YBU",
+    "state": "QLD",
+    "location": "YABULU",
+    "coordinate": {
+      "lat": -19.213,
+      "long": 146.597
+    }
+  },
+  "YKH": {
+    "code": "YKH",
+    "state": "VIC",
+    "location": "YACKANDANDAH",
+    "coordinate": {
+      "lat": -36.312,
+      "long": 146.842
+    }
+  },
+  "ALBO": {
+    "code": "ALBO",
+    "state": "QLD",
+    "location": "YALBOROO",
+    "coordinate": {
+      "lat": -20.833,
+      "long": 148.65
+    }
+  },
+  "YYN": {
+    "code": "YYN",
+    "state": "VIC",
+    "location": "YAN YEAN RESV",
+    "coordinate": {
+      "lat": -37.558,
+      "long": 145.138
+    }
+  },
+  "ANDA": {
+    "code": "ANDA",
+    "state": "QLD",
+    "location": "YANDARAN",
+    "coordinate": {
+      "lat": -24.717,
+      "long": 152.117
+    }
+  },
+  "YNA": {
+    "code": "YNA",
+    "state": "QLD",
+    "location": "YANDINA",
+    "coordinate": {
+      "lat": -26.563,
+      "long": 152.955
+    }
+  },
+  "YGB": {
+    "code": "YGB",
+    "state": "WA",
+    "location": "YANGEBUP LAKE",
+    "coordinate": {
+      "lat": -32.12,
+      "long": 115.833
+    }
+  },
+  "YYM": {
+    "code": "YYM",
+    "state": "VIC",
+    "location": "YARINGA YACHT MARINA",
+    "coordinate": {
+      "lat": -38.247,
+      "long": 145.252
+    }
+  },
+  "YBH": {
+    "code": "YBH",
+    "state": "QLD",
+    "location": "YARRABAH",
+    "coordinate": {
+      "lat": -16.917,
+      "long": 145.883
+    }
+  },
+  "ASST": {
+    "code": "ASST",
+    "state": "NSW",
+    "location": "YASS TOWNSHIP",
+    "coordinate": {
+      "lat": -34.85,
+      "long": 148.917
+    }
+  },
+  "ORKT": {
+    "code": "ORKT",
+    "state": "WA",
+    "location": "YORK TOWNSHIP",
+    "coordinate": {
+      "lat": -31.883,
+      "long": 116.767
+    }
+  },
+  "YKS": {
+    "code": "YKS",
+    "state": "QLD",
+    "location": "YORKEYS KNOB",
+    "coordinate": {
+      "lat": -16.81,
+      "long": 145.725
+    }
+  },
+  "ORNN": {
+    "code": "ORNN",
+    "state": "WA",
+    "location": "YORNANING TOWNSHIP",
+    "coordinate": {
+      "lat": -32.733,
+      "long": 117.167
+    }
+  },
+  "ULAB": {
+    "code": "ULAB",
+    "state": "QLD",
+    "location": "YULABILLA",
+    "coordinate": {
+      "lat": -27.067,
+      "long": 149.7
+    }
+  },
+  "URAR": {
+    "code": "URAR",
+    "state": "QLD",
+    "location": "YURARABA",
+    "coordinate": {
+      "lat": -28.333,
+      "long": 151.4
+    }
+  },
+  "ZIN": {
+    "code": "ZIN",
+    "state": "QLD",
+    "location": "ZUIZIN ISLAND",
+    "coordinate": {
+      "lat": -10.1,
+      "long": 143.333
+    }
+  }
+}
