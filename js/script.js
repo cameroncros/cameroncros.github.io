@@ -27,9 +27,23 @@ function createWaypoint()
     }
 }
 
-function parseCoordinate()
+function parseCoordinate(string)
 {
-    return null 
+    var parts = string.split(",")
+    if (parts.length != 2) {
+        return null
+    }
+    var lat = parts[0]
+    lat = parseFloat(lat.replace(/[^0-9.]{1,}/g, ""))
+    if (isNaN(lat) || lat > 90 || lat < -90) {
+        return null
+    }
+    var lng = parts[1]
+    lng = parseFloat(lng.replace(/[^0-9.]{1,}/g, ""))
+    if (isNaN(lng) || lng > 360 || lng < -180) {
+        return null
+    }
+    return {lat: lat, lng: lng}
 }
 
 function updateCode(index, value)
@@ -50,10 +64,16 @@ function updateCode(index, value)
         }
         else if ((coordinate = parseCoordinate(value)) != null)
         {
-            waypoints.gps = coordinate
+            waypoint.gps = coordinate
             
             updateTable()
             updateMap()
+        }
+        else
+        {
+            waypoint.gps = null
+            waypoint.location = null
+            waypoint.state = null
         }
 	}
 }
