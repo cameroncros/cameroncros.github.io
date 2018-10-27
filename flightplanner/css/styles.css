@@ -1,0 +1,26 @@
+body {
+	padding: 0;
+	margin: 0
+}
+
+table {
+	width: 100%;
+}
+
+#map {
+	width: 100%;
+	min-height: 640px
+}
+
+input, button {
+	width: 100%
+}
+
+th.delete, th.insert, th.gps {
+	width: 100px
+}
+
+th.location {
+	width: 300px
+}
+
