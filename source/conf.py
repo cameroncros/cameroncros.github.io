@@ -19,9 +19,9 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'DevNet Create GitHub Pages Demo'
-copyright = '2022, Anne Gentle'
-author = 'Anne Gentle'
+project = 'Cameron\'s Braindump'
+copyright = '2022, Cameron Cross'
+author = 'Cameron Cross'
 
 # The short X.Y version
 version = ''
@@ -59,7 +59,7 @@ master_doc = 'index'
 #
 # This is also used if you do content translation via gettext catalogs.
 # Usually you set "language" from the command line for these cases.
-language = None
+language = 'en'
 
 # List of patterns, relative to source directory, that match files and
 # directories to ignore when looking for source files.

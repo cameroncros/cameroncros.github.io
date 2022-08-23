@@ -1,9 +1,9 @@
 name: build-sphinx-to-gh-pages
 
 env:
-  GITHUB_ACTOR: annegentle
-  GITHUB_REPOSITORY: annegentle/create-demo
-  GITHUB_TOKEN: ${{ secrets.CREATE_DEMO_SECRET }}
+  GITHUB_ACTOR: cameroncros
+  GITHUB_REPOSITORY: cameroncros/cameroncros
+  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
 on: 
   push:
@@ -17,10 +17,10 @@ jobs:
     container: debian:buster-slim
 
     steps:
-    
+
       - name: Get prerequisites and clone repository
         env:
-          GITHUB_TOKEN: ${{ secrets.CREATE_DEMO_SECRET }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           set -x
           apt-get update
@@ -30,6 +30,6 @@ jobs:
 
       - name: Run build script for Sphinx pages
         env:
-          GITHUB_TOKEN: ${{ secrets.CREATE_DEMO_SECRET }}
-        run: "docs/buildsite.sh"
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: ".github/scripts/buildsite.sh"
         shell: bash

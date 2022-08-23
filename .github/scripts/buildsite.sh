@@ -1,8 +1,9 @@
 #!/bin/bash
 set -x
+set -e
 
 apt-get update
-apt-get -y install git rsync python3-sphinx
+apt-get -y install git rsync python3-venv
 
 pwd ls -lah
 export SOURCE_DATE_EPOCH=$(git log -1 --pretty=%ct)
@@ -13,8 +14,7 @@ export SOURCE_DATE_EPOCH=$(git log -1 --pretty=%ct)
  
 # Python Sphinx, configured with source/conf.py
 # See https://www.sphinx-doc.org/
-make clean
-make html
+./build.sh
 
 #######################
 # Update GitHub Pages #
@@ -24,7 +24,7 @@ git config --global user.name "${GITHUB_ACTOR}"
 git config --global user.email "${GITHUB_ACTOR}@users.noreply.github.com"
  
 docroot=`mktemp -d`
-rsync -av "build/html/" "${docroot}/"
+rsync -av "docs/" "${docroot}/"
  
 pushd "${docroot}"
 
