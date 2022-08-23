@@ -11,6 +11,7 @@ Welcome to Camerons Braindump!
    :maxdepth: 1
    :caption: Table of Contents:
 
+   wifi-condom
    kernel-debugging
 
 ==================
