@@ -27,7 +27,7 @@ After installation and gaining access (ethernet, static IP, etc), I created a Wi
 
 From a google search, I was under the impression that the Pi could simultaneously transmit and connect to a wireless network,
 but when I tried that, it was incredibly unreliable and dropped wireless constantly. I got back in and disabled that, and then added a USB wifi adapter.
-Unfortunately, it wasn't detected out of the box, and I had to install the kernel drivers (opkg update && opkg install kmod-rt2x00-usb).
+Unfortunately, it wasn't detected out of the box, and I had to install the kernel drivers (opkg update && opkg install kmod-rt2800-usb).
 
 Once that was done, I could connect the wifi and also run the wifi address simultaneously.
 
@@ -66,7 +66,7 @@ Misc
 * MSS Clamping: Under Network > Firewall, click -edit- beside the LAN -> VPN zone. The MSS Clamping toggle is in there
    * This is required to make it more reliable (Reddit app showed this problem initially)
 
-* Wireguard failure to re-connect. Still have no idea what the cause of this is, and I have to restart the WG server side.
+* ~~Wireguard failure to re-connect. Still have no idea what the cause of this is, and I have to restart the WG server side.~~ - Fixed in 22.03
 
 Conclusion
 ----------
