@@ -19,7 +19,7 @@ The main goals were:
 Starting Point
 --------------
 
-Started with a raspberry pi 3.
+Started with a Raspberry Pi 3.
 
 Firmware: https://openwrt.org/toh/raspberry_pi_foundation/raspberry_pi#installation
 
@@ -66,7 +66,17 @@ Misc
 * MSS Clamping: Under Network > Firewall, click -edit- beside the LAN -> VPN zone. The MSS Clamping toggle is in there
    * This is required to make it more reliable (Reddit app showed this problem initially)
 
-* ~~Wireguard failure to re-connect. Still have no idea what the cause of this is, and I have to restart the WG server side.~~ - Fixed in 22.03
+* Wireguard failure to re-connect. Still have no idea what the cause of this is, and I have to restart the WG server side.
+   * Caused by anti-replay on the wireguard server.
+   * Fix is to restart wireguard after NTP sync: https://forum.openwrt.org/t/initiate-wireguard-after-ntp-success/14751/2
+
+     .. code-block:: none
+
+         mkdir -p /etc/hotplug.d/ntp
+         cat <<EOT > /etc/hotplug.d/ntp/90-wireguard
+         #!/bin/sh
+         [ \$ACTION = stratum ] && /etc/init.d/wireguard restart
+         EOT
 
 Conclusion
 ----------
