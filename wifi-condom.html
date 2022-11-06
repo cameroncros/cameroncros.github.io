@@ -1,0 +1,201 @@
+
+<!DOCTYPE html>
+
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="generator" content="Docutils 0.19: https://docutils.sourceforge.io/" />
+
+    <title>Hotel Wifi Condom &#8212; Cameron&#39;s Braindump 1.0 documentation</title>
+    <link rel="stylesheet" type="text/css" href="_static/pygments.css" />
+    <link rel="stylesheet" type="text/css" href="_static/alabaster.css" />
+    <script data-url_root="./" id="documentation_options" src="_static/documentation_options.js"></script>
+    <script src="_static/jquery.js"></script>
+    <script src="_static/underscore.js"></script>
+    <script src="_static/_sphinx_javascript_frameworks_compat.js"></script>
+    <script src="_static/doctools.js"></script>
+    <script src="_static/sphinx_highlight.js"></script>
+    <link rel="index" title="Index" href="genindex.html" />
+    <link rel="search" title="Search" href="search.html" />
+    <link rel="next" title="Kernel Debugging with KVM and Ubuntu VM" href="kernel-debugging.html" />
+    <link rel="prev" title="Welcome to Camerons Braindump!" href="index.html" />
+   
+  <link rel="stylesheet" href="_static/custom.css" type="text/css" />
+  
+  
+  <meta name="viewport" content="width=device-width, initial-scale=0.9, maximum-scale=0.9" />
+
+  </head><body>
+  
+
+    <div class="document">
+      <div class="documentwrapper">
+        <div class="bodywrapper">
+          
+
+          <div class="body" role="main">
+            
+  <section id="hotel-wifi-condom">
+<h1>Hotel Wifi Condom<a class="headerlink" href="#hotel-wifi-condom" title="Permalink to this heading">¶</a></h1>
+<section id="background">
+<h2>Background<a class="headerlink" href="#background" title="Permalink to this heading">¶</a></h2>
+<p>I recently needed to go on holiday, and was staying in a hotel with WiFi. Out of an abundance of paranoia, I decided to try setup a “router” that could sit between my devices and the hotel network.</p>
+</section>
+<section id="goals">
+<h2>Goals<a class="headerlink" href="#goals" title="Permalink to this heading">¶</a></h2>
+<p>The main goals were:</p>
+<ul class="simple">
+<li><p>Setup a NAT’d environment, so the hotel wifi cannot see my devices directly</p></li>
+<li><p>Connect to the hotel Wifi OR ethernet</p></li>
+<li><p>The auxiliary goals were:</p></li>
+<li><p>Tunnel all traffic through Wireguard or similar VPN.</p></li>
+</ul>
+</section>
+<section id="starting-point">
+<h2>Starting Point<a class="headerlink" href="#starting-point" title="Permalink to this heading">¶</a></h2>
+<p>Started with a Raspberry Pi 3.</p>
+<p>Firmware: <a class="reference external" href="https://openwrt.org/toh/raspberry_pi_foundation/raspberry_pi#installation">https://openwrt.org/toh/raspberry_pi_foundation/raspberry_pi#installation</a></p>
+<p>After installation and gaining access (ethernet, static IP, etc), I created a WiFi network and gave it appropriate security.</p>
+<p>From a google search, I was under the impression that the Pi could simultaneously transmit and connect to a wireless network,
+but when I tried that, it was incredibly unreliable and dropped wireless constantly. I got back in and disabled that, and then added a USB wifi adapter.
+Unfortunately, it wasn’t detected out of the box, and I had to install the kernel drivers (opkg update &amp;&amp; opkg install kmod-rt2800-usb).</p>
+<p>Once that was done, I could connect the wifi and also run the wifi address simultaneously.</p>
+<p>I then moved the ethernet to the WAN zone, and made it a DHCP client.</p>
+<img alt="_images/WifiNetwork.PNG" src="_images/WifiNetwork.PNG" />
+<p>When I arrive at the hotel, I could use the the radio1 “Scan” button to add the hotel wireless. (In practice, this wasn’t very useful, as the hotel wifi was garbage. It did work, it was just super slow. I used ethernet instead).</p>
+</section>
+<section id="travelmate">
+<h2>TravelMate<a class="headerlink" href="#travelmate" title="Permalink to this heading">¶</a></h2>
+<p>Github Docs: <a class="reference external" href="https://github.com/openwrt/packages/blob/master/net/travelmate/files/README.md">https://github.com/openwrt/packages/blob/master/net/travelmate/files/README.md</a></p>
+<div class="highlight-none notranslate"><div class="highlight"><pre><span></span>opkg update &amp;&amp; opkg install travelmate luci-app-travelmate
+</pre></div>
+</div>
+<p>Use this for connecting to wireless networks. Easier to manage, and can deal with captive portals.
+To do captive portals properly, you have to disable wireguard/VPN and allow traffic to go directly to the wireless network, complete the captive portal, and then re-enable VPN. Travelmate can supposably handle the VPN, but I dont know how this works.</p>
+</section>
+<section id="usb-tethering">
+<h2>USB Tethering<a class="headerlink" href="#usb-tethering" title="Permalink to this heading">¶</a></h2>
+<p>Follow: <a class="reference external" href="https://openwrt.org/docs/guide-user/network/wan/smartphone.usb.tethering">https://openwrt.org/docs/guide-user/network/wan/smartphone.usb.tethering</a></p>
+</section>
+<section id="wireguard">
+<h2>Wireguard<a class="headerlink" href="#wireguard" title="Permalink to this heading">¶</a></h2>
+<p>I already have a wireguard server that I use as a VPN. I created another set of keys for my “Travel router”, and then used the config on the router.</p>
+<p>Install wireguard:</p>
+<div class="highlight-none notranslate"><div class="highlight"><pre><span></span>opkg update &amp;&amp; opkg install luci-app-wireguard
+</pre></div>
+</div>
+<p>Add a wireguard interface, using the config from the server to set it up. Add a VPN Zone and put the wireguard interface into it.
+Firewall and Routing
+Zones were setup like:</p>
+<img alt="_images/Zones.PNG" src="_images/Zones.PNG" />
+<p>VPN was the Wireguard zone, WAN and LAN are the default zones. (I am not an expert, this may not be correct, but it does work).</p>
+<img alt="_images/Routes.PNG" src="_images/Routes.PNG" />
+</section>
+<section id="misc">
+<h2>Misc<a class="headerlink" href="#misc" title="Permalink to this heading">¶</a></h2>
+<ul>
+<li><p>Disable SSH and WebUI from the WAN interfaces.</p></li>
+<li><p>Statistics??</p></li>
+<li><dl class="simple">
+<dt>MSS Clamping: Under Network &gt; Firewall, click -edit- beside the LAN -&gt; VPN zone. The MSS Clamping toggle is in there</dt><dd><ul class="simple">
+<li><p>This is required to make it more reliable (Reddit app showed this problem initially)</p></li>
+</ul>
+</dd>
+</dl>
+</li>
+<li><dl>
+<dt>Wireguard failure to re-connect. Still have no idea what the cause of this is, and I have to restart the WG server side.</dt><dd><ul>
+<li><p>Caused by anti-replay on the wireguard server.</p></li>
+<li><p>Fix is to restart wireguard after NTP sync: <a class="reference external" href="https://forum.openwrt.org/t/initiate-wireguard-after-ntp-success/14751/2">https://forum.openwrt.org/t/initiate-wireguard-after-ntp-success/14751/2</a></p>
+<div class="highlight-none notranslate"><div class="highlight"><pre><span></span>mkdir -p /etc/hotplug.d/ntp
+cat &lt;&lt;EOT &gt; /etc/hotplug.d/ntp/90-wireguard
+#!/bin/sh
+[ \$ACTION = stratum ] &amp;&amp; /etc/init.d/wireguard restart
+EOT
+</pre></div>
+</div>
+</li>
+</ul>
+</dd>
+</dl>
+</li>
+</ul>
+</section>
+<section id="conclusion">
+<h2>Conclusion<a class="headerlink" href="#conclusion" title="Permalink to this heading">¶</a></h2>
+<p>This seems to have worked so far, and I wrote this via the PiWifiCondom.</p>
+<p>Whether it is as secure as I would like, I am not sure, but it definitely seems better than just raw dogging a random wifi network.</p>
+</section>
+</section>
+
+
+          </div>
+          
+        </div>
+      </div>
+      <div class="sphinxsidebar" role="navigation" aria-label="main navigation">
+        <div class="sphinxsidebarwrapper">
+<h1 class="logo"><a href="index.html">Cameron's Braindump</a></h1>
+
+
+
+
+
+
+
+
+<h3>Navigation</h3>
+<p class="caption" role="heading"><span class="caption-text">Table of Contents:</span></p>
+<ul class="current">
+<li class="toctree-l1 current"><a class="current reference internal" href="#">Hotel Wifi Condom</a></li>
+<li class="toctree-l1"><a class="reference internal" href="kernel-debugging.html">Kernel Debugging with KVM and Ubuntu VM</a></li>
+</ul>
+
+<div class="relations">
+<h3>Related Topics</h3>
+<ul>
+  <li><a href="index.html">Documentation overview</a><ul>
+      <li>Previous: <a href="index.html" title="previous chapter">Welcome to Camerons Braindump!</a></li>
+      <li>Next: <a href="kernel-debugging.html" title="next chapter">Kernel Debugging with KVM and Ubuntu VM</a></li>
+  </ul></li>
+</ul>
+</div>
+<div id="searchbox" style="display: none" role="search">
+  <h3 id="searchlabel">Quick search</h3>
+    <div class="searchformwrapper">
+    <form class="search" action="search.html" method="get">
+      <input type="text" name="q" aria-labelledby="searchlabel" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false"/>
+      <input type="submit" value="Go" />
+    </form>
+    </div>
+</div>
+<script>document.getElementById('searchbox').style.display = "block"</script>
+
+
+
+
+
+
+
+
+        </div>
+      </div>
+      <div class="clearer"></div>
+    </div>
+    <div class="footer">
+      &copy;2022, Cameron Cross.
+      
+      |
+      Powered by <a href="http://sphinx-doc.org/">Sphinx 5.3.0</a>
+      &amp; <a href="https://github.com/bitprophet/alabaster">Alabaster 0.7.12</a>
+      
+      |
+      <a href="_sources/wifi-condom.rst.txt"
+          rel="nofollow">Page source</a>
+    </div>
+
+    
+
+    
+  </body>
+</html>

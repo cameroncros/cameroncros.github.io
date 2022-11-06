@@ -1,0 +1,231 @@
+
+<!DOCTYPE html>
+
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="generator" content="Docutils 0.19: https://docutils.sourceforge.io/" />
+
+    <title>Kernel Debugging with KVM and Ubuntu VM &#8212; Cameron&#39;s Braindump 1.0 documentation</title>
+    <link rel="stylesheet" type="text/css" href="_static/pygments.css" />
+    <link rel="stylesheet" type="text/css" href="_static/alabaster.css" />
+    <script data-url_root="./" id="documentation_options" src="_static/documentation_options.js"></script>
+    <script src="_static/jquery.js"></script>
+    <script src="_static/underscore.js"></script>
+    <script src="_static/_sphinx_javascript_frameworks_compat.js"></script>
+    <script src="_static/doctools.js"></script>
+    <script src="_static/sphinx_highlight.js"></script>
+    <link rel="index" title="Index" href="genindex.html" />
+    <link rel="search" title="Search" href="search.html" />
+    <link rel="prev" title="Hotel Wifi Condom" href="wifi-condom.html" />
+   
+  <link rel="stylesheet" href="_static/custom.css" type="text/css" />
+  
+  
+  <meta name="viewport" content="width=device-width, initial-scale=0.9, maximum-scale=0.9" />
+
+  </head><body>
+  
+
+    <div class="document">
+      <div class="documentwrapper">
+        <div class="bodywrapper">
+          
+
+          <div class="body" role="main">
+            
+  <section id="kernel-debugging-with-kvm-and-ubuntu-vm">
+<h1>Kernel Debugging with KVM and Ubuntu VM<a class="headerlink" href="#kernel-debugging-with-kvm-and-ubuntu-vm" title="Permalink to this heading">¶</a></h1>
+<p>Create VM and install as per usual, I used a server variant for simplicity.
+Give plenty of disk space and resources, the debug kernels and sources take up a lot of space.</p>
+<section id="configure-vm">
+<h2>Configure VM<a class="headerlink" href="#configure-vm" title="Permalink to this heading">¶</a></h2>
+<p>Using virt-manager, edit the VM xml:</p>
+<p>Set the first line to:</p>
+<div class="highlight-xml notranslate"><div class="highlight"><pre><span></span><span class="nt">&lt;domain</span> <span class="na">type=</span><span class="s">&quot;kvm&quot;</span> <span class="na">xmlns:qemu=</span><span class="s">&#39;http://libvirt.org/schemas/domain/qemu/1.0&#39;</span><span class="nt">&gt;</span>
+</pre></div>
+</div>
+<p>Then add:</p>
+<div class="highlight-xml notranslate"><div class="highlight"><pre><span></span><span class="nt">&lt;qemu:commandline&gt;</span>
+     <span class="nt">&lt;qemu:arg</span> <span class="na">value=</span><span class="s">&#39;-s&#39;</span><span class="nt">/&gt;</span>
+<span class="nt">&lt;/qemu:commandline&gt;</span>
+</pre></div>
+</div>
+<p>Alternatively, to specify the port:</p>
+<div class="highlight-xml notranslate"><div class="highlight"><pre><span></span><span class="nt">&lt;qemu:commandline&gt;</span>
+    <span class="nt">&lt;qemu:arg</span> <span class="na">value=</span><span class="s">&#39;-gdb&#39;</span><span class="nt">/&gt;</span>
+    <span class="nt">&lt;qemu:arg</span> <span class="na">value=</span><span class="s">&#39;tcp::1235&#39;</span><span class="nt">/&gt;</span>
+<span class="nt">&lt;/qemu:commandline&gt;</span>
+</pre></div>
+</div>
+<p>Save and reboot.</p>
+</section>
+<section id="configure-grub-kernel">
+<h2>Configure grub/kernel<a class="headerlink" href="#configure-grub-kernel" title="Permalink to this heading">¶</a></h2>
+<p>Open <cite>/etc/defaults/grub</cite>
+Set the following:</p>
+<div class="highlight-none notranslate"><div class="highlight"><pre><span></span>GRUB_CMDLINE_LINUX_DEFAULT=&quot;console=ttyS0,115200 nokaslr nosmap nosmep&quot;
+GRUB_CMDLINE_LINUX=&quot;console=ttyS0,115200 nokaslr nosmap nosmep&quot;
+</pre></div>
+</div>
+<p>Then:</p>
+<div class="highlight-none notranslate"><div class="highlight"><pre><span></span>sudo update-grub &amp;&amp; reboot
+</pre></div>
+</div>
+</section>
+<section id="download-debug-symbols">
+<h2>Download Debug Symbols<a class="headerlink" href="#download-debug-symbols" title="Permalink to this heading">¶</a></h2>
+<p>On the target VM:</p>
+<div class="highlight-none notranslate"><div class="highlight"><pre><span></span>sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys C8CAB6595FDFF622
+codename=$(lsb_release -c | awk  &#39;{print $2}&#39;)
+sudo tee /etc/apt/sources.list.d/ddebs.list &lt;&lt; EOF
+deb http://ddebs.ubuntu.com/ ${codename}      main restricted universe multiverse
+deb http://ddebs.ubuntu.com/ ${codename}-security main restricted universe multiverse
+deb http://ddebs.ubuntu.com/ ${codename}-updates  main restricted universe multiverse
+deb http://ddebs.ubuntu.com/ ${codename}-proposed main restricted universe multiverse
+EOF
+sudo apt update
+sudo apt install linux-image-$(uname -r)-dbgsym
+</pre></div>
+</div>
+<p>On the Host:</p>
+<div class="highlight-none notranslate"><div class="highlight"><pre><span></span>mkdir temp
+cd temp
+scp -r user@host:/usr/lib/debug/boot/* ./
+</pre></div>
+</div>
+</section>
+<section id="download-kernel-source">
+<h2>Download Kernel Source<a class="headerlink" href="#download-kernel-source" title="Permalink to this heading">¶</a></h2>
+<p>On the target VM:</p>
+<div class="highlight-none notranslate"><div class="highlight"><pre><span></span>sudo cp /etc/apt/sources.list /etc/apt/sources.list~
+sudo sed -Ei &#39;s/^# deb-src /deb-src /&#39; /etc/apt/sources.list
+sudo apt-get update
+sudo apt install dpkg-dev
+sudo apt-get source linux-image-unsigned-$(uname -r)
+</pre></div>
+</div>
+<p>On the Host:</p>
+<div class="highlight-none notranslate"><div class="highlight"><pre><span></span>mkdir temp
+cd temp
+scp -r user@host:/linux-* ./
+</pre></div>
+</div>
+</section>
+<section id="gdb-config">
+<h2>GDB config<a class="headerlink" href="#gdb-config" title="Permalink to this heading">¶</a></h2>
+<p>Edit <cite>~/.gdbinit</cite>:</p>
+<div class="highlight-none notranslate"><div class="highlight"><pre><span></span>file vmlinux-5.15.0-46-generic
+set substitute-path /build/linux-22xc9F/ /home/cameron/temp/
+target remote 127.0.0.1:1234
+set debuginfod enabled on
+# Set breakpoints here, or at runtime
+c
+</pre></div>
+</div>
+</section>
+<section id="start-debugging">
+<h2>Start debugging<a class="headerlink" href="#start-debugging" title="Permalink to this heading">¶</a></h2>
+<p>If you have configured .gdbinit correctly, you should be able to just run:</p>
+<div class="highlight-none notranslate"><div class="highlight"><pre><span></span>gdb
+</pre></div>
+</div>
+<p>If not, you may need to run the given commands at runtime.</p>
+</section>
+<section id="troubleshooting">
+<h2>Troubleshooting<a class="headerlink" href="#troubleshooting" title="Permalink to this heading">¶</a></h2>
+<section id="cannot-insert-breakpoint">
+<h3>Cannot insert breakpoint<a class="headerlink" href="#cannot-insert-breakpoint" title="Permalink to this heading">¶</a></h3>
+<section id="symptom">
+<h4>Symptom:<a class="headerlink" href="#symptom" title="Permalink to this heading">¶</a></h4>
+<div class="highlight-none notranslate"><div class="highlight"><pre><span></span>Warning:
+Cannot insert breakpoint 1.
+Cannot access memory at address 0xffffffff81b71071
+</pre></div>
+</div>
+</section>
+<section id="solution">
+<h4>Solution:<a class="headerlink" href="#solution" title="Permalink to this heading">¶</a></h4>
+<p>KASLR is enabled, make sure to properly disable it in the grub settings.</p>
+</section>
+</section>
+</section>
+<section id="sources">
+<h2>Sources:<a class="headerlink" href="#sources" title="Permalink to this heading">¶</a></h2>
+<ul class="simple">
+<li><p><a class="reference external" href="https://www.redhat.com/en/blog/debugging-kernel-qemulibvirt">https://www.redhat.com/en/blog/debugging-kernel-qemulibvirt</a></p></li>
+<li><p><a class="reference external" href="https://hadibrais.wordpress.com/2017/03/13/installing-ubuntu-kernel-debugging-symbols/">https://hadibrais.wordpress.com/2017/03/13/installing-ubuntu-kernel-debugging-symbols/</a></p></li>
+</ul>
+</section>
+</section>
+
+
+          </div>
+          
+        </div>
+      </div>
+      <div class="sphinxsidebar" role="navigation" aria-label="main navigation">
+        <div class="sphinxsidebarwrapper">
+<h1 class="logo"><a href="index.html">Cameron's Braindump</a></h1>
+
+
+
+
+
+
+
+
+<h3>Navigation</h3>
+<p class="caption" role="heading"><span class="caption-text">Table of Contents:</span></p>
+<ul class="current">
+<li class="toctree-l1"><a class="reference internal" href="wifi-condom.html">Hotel Wifi Condom</a></li>
+<li class="toctree-l1 current"><a class="current reference internal" href="#">Kernel Debugging with KVM and Ubuntu VM</a></li>
+</ul>
+
+<div class="relations">
+<h3>Related Topics</h3>
+<ul>
+  <li><a href="index.html">Documentation overview</a><ul>
+      <li>Previous: <a href="wifi-condom.html" title="previous chapter">Hotel Wifi Condom</a></li>
+  </ul></li>
+</ul>
+</div>
+<div id="searchbox" style="display: none" role="search">
+  <h3 id="searchlabel">Quick search</h3>
+    <div class="searchformwrapper">
+    <form class="search" action="search.html" method="get">
+      <input type="text" name="q" aria-labelledby="searchlabel" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false"/>
+      <input type="submit" value="Go" />
+    </form>
+    </div>
+</div>
+<script>document.getElementById('searchbox').style.display = "block"</script>
+
+
+
+
+
+
+
+
+        </div>
+      </div>
+      <div class="clearer"></div>
+    </div>
+    <div class="footer">
+      &copy;2022, Cameron Cross.
+      
+      |
+      Powered by <a href="http://sphinx-doc.org/">Sphinx 5.3.0</a>
+      &amp; <a href="https://github.com/bitprophet/alabaster">Alabaster 0.7.12</a>
+      
+      |
+      <a href="_sources/kernel-debugging.rst.txt"
+          rel="nofollow">Page source</a>
+    </div>
+
+    
+
+    
+  </body>
+</html>
