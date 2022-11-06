@@ -37,6 +37,23 @@ I then moved the ethernet to the WAN zone, and made it a DHCP client.
 
 When I arrive at the hotel, I could use the the radio1 "Scan" button to add the hotel wireless. (In practice, this wasn't very useful, as the hotel wifi was garbage. It did work, it was just super slow. I used ethernet instead).
 
+TravelMate
+----------
+
+Github Docs: https://github.com/openwrt/packages/blob/master/net/travelmate/files/README.md
+
+.. code-block:: none
+
+   opkg update && opkg install travelmate luci-app-travelmate
+
+Use this for connecting to wireless networks. Easier to manage, and can deal with captive portals.
+To do captive portals properly, you have to disable wireguard/VPN and allow traffic to go directly to the wireless network, complete the captive portal, and then re-enable VPN. Travelmate can supposably handle the VPN, but I dont know how this works.
+
+USB Tethering
+-------------
+
+Follow: https://openwrt.org/docs/guide-user/network/wan/smartphone.usb.tethering
+
 Wireguard
 ---------
 
